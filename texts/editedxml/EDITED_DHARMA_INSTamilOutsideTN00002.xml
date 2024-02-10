@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kōlār, Kōlārammā Temple, time of Veṭṭumṃāra-pāṇaṉ, no year</title>
+            <title>Kōlār, Kōlārammā Temple, time of Veṭṭumārapāṇaṉ, no year</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:emfr">
@@ -48,11 +48,12 @@
                   <!-- don't modify this -->
                </msIdentifier>
                <msContents>
-                  <summary>Construction of a <foreign>maṇḍapa</foreign>.</summary>
+                  <summary>Tax exemptions.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p/>
+                     <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                     <p>Letter <foreign>na</foreign> regularly found instead of expected <foreign>ṉa</foreign>.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -94,19 +95,22 @@
 	</ab>
 	
 	<p>
-		...
-		<lb n="2"/>...
-		<lb n="6"/>...
+		kuvaḷāla-pura-parame<hi rend="grantha">śvara</hi>ṉ kaṅka-kulōṟpavaṉ kā
+		<lb n="2" break="no"/>vēri-valla<hi rend="grantha">bha</hi>ṉ na<hi rend="grantha">ndigi</hi>ri-nā<hi rend="grantha">tha</hi>ṉ Uttama-cōḻa-k-kaṅka<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a veṭṭummāra
+		<lb n="3" break="no"/>pāṇa<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ kuvaḷāla-nācciyār tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>aṅkaḷilum tēvarkaḷ tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>aṅka
+		<lb n="4" break="no"/><unclear>ḷi</unclear>lum maṟṟuṅ kuvaḷāla-nāṭṭil-uḷḷa tēvarkaḷ tēvatāṉaṅkaḷilun tiruviṭai
+		<lb n="5" break="no"/>yāṭṭam paḷḷiccantaṅkaḷilum-uḷḷa ṉila-vari Aviccu-p-pāṭ=ṭamum maṉai-paṇamum vā
+		<lb n="6"/>la-paṇamu maṟṟ’ uḷḷa varivukaḷum viṭṭēṉ
 	</p>
 	
 	<p>
-		...
-		<lb n="7"/>...
+		It-ta<hi rend="grantha"><unclear>n·</unclear></hi>mattai y-a<choice><orig>ṟ</orig><reg>r</reg></choice>akkuṉāṉ ke<hi rend="grantha">ṃ</hi>kai-k-ka
+		<lb n="7" break="no"/>raiyiṟ kurāṟ pacuvai-k konṟān <choice><sic>pirama</sic><corr>pā</corr></choice>vatt<unclear>i</unclear>yilē viḻuvā<choice><orig>n</orig><reg>ṉ</reg></choice> <g type="gomutraFinal">.</g>
 	</p>
 	
 	<p>
-		...
-		<lb n="8"/>...
+		Itu pa<hi rend="grantha">n-māhēśvara-
+		<lb n="8" break="no"/>rakṣai</hi> <g type="gomutraFinal">.</g>
 	</p>
 	
 	<p>
@@ -121,15 +125,44 @@
          
 <div type="apparatus">
 	
-	<!--<listApp>
+	<listApp>
 		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Rice1905_01">...</rdg>
+		<app loc="3">
+			<lem>pāṇa<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ</lem>
+			<rdg source="bib:Rice1905_01">pāṇaneṉa</rdg>
 		</app>		
-				
+			
+		<app loc="3">
+			<lem>tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>aṅka<lb n="4" break="no"/><unclear>ḷi</unclear>lum</lem>
+			<rdg source="bib:Rice1905_01">tēvatānaṅka<lb n="4" break="no"/>ḷilum</rdg>
+		</app>		
+			
+		<app loc="5">
+			<lem>vā<lb n="6"/>la-paṇamu</lem>
+			<rdg source="bib:Rice1905_01">vā<lb n="6"/><gap reason="lost" quantity="1" unit="character"/>paṇamu</rdg>
+		</app>		
+			
+		<app loc="6">
+			<lem>It-ta<hi rend="grantha"><unclear>n·</unclear></hi>mattai</lem>
+			<rdg source="bib:Rice1905_01">Ittanmattai</rdg>
+		</app>
 		
-	</listApp>-->
+		<app loc="7">
+			<lem>piramavatt<unclear>i</unclear>yilē</lem>
+			<rdg source="bib:Rice1905_01">piramavattiyilē</rdg>
+		</app>		
+		
+		<app loc="7">
+			<lem><g type="gomutraFinal">.</g></lem>
+			<rdg source="bib:Rice1905_01">āka</rdg>
+		</app>		
+		
+		<app loc="8">
+			<lem><g type="gomutraFinal">.</g></lem>
+			<rdg source="bib:Rice1905_01"><gap reason="lost" quantity="2" unit="character"/></rdg>
+		</app>					
+		
+	</listApp>
 </div>
          
 <div type="translation" resp="part:emfr">
@@ -139,15 +172,15 @@
 	</p>
 	
 	<p n="1-6">
-		...
+		I, Veṭṭummārapāṇaṉ, ... have given ...
 	</p>
 	
 	<p n="6-7">
-		...
+		He who does harm <supplied reason="explanation"><foreign>aṟrakkuṉāṉ</foreign></supplied> to this pious donation <supplied reason="explanation"><foreign>it-ta<hi rend="grantha"><unclear>n·</unclear></hi>mattai</foreign></supplied> will fall into the sin <supplied reason="explanation"><foreign><corr>pā</corr>vatt<unclear>i</unclear>yilē</foreign></supplied> of he who kills a tawny cow on the bank of the Ganges.
 	</p>
 		
 	<p n="7-8">
-		...
+		This <supplied reason="subaudible">donation is under</supplied> the protection of the Paṉmāheśvaras.
 	</p>
 		
 	<p n="8">
@@ -169,11 +202,14 @@
 	
 	<p>Revised edition for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on EFEO pictures (2004).</p>
 	
-	<bibl n="EC">
-		<ptr target="bib:Rice1905_01"/>
-		<citedRange unit="item">Kl 110</citedRange>
-	</bibl>	
+	<listBibl type="primary">
 		
+		<bibl n="EC">
+			<ptr target="bib:Rice1905_01"/>
+			<citedRange unit="item">Kl 110</citedRange>
+		</bibl>
+	</listBibl>
+			
 	<!--
 	<listBibl type="secondary">
 		<bibl/>
