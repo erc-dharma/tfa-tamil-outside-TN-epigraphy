@@ -13,14 +13,14 @@
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
-						<surname>francis</surname>
+						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
-						<surname>francis</surname>
+						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
@@ -80,7 +80,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2024-12-08">Creation of the file</change>
+			<change who="part:emfr" when="2024-02-08">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 
