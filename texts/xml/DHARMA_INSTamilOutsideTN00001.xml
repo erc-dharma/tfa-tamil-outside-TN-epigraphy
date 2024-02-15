@@ -55,7 +55,7 @@
 							<p>Medial <foreign>i</foreign> and <foreign>ī</foreign>.</p>
 							<p>Medial <foreign>u</foreign> and <foreign>ū</foreign> interchangeable.</p>
 							<p>Letter <foreign>ṉa</foreign> with long vertical stroke.</p>
-							<p>Sanskrit spelling influenced by the Dravidian substrate.</p>				
+							<p>Sanskrit spelling influenced by the Dravidian substrate.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -113,17 +113,17 @@
 			<rdg source="bib:Rice1905_01">...</rdg>
 		</app>-->
 		
-		<app loc="2">
+		<app loc="1">
 			<lem><hi rend="grantha">pa<supplied reason="omitted">r</supplied>vva<choice><orig>d</orig><reg>t</reg></choice>a</hi>m</lem>
 			<rdg source="bib:Rice1905_01"><hi rend="grantha">pavvada</hi>m</rdg>
 		</app>
 		
-		<app loc="2">
+		<app loc="1">
 			<lem><hi rend="grantha">tripu</hi>vaṉaiyaṉ</lem>
 			<rdg source="bib:Rice1905_01"><hi rend="grantha">tri</hi>puvaṉaiyaṉ</rdg>
 		</app>
 		
-		<app loc="2">
+		<app loc="1">
 			<lem>c<choice><orig>u</orig><reg>ū</reg></choice>ḻkal</lem>
 			<rdg source="bib:Rice1905_01">cūḻkal</rdg>
 		</app>
