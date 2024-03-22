@@ -23,7 +23,7 @@ jobs:
            java-version: '17'
        - name: Merge master
          run: |
-           git merge master
+           git merge origin/master
        - name: Build with Ant
          run: ant -noinput -buildfile build.xml
 
