@@ -41,5 +41,5 @@ jobs:
           git config user.email github-actions@github.com
           git add texts/
           git add metadata/
-          git commit -m "XML files are edited according to editorial conventions"
+          git commit -m "XML files are edited according to editorial conventions" || true
           git push
