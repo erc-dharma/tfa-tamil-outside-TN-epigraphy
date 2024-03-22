@@ -19,7 +19,7 @@ jobs:
            distribution: 'zulu'
            java-version: '17'
        - name: Check out github-pages
-       - run: |
+         run: |
            git checkout github-pages
            git merge master
        - name: Build with Ant
