@@ -19,6 +19,10 @@
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
+					<persName ref="part:matr">
+						<forename>Margherita</forename>
+						<surname>Trento</surname>
+					</persName>
 					<persName ref="part:sass">
 						<name>S.A.S. Sarma</name>
 					</persName>
@@ -35,6 +39,10 @@
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
+					</persName>
+					<persName ref="part:matr">
+						<forename>Margherita</forename>
+						<surname>Trento</surname>
 					</persName>
 					<persName ref="part:sass">
 						<name>S.A.S. Sarma</name>
@@ -134,30 +142,34 @@
 	
 	</div>
 
-<!--<div type="commentary">
+<div type="commentary">
            
-         </div>-->
-
+           <p>This record forms a pair with EC 10 Kl 106d = <ref target="DHARMA_INSTamilOutsideTN00004">TamilOutsideTN00004</ref>, another record in the same place.</p>
+	
+</div>
+        	
 <div type="bibliography">
 	
-	<p>First edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 106d; EC 10 Kl 108).</p>
+	<p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 108).</p>
 	
-	<p>Revised edition for DHARMA (ERC n° 809994) by Renato Davalos, Emmanuel Francis, S.A.S. Sarma, Vigneshwaran Muralidaran (2024), based on EFEO pictures (2004, 2017).</p>
+	<p>Edited here by Renato Davalos, Emmanuel Francis, Margherita Trento, S.A.S. Sarma, Vigneshwaran Muralidaran (2024), based on EFEO pictures (2004, 2017).</p>
 	
 	<listBibl type="primary">
 		
 		<bibl n="EC">
 			<ptr target="bib:Rice1905_01"/>
-			<citedRange unit="item">Kl 106d</citedRange>
 			<citedRange unit="item">Kl 108</citedRange>
 		</bibl>		
 		
-	</listBibl>
-			
-	<!--
+	</listBibl>			
+	
 	<listBibl type="secondary">
-		<bibl/>
-	</listBibl>-->
+		
+		<bibl>
+			<ptr target="bib:Cox2016_01"/>
+		</bibl>	
+		
+	</listBibl>
 </div>
       </body>
   </text>
