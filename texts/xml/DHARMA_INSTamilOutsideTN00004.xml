@@ -10,7 +10,7 @@
 			<titleStmt>
 				<title>Kōlār, Kōlārammā Temple, no king, no year</title>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>
+					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:reda">
 						<forename>Renato</forename>
 						<surname>Davalos</surname>
@@ -31,24 +31,10 @@
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Davalos</surname>
-					</persName>
+					<resp>EpiDoc Encoding</resp>					
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
-					</persName>
-					<persName ref="part:matr">
-						<forename>Margherita</forename>
-						<surname>Trento</surname>
-					</persName>
-					<persName ref="part:sass">
-						<name>S.A.S. Sarma</name>
-					</persName>
-					<persName ref="part:vimu">
-						<name>Vigneshwaran Muralidaran</name>
 					</persName>
 				</respStmt>
 			</titleStmt>
@@ -144,7 +130,7 @@
 
 <div type="commentary">
            
-            <p>This record forms a pair with EC 10 Kl 108 = <ref target="DHARMA_INSTamilOutsideTN00003">TamilOutsideTN00003</ref>, another record in the same place. It is thus likewise to be dated to the time of Rājendra Cōḻa, year 20.</p>
+            <p>This record forms a pair with EC 10 Kl 108 = <ref target="DHARMA_INSTamilOutsideTN00003">Tamil outside TN 3</ref>, another record in the same place. It is thus likewise to be dated to the time of Rājendra Cōḻa, year 20.</p>
 
 </div>
         	
@@ -152,7 +138,7 @@
 	
 	<p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 106d).</p>
 	
-	<p>Edited here by Renato Davalos, Emmanuel Francis, Margherita Trento, S.A.S. Sarma, Vigneshwaran Muralidaran (2024), based on EFEO pictures (2004, 2017).</p>
+	<p>This edition by Renato Davalos, Emmanuel Francis, Margherita Trento, S.A.S. Sarma, Vigneshwaran Muralidaran (2024), based on EFEO pictures (2004, 2017).</p>
 	
 	<listBibl type="primary">
 		

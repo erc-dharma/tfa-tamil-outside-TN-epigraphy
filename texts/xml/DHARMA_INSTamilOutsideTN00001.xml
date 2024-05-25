@@ -154,9 +154,8 @@
 
 <div type="bibliography">
 	
-	<p>First edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 115) (5 epigraphical lines).</p>
-	
-	<p>Revised edition for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on EFEO pictures (2017).</p>
+	<p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 115) (5 epigraphical lines).</p>	
+	<p>This edition by Emmanuel Francis (2024), based on EFEO pictures (2017).</p>
 	
 	<bibl n="EC">
 		<ptr target="bib:Rice1905_01"/>
