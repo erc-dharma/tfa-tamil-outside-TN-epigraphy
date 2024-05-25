@@ -101,6 +101,8 @@
 <body>
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            	
+	
+	<!--Edition after Rice-->
 
 	<p>
 		<lb n="1"/>
@@ -120,7 +122,7 @@
 	</listApp>
 </div>-->
          
-<div type="translation" resp="part:reda part:emfr part:sass part:vimu">
+<div type="translation" resp="part:reda part:emfr part:sass part:matr part:vimu">
 
 	<p n="1">
 		...
@@ -136,7 +138,7 @@
         	
 <div type="bibliography">
 	
-	<p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 106d).</p>
+	<p>Edited (18 epigraphical lines) and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 106d).</p>
 	
 	<p>This edition by Renato Davalos, Emmanuel Francis, Margherita Trento, S.A.S. Sarma, Vigneshwaran Muralidaran (2024), based on EFEO pictures (2004, 2017).</p>
 	
