@@ -96,16 +96,181 @@
 		</revisionDesc>
 	</teiHeader>
 
-	<text xml:space="preserve">
+<text xml:space="preserve">
       
-        <body>
+<body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-            	
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<lb n="1"/>...		
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            	
+
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti śrī		
 	</ab>	
 	
+	<lg>
+		<l n="1">tiru manṉi viḷaṅkum iru-kuva (ṭaṉai)yata[n>ṉ]</l>
+		<l n="2">tōḷum vāḷun= tuṇai y-eṉa-k kē[ḻ>ḷ]a(lar)</l>
+		<l n="3">[vañca]<lb n="2" break="no"/>ṉai kaṭan=tu vayirākarattu-k</l>
+		<l n="4">kuñcara-k-kuḻām pala vāri Añcali[l*]-</l>
+		<l n="5">cakkara-kōṭṭattu-t tārā-v-aracaṉai-t</l>
+		<l n="6">tikku nikaḻa-t tiṟai koṇṭ-aruḷi</l>
+		<l n="7">Arukkaṉ utaiyatt’ [ā]caiyil irukkuṅ</l>
+		<l n="8">kamalam aṉaiya nilamakaḷ taṉṉai</l>
+		<l n="9">mu[ṉṉ>nn][i>ī](r)[k kuḷitta] <lb n="3"/> vannāḷ tirumāl</l>
+		<l n="10">āti-k kēḻal āki y-eṭu-t taṉavi</l>
+		<l n="11">yātuñ caliyā vakaiyi[(n)>ṉ]it’ eṭuttu-t</l>
+		<l n="12">taṉ kuṭai niḻalil iṉpuṟa Irutti[t>l]</l>
+		<l n="13">tikiriyum puliyun= ticai toṟu naṭāttip</l>
+		<l n="14">pukaḻun= tarumamum (p)uvi toṟum niṟutti</l>
+		<l n="15">v[i>ī]ramun= tiyākamu māṉamuṅ karuṇaiyum</l>
+		<l n="16">Urimaic c(u)[ṟṟamākap piri]<lb n="4" break="no"/>yāt</l>
+		<l n="17">tala nikaḻ jayamun= tāṉum vīṟṟirun=tu</l>
+		<l n="18">kulama‡ṇi makuṭa muṟai‡yiṟ cūṭi-t</l>
+		<l n="19">taṉ kaḻal tarāti[v>p]ar cūṭa-c ceṅ‡kōl</l>
+		<l n="20">nāva‡lam puvitoṟum naṭāttiya</l>
+	</lg>
+	
+	<p>
+		kō-<hi rend="grantha">rāja</hi>-kē<hi rend="grantha">sari</hi>-va<hi rend="grantha">nma</hi>r-āṉa
+		(Uṭ)aiyār <hi rend="grantha">śrī-rājen[t>d]ra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu Iraṇṭ-āvatu
+	</p>
+	
+	<p>
+		Atikāri[kaḷ jayaṅ-koṇṭa]
+		<lb n="5"/>cōḻa-maṇṭalattu-k kāliyūr-k-kōṭṭattu-p
+		perumpuliyūr-nāṭṭu-p p(ā)ṇṭiyam-pākkattu-p pāṇṭiyam-pākkam-uṭaiyār Ampalava[n>ṉ] tiru-p-pon=taiyār-ā[n>ṉ]a vīra-<hi rend="grantha">śi</hi>kāmaṇi-mūvēn=tavēḷār vi<hi rend="grantha">jai</hi>ya-rā<hi rend="grantha">jen[t>d]ra</hi>-maṇṭalattu-k kuvaḷāla-nā[ṭṭu] [kuvaḷāla-pura]
+		<lb n="6" break="no"/>ttu-p piṭāriyār kōyiliṉ uḷḷāl tiru-c-cuṟṟu-maṇṭapattu-k kōyiṟ karumam ārāyā v-irun=tu
+		
+		It-tēvar tēvatā[n>ṉ]am-āṉa Ūrkaḷāl van=ta māṭai nell ākki It-tēvarkkum pati-pāta-mūla-p-paṭṭ-uṭaiya [pañcācāryarkkum]
+		<lb n="7"/>pala-paṇi-nivan=takkārkkum nivan=tañ ceyta paṭi Uṇṭō v-eṉṟu
+		
+		It-tēvarkku māṭāpattiyañ ceykiṟa ka[n>ṉ]ṉāṭaka-paṇṭitaraiyum pati-pāta-mūla-p-paṭṭ-uṭai-p pañcācāriya-t-tēvakanmikaḷaiyuṅ kēṭka
+		
+		Uṭaiyār <hi rend="grantha">śrī-[rājen[t>d]ra</hi>-cō]
+		<lb n="8" break="no"/>ḻa-<hi rend="grantha">de</hi>varkku yāṇṭu iraṇṭ-āvatu varaiy(u)m nivan=tañ ceytat’ illai y-eṉ(ṟu) colla
+		
+		mēṟ-paṭiyārkaḷaiyum puravu-vari-tiṇaikaḷattu mukaveṭṭi * * * yūr-k-kōṭṭattu (A)raṇi-nilai mumm(u)ṭi-cōḻa-nallūr (Iḷai)[ya-mūvēn=ta]
+		
+		<lb n="9" break="no"/>vēḷāṉ kaṇpu * m-āṉa nirupacikāmaṇi viḻupparaiyaṉai vaiyttu-k koṭa * tu Atikārikaḷ vīracikāmaṇi-mūvēn=tavēḷar nivan=tañ ceyta paṭi
+		tēvatānam
+		kuṟuṇi nel [...]
+		<lb n="10"/>māṭai nūṟṟ’ eṇ-patt' ēḻē mūnṟu mā ||
+	</p>
+	
+	<p>		
+		parakkampaḷḷi māṭai Iru-nūṟṟu Iraṇṭē mā-kāṇi ||
+		*  r māṭai patt’ araiyē Oru mā
+		va[C]ai kaḻai * māṉṟaṉ pa * * * Eṇ-ṇūṟṟ’ oru paṟ to * * <g type="pcs">.</g>
+		
+		Āka
+		
+		<lb n="11" break="no"/> * Aiññūṟṟ’ oru patt’ ēḻē mūnṟu mākāṇiyināl māṭai Onṟukku kācu Iraṇṭ-āka kācu Āyirattu mu-p-pattu nālē [ḻ>m]ummā v-araikku kāc’ onṟukku rā<hi rend="grantha">ja</hi> * * * * * * * * nellu * Ira * ṭi * * nellu Iraṇṭ’ āyirat [...]
+		
+		<lb n="12"/>* * * nē tūṇiyināl kalaṅ kala[n>ṉ]ē tūṇi nā-nāḻi vāci * ṟṟi Arumoḻitēvaṉ marakkālāl nellu 8 ṇ-ṇūṟṟu nāṟ-pattu mu-k-kala[n>ṉ]ē y-Iru-tūṇi mu-k-kuṟuṇikkum nivan=tañ ce[y*]ta paṭi ||		
+	</p>
+	<p>
+		<list>
+			
+			<item>vīra-<hi rend="grantha">bhadra-de</hi>varku <hi rend="grantha">sa</hi>[n=ti] Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amu[tu] Iraṇṭum Aṭaikkā-y-a[mutu iraṇṭum]
+				<lb n="13"/>[ilai-y-a]mutu nālum |</item>
+			
+			<item><hi rend="grantha">brahmāṇi</hi>yārkku san=ti Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭaikkāy-amutu Iraṇṭum Ilai-y-amutu nālum |</item>
+			
+			<item>Īśvariyārkku san=ti Oṉṟukku tiru-v-amut' arici [nā-ṉāḻiyum] kaṟi-y-amutu Iraṇṭum Aṭai[kkāy-amutu Ira]ṇṭum ilai-y-amu[tu nālum]</item>
+			
+			<item><lb n="14"/>[kaumāriy]ārkku san=ti Oṉṟukku tiru-v-amut’ arici nā-nāḻiyum kaṟi-y-amutu I(ra)ṇṭum aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum (|)</item>
+			
+			<item>vaiyiṣṇav(i)yārkku san=ti Oṉṟukku tiru-v-amut' arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum aṭaik(k)āy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
+			
+			<item>vārāhi(y)ār[kku] san=t(i) Oṉ[ṟukku tiru-v-amut’ arici nā]
+				<lb n="15"/>[nāḻiyum kaṟi]-y-amutu Iraṇṭum Aṭaikkāy-amutu Iraṇṭum Ilai-y-amutu nālum (|)</item>
+			
+			<item>Indrāṇiyārkku san=ti Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭaikkāy-amutu Iraṇṭum ilai-y-amutu nālum (|)</item>
+			
+			<item>cāmuṇṭēśvariyārkku san=ti Oṉṟukku tiru-v-amut' arici nā-nāḻiyu[m * * * * *]</item>
+			
+			<item><lb n="16"/> <gap reason="lost" quantity="5" unit="character" precision="low"/> kuṟuṇi nā-ṉāḻiyum Arddhayāmattukku tiru-v-amut' arici nā-ṉāḻiyum san=ti nālukku kaṟi-y-amutu Eṭṭum Aṭaikkāy-amutu Eṭṭum Ilai-y-amutu patiṉāṟum gaṇapatiyār Arumukkiya ko tu ku la ppiḷḷaiyārkku san=ti (Oṉṟu)kku (ti)ru-v-amut' ari(ci) nā-ṉāḻiyum [kaṟi-y-amutu]	
+				<lb n="17"/>[Iraṇṭum A]ṭaikkāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
+			
+			<item>mūlasthāṉattu cāmuṇṭēśvariyārkku san=ti Oṉṟukku tiru-v-amut' arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭaikkāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>		
+			
+			<item>yōgeśvariyārkku san=ti Oṉṟukku tiru-v-amut' arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum [Aṭaikkāy-a]
+				<lb n="18" break="no"/>[mutu iraṇṭu]m Ilai-y-amutu nālum</item>
+			
+			<item>kṣettrapāladēvarkku san=ti Oṉṟukku tiru-v-amut' arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭaikkāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
+			
+			
+			<item>mahāśāstāvukku tiru-v-amut' arici nā-‡ṉāḻiyum kaṟi-y-amutu Iraṇṭum aṭaikkāy-amutu Iraṇṭum Ilai-y-amutu nā[lum * * * *]</item>
+			
+			<item><lb n="19"/>* * * * * * kku tiru-v-amut' arici (nā-ṉāḻiyum) kaṟi-y-amutu Iraṇṭum aṭaikkāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
+			
+			<item>sū[r*]yya-devarkku san=ti Oṉṟukku tiru-v-amut' arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭaikkāy-amu‡tu Iraṇṭum Ilai-y-amutu nālum</item>
+		
+		</list>
+		
+		Āka
+		
+		devarkaḷukku nāḷ oṉṟukku ti [* * * * *]
+		<lb n="20"/>* * * * * * mu[nn>ṉṉ]ūṟṟ’ a(ṟupa)ti(ṉukku) tiru-v-amut' arici Iru-nūṟṟ’ eḻu-patiṉ kalatti[n>ṉ]āl Iraṇṭ’ añc’ ākki nel Aṟu-nūṟṟ’ eḻu-patt’ aiṅ-kalam		
+	</p>
+	
+	<p>
+		
+	<list>
+		<item>kaṟi-y-amut’ oṉṟukku nel Uḻakk-āka nāḷ Oṉṟukku nel ku‡ṟuṇi Oru nāḻi[-y-āka nāḷ] munnūṟṟ’ aṟu-patiṉu[kku mu-p-pattu m[u-k-kalaṉē Oṉpatu]
+		<lb n="21"/>[kuṟuṇi]</item>
+		
+		<item>[nāḷ Oṉ]ṟukku A[ṭ]ai[kk]āy-amutu muppatt’ (āṟ’ āka n)āḷ muṉnūṟṟ’ aṟu-patukku Aṭaikkāy-amutu paṉnīrāyirattu to[ḷ*]ḷāyiratt’ aṟu-patukku Aṭaikkāy-amutu pattukku nel nāḻi-y-āka patiṉ mu-k-kala[n>ṉ]ē tūṇi-p ‡ patakku</item>
+		
+		<item>nāḷ Oṉṟukku Ilai-y-amu(tu) Eḻupatt’ iraṇt’ āka nāḷ munnūṟṟ[’ aṟupa(tu/tiṉu)kku] [Irupat]
+		<lb n="22" break="no"/>[t’ ai-y-āyira](ttu-t) to[ḷ*]ḷāyirattu Irupatukku Ilaiyamut’ iru-patukku nel nāḻi-y-āka nel patiṉ mukkala[n>ṉ]ē tūṇi-p patakk’</item>
+	</list>
+		
+		āka
+		
+		devarkaḷukku Ōr āṭṭaikku nellu Eḻu ṉūṟṟu mu-p-patt’ aiṅ-ka‡laṉē y-iru-tūṇi-k kuṟuṇi {gomūtra}
+	</p>
+	
+	<p>
+		<list>
+			<item>Uttaram-ayana-[saṃkrā]n=ti nāḷ [snapanam Āṭi Aruḷu]
+				<lb n="23" break="no"/>kaikku kalacatti[n>ṉ] k[i>ī]ḻ Aṭṭa nel tūṇi Arici nā-ṉāḻiyāl nel ku(ṟu)ṇi</item>
+			
+			<item>(snapa)na-dravyam vēṇṭuva[n>ṉ]a koḷḷa-k kācu kālukku nellu Iru-tūṇi y-iru-nāḻi 
+				piratāna-kumbañ cūḻa-p puṭavai Onṟukku-k kācu Arai-‡-[k-kālu]kku nellu tūṇi Oru (n)āḻi</item>
+			
+			<item>per(u)n=-tiru-v-amut’ arici tūṇi-p [patakki[n>ṉ]āl I]
+				<lb n="24" break="no"/>[ra](ṇṭ)’ añc’ ākki nel kala[n>ṉ]ē mu-k-kuṟuṇi</item>
+			
+			<item>kaṟi-y-amutu nālukku nel iru-nāḻi</item>
+			
+			<item>A(ṭai)kkāyamutu Iru-patukkum ilai-y-amutu nāṟ-patukku[m*] nel nā-nāḻi</item>
+			
+			<item>yōginī-yōgeśvara-pūjaikku mattiya-pānam Iru-kalattukku nel kala‡m
+				[A](ri)[ci] tūṇiyi[n>ṉ]āl Iraṇṭ’ añc’ ākki nel iru-tūṇi-p patakku [...]
+				<lb n="25"/>kācu kālē Arai-k-kālukku nel kala[n>ṉ]ē mu-n-ṉāḻi {gomūtra}</item>
+			
+			<item>dakṣaṇam-ayana-saṃkrān=ti nā(ḷ) snapanam Āṭi Aruḷukaikku kalacatti[n>ṉ] k[i>ī]ḻ aṭṭa nel tūṇi Arici nā-ṉāḻiyāl nel kuṟuni</item>
+			
+			<item>piratāna-kumbañ cūḻa-p puṭa(vai) Onṟukku kācu ‡ Arai-k-kālukku nel tūṇi Oru-nāḻi</item>
+			
+			<item><lb n="26"/>snapana-dravyaṅ (ko)ḷḷa-k kācu kālukku nel Iru-tūṇi Iru-nāḻi</item>
+			
+			<item>perun=-tiru-v-amutukku Arici tūṇi-p- patakki[n>ṉ]āl Iraṇṭ’ añc’ ākki nel * kala[n>ṉ]ē mu-k-kuṟuṇi</item>
+			
+			<item>kari-y-amutu nāḻ[u>i]ukku nel Iru-nāḻi</item>
+			
+			<item>Aṭaikkāy-amu‡tu Iru-patukkum Ilai-y-amutu nāṟ-pa
+				<lb n="27" break="no"/>tukkum nel nā-nāḻi</item>
+			
+			<item>yōgini-yōgeśvara-pūjaikku mattiya-pānam Iru-kalattināl neṟ kalam Arici tūṇiyiṉāl Iraṇṭ’ añc’ ākki nel v-iru-tūni-p patakku</item>		
+			<item>Āṭ’ onṟināl kācu kālē Arai-k-kā‡lināl neṟ kalanē mu-n-nāḻi [...]</item>
+			
+			<item><lb n="28"/>sū(r)yya-grahaṇattu nāḷ (snapa)nam āṭi Aruḷukaikku kalacatti[n>ṉ] kīḻ Aṭṭa nel tūṇi Arici nā-[n>ṉ]āḻiyi[n>ṉ]āl nel kuṟuni</item>
+			
+			<item>piratāna-kumbañ cūḻa-p puṭavai Oṉṟukku kācu Araikkālukku nel (t)ūṇi Or[u] ‡ nāḻi</item>
+			
+		</list>
+	</p>
          </div>
          
 <!--<div type="apparatus">
