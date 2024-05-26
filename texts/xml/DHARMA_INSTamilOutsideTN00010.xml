@@ -48,7 +48,7 @@
 						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Foundation of a pīṭam (Sanskrit pīṭha), that is an altar or a pedestal.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -95,31 +95,40 @@
 	</ab>	
 	
 	<p>
-		...
-		<lb n="2"/>...
+		Ip-p<choice><orig>i</orig><reg>ī</reg></choice>ṭañ ceyvittān Aṇṭa<unclear>kku</unclear>
+		<lb n="2" break="no"/>ṭaiyāṉ mātavaṉ pōr-ēṟu
 	</p>
 	
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
 	
 	<listApp>
 		
-		<!-\-<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Rice1905_01">...</rdg>
-		</app>-\->
+		<app loc="1">
+			<lem>°p<choice><orig>i</orig><reg>ī</reg></choice>ṭañ.</lem>
+			<rdg source="bib:Rice1905_01">piṭañ</rdg>
+		</app>
+		
+		<app loc="1">
+			<lem>Aṇṭa<unclear>kku</unclear><lb n="2" break="no"/>ṭaiyāṉ</lem>
+			<rdg source="bib:Rice1905_01">Aṇṭa<gap reason="lost" quantity="2" unit="character"/><lb n="2" break="no"/>ṭaiyāṉ</rdg>
+		</app>
 		
 	</listApp>
-</div>-->
+</div>
          
-<!--<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
 
 	<p n="1">
 		Prosperity! Fortune!
 	</p>
 	
-</div>-->
+	<p n="1-2">
+		He who had this <foreign>pīṭam</foreign> made is Mātavaṉ, Lord of Aṇṭa<unclear>kku</unclear>ṭi, the fighting bull.
+	</p>
+	
+</div>
 
 <!--<div type="commentary">
            
