@@ -95,7 +95,7 @@
 	</ab>	
 	
 	<p>
-		Ip-p<choice><orig>i</orig><reg>ī</reg></choice>ṭañ ceyvittān Aṇṭa<unclear>kku</unclear>
+		Ip-p<choice><orig>i</orig><reg>ī</reg></choice>ṭañ ceyvittān <choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭa<unclear>kku</unclear>
 		<lb n="2" break="no"/>ṭaiyāṉ mātavaṉ pōr-ēṟu
 	</p>
 	
@@ -111,8 +111,9 @@
 		</app>
 		
 		<app loc="1">
-			<lem>Aṇṭa<unclear>kku</unclear><lb n="2" break="no"/>ṭaiyāṉ</lem>
+			<lem><choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭa<unclear>kku</unclear><lb n="2" break="no"/>ṭaiyāṉ</lem>
 			<rdg source="bib:Rice1905_01">Aṇṭa<gap reason="lost" quantity="2" unit="character"/><lb n="2" break="no"/>ṭaiyāṉ</rdg>
+			<note>See <foreign><choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭakkuṭaiyāṉ</foreign> in <ref target="DHARMA_INSTamilOutsideTN00013.xml">TIOTN 13</ref> (EC 10 Kl 109b).</note>
 		</app>
 		
 	</listApp>
@@ -125,14 +126,14 @@
 	</p>
 	
 	<p n="1-2">
-		He who had this <foreign>pīṭam</foreign> made is Mātavaṉ, Lord of Aṇṭa<unclear>kku</unclear>ṭi, the fighting bull.
+		He who had this <foreign>pīṭam</foreign> made <supplied reason="subaudible">is</supplied> Mātavaṉ, Lord of <choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭa<unclear>kku</unclear>ṭi, the fighting bull.
 	</p>
 	
 </div>
 
-<!--<div type="commentary">
-           
-</div>-->
+<div type="commentary">
+           <p>The same individual—Mātavaṉ, Lord of <choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭakkuṭi, the fighting bull—is the donor of a pillar in <ref target="DHARMA_INSTamilOutsideTN00013.xml">TIOTN 13</ref> (EC 10 Kl 109b).</p>
+</div>
 	
 <div type="bibliography">
 	
