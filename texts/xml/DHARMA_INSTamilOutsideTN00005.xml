@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kōlār, Kōlārammā Temple, time of Rājendra Cōḻa, year 8</title>
+				<title>Kōlār, Kōlārammā Temple, time of Parakesarivarman Rājendra Cōḻa, year 8</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>					
 					<persName ref="part:emfr">
@@ -48,7 +48,7 @@
 						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Donation of five buffaloes (<foreign>erumai</foreign>) for maintaining one perpetual lamp for Piṭāriyār of Kuvaḷālam.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -96,49 +96,75 @@
 	
 	<lg n="1" met="āciriyappā">
 		<l n="1">tiru maṉṉi vaḷara Iru-nila-maṭan=taiyum</l>
-		<l n="2">pōr-<hi rend="grantha">ja</hi>ya-p-pāvaiyuñ cīr-t-ta<choice><orig>n</orig><reg>ṉ</reg></choice>i-c-ce<lb n="2" break="no"/>lviyun=</l>
-		<l n="3">taṉ perun-tēviyar āki Inpuṟa</l>
-		<l n="4">neṭu-tuyal ūḻiyuḷ Iṭaituṟai-nāṭun=</l>
-		<l n="5">tuṭar-vana-vēli-p-pa<lb n="3" break="no"/>ṭar vanavāciyum</l>
+		<l n="2">pōr-ceya-p-pāvaiyuñ c<choice><orig>i</orig><reg>ī</reg></choice>r-t-ta<choice><orig>n</orig><reg>ṉ</reg></choice>i-c-ce<lb n="2" break="no"/>lviyun=</l>
+		<l n="3">taṉ perun=-tēviyar āki Inpuṟa</l>
+		<l n="4">neṭu-tuyal ūḻiyuḷ Iṭai-tuṟai-nāṭun=</l>
+		<l n="5">tuṭar-vaṉa-vēli-p-pa<lb n="3" break="no"/>ṭar va<choice><orig>n</orig><reg>ṉ</reg></choice>avāciyum</l>
 		<l n="6">cuḷḷi-c-cūḻ-matiṭ koḷḷi-p-pākkaiyum</l>
-		<l n="7">naṇṇaṟk' arum araṇ maṇṇaikkaṭakkamum</l>
-		<l n="8"><lb n="4"/>poru-kaṭal Īḻatt-araicar tam muṭiyum</l>
+		<l n="7">naṇṇaṟk' arum araṇ maṇṇai-k-kaṭakkamum</l>
+		<l n="8"><lb n="4"/>poru-kaṭal <choice><orig>i</orig><reg>ī</reg></choice>ḻatt' araicar tam muṭiyum</l>
 		<l n="9">Āṅkavan tēviyar ōṅk' eḻil muṭiyum</l>
-		<l n="10">muṉ<choice><orig>n</orig><reg>ṉ</reg></choice>avar pakkal tennava<lb n="5" break="no"/>ṉ vaitta</l>
-		<l n="11">cun=tara-muṭiyum In=tira<choice><orig>n</orig><reg>ṉ</reg></choice>n āramum</l>
-		<l n="12">teṇ=-ṭirai Īḻa-maṇṭala-muḻuvatum</l>
+		<l n="10">muṉ<choice><orig>n</orig><reg>ṉ</reg></choice>avar pakkal te<lb n="5" break="no"/>ṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ava<choice><orig>n</orig><reg>ṉ</reg></choice> vaitta</l>
+		<l n="11">cun=tara-muṭiyum In=tira<choice><orig>n</orig><reg>ṉ</reg></choice> āramum</l>
+		<l n="12"><choice><sic>n=t</sic><corr>t</corr></choice>eṇ-ṭirai Īḻa-maṇṭala-muḻuvatum</l>
 		<l n="13">Eṟi-paṭai-k kēraḷan mu<lb n="6" break="no"/>ṟaimaiyiṟ cūṭum</l>
-		<l n="14">kulataṉam-ākiya palar pukaḻ-muṭiyum</l>
+		<l n="14">kula-taṉam-ākiya palar pukaḻ muṭiyum</l>
 		<l n="15">ceṅ-katir-mālaiyuñ caṅk-atir-vēlai-t</l>
 		<l n="16">tol<lb n="7" break="no"/>-peruṅ-kāvaṟ pala-paḻan=-tīvuñ</l>
 		<l n="17">ceruviṟ ci<choice><orig>n</orig><reg>ṉ</reg></choice>avil irupatt' oru kāl</l>
-		<l n="18">araicukaḷai kaṭṭa paracurāman</l>
+		<l n="18">araicukaḷai kaṭṭa paracurāmaṉ</l>
 		<l n="19">mēvaruñ cā<lb n="8" break="no"/>n=timat-tīv' araṇ karuti</l>
 		<l n="20">Iruttiya cem-poṟ ṟiru-t-taku muṭiyum</l>
 		<l n="21">mā-p-poru-taṇṭāṟ koṇṭa</l>
 	</lg>
 	<p>
-		kō-p-para-kēcari-pa<hi rend="grantha">mma</hi><lb n="9" break="no"/>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī-rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu Eṭṭ-āvatu
+		kō-p-para-kēcari-<hi rend="grantha">panma</hi>
+		<lb n="9" break="no"/>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī-rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>vark=ku yāṇṭu Eṭṭ-āvatu
 	</p>
 	<p>
-		cōḻa-maṇṭalattu Uyya-k-koṇṭār-vaḷa-nāṭṭu-t tiraimūr-nā<lb n="10" break="no"/>ṭṭu-c cātta-maṅkalattu-c- cāttamaṅkalam-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> Araiya<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">rājarāja</hi>n-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a vikkirama-cōḻa-c-cōḻiya-v-a<lb n="11" break="no"/>raiyar nuḷampa-pāṭi-y-āṉa nikarili-cōḻa-maṇṭalattu-k kuvaḷāla-nāṭṭu-k kuvaḷālattu-p piṭāriyārku cantirā<lb n="12" break="no"/>titta-vaṟa Erikka-kaṭavat' āka vaiytta tiru-nuntā-viḷakku Onṟukku vaiytta cāvā mūvā nall-erumai Aiñcum
+		cōḻa-maṇṭalattu Uyya-k-koṇṭār-vaḷa-nāṭṭu <add place="right">tiraimūr-nā</add>
+		<lb n="10" break="no"/><add place="left">ṭṭu-c</add> cātta-maṅkalattu-c- cāttamaṅkalam-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> Araiya<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">rājarāja</hi><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>-āṉa vikkirama-cōḻa-c-cōḻiya-v-a
+		<lb n="11" break="no"/>raiyar nuḷampa-pāṭi-y-āṉa nikarili-cōḻa-maṇṭalattu-k kuvaḷāla-nāṭṭu-k kuvaḷālattu-p piṭāriyārku cantirā
+		<lb n="12" break="no"/>titta-vaṟ Erikka-kaṭavat' āka vaiytta tiru-nuntā-viḷakku Onṟukku vaiytta cāvā mūvā nall-erumai Aiñcum
 	</p>
 	<p>
-		I⌈<lb n="13" break="no"/>vai it-tēvarai Ārādikkum <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇar kau<hi rend="grantha">śi</hi>ka-kōttirattu-c cornapuḷiya<choice><orig>n</orig><reg>ṉ</reg></choice>um vinakkāla<choice><orig>n</orig><reg>ṉ</reg></choice>um Ivv-iruva<lb n="14" break="no"/>ruṅ kai-y-k-koṇṭu Erikka-kaṭava tiru-nuntā-viḷakk' onṟu
+		I⌈<lb n="13" break="no"/>vai it-tēvarai Ārātikkum <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇar <hi rend="grantha">kauśi</hi>ka-kōttirattu-c cornapuḷiya<choice><orig>n</orig><reg>ṉ</reg></choice>um viṉakkāla<choice><orig>n</orig><reg>ṉ</reg></choice>um Ivv-iruva
+		<lb n="14" break="no"/>ruṅ kai-y-k-koṇṭu Erikka-kaṭava tiru-nun=tā-viḷakk' onṟu
 	</p>
 	<p>
-		Itu pa<hi rend="grantha">m-māheśva</hi>rar rakṣai</p>
+		Itu pa<hi rend="grantha">n-māheśva</hi>rar rakṣai <g type="gomutraFinal">.</g>
+	</p>
 	
 </div>
 	
 <div type="apparatus">
 	
-	<listApp>
+	<listApp>		
 		
-		<app loc="10">
-			<lem>°<hi rend="grantha">ja</hi>ya°</lem>
-			<rdg source="bib:Rice1905_01">°caya°</rdg>
-		</app>						
+		<app loc="8">
+			<lem>°<hi rend="grantha">panma</hi><lb n="9" break="no"/>r°</lem>
+			<rdg source="bib:Rice1905_01">°<hi rend="grantha">pamma</hi><lb n="9" break="no"/>r°</rdg>
+		</app>		
+		
+		<app loc="9">
+			<lem><add place="right">tiraimūrnā</add><lb n="10" break="no"/><add place="left">ṭṭuc</add></lem>
+			<note>Added on the pilasters framing the temple walls where the inscription is engraved, except for the final <foreign>c</foreign>.</note>
+		</app>
+		
+		<app loc="11">
+			<lem>cantirā<lb n="12" break="no"/>tittavaṟ</lem>
+			<rdg source="bib:Rice1905_01">cantirā<lb n="12" break="no"/>tittavaṟa</rdg>
+		</app>
+		
+		<app loc="13">
+			<lem><hi rend="grantha">kauśi</hi>ka°</lem>
+			<rdg source="bib:Rice1905_01">kau<hi rend="grantha">śi</hi>ka°</rdg>
+		</app>
+		
+		<app loc="14">
+			<lem>pa<hi rend="grantha">nmāheśva</hi>rar</lem>
+			<rdg source="bib:Rice1905_01">pa<hi rend="grantha">mmāheśva</hi>rar</rdg>
+		</app>
 		
 	</listApp>
 </div>
