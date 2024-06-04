@@ -101,7 +101,10 @@
            
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            	
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">   
+	
+	<!--add milestone-->
+	<!--<choice><orig>n</orig><reg>ṉ</reg></choice>-->
 
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<lb n="1" style="text-align: left"/><milestone n="A" unit="zone" type="gridlike"/>svasti śrī		
@@ -110,7 +113,7 @@
 	<lg>
 		<l n="1">tiru ma<choice><orig>n</orig><reg>ṉ</reg></choice>ṉi viḷaṅkum iru-kuva<unclear>ṭaṉai</unclear><milestone n="B" unit="zone" type="gridlike" break="no"/>yata<choice><orig>n</orig><reg>ṉ</reg></choice></l>
 		<l n="2">tōḷum vāḷun= tuṇai y-eṉa-k kē[ḻ>ḷ]a(lar)</l>
-		<l n="3">[vañca]<lb n="2" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>ṉai kaṭan=tu vayirākarattu-k</l>
+		<l n="3"><supplied reason="lost">vañca</supplied><lb n="2" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>ṉai kaṭan=tu vayirākarattu-k</l>
 		<l n="4">kuñcara-k-kuḻām pala vāri Añcali[l*]</l>
 		<l n="5">cakkara-kōṭṭattu-t tārā-v-aracaṉai-t</l>
 		<l n="6">tikku nikaḻa-t tiṟai koṇṭ-aruḷi</l>
@@ -121,9 +124,9 @@
 		<l n="11">yātuñ caliyā vakaiyi[(n)>ṉ]it’ eṭuttu-t</l>
 		<l n="12">taṉ kuṭai niḻalil iṉpuṟa Irutti[t>l]</l>
 		<l n="13">tikiriyum puliyun= ticai toṟu naṭāttip</l>
-		<l n="14">pukaḻun= tarumamum (p)uvi <milestone n="B" unit="zone" type="gridlike"/> toṟum niṟutti</l>
+		<l n="14">pukaḻun= tarumamum <unclear>p</unclear>uvi <milestone n="B" unit="zone" type="gridlike"/> toṟum niṟutti</l>
 		<l n="15">v<choice><orig>i</orig><reg>ī</reg></choice>ramun= tiyākamu māṉamuṅ karuṇaiyum</l>
-		<l n="16">Urimai-c c(u)[ṟṟam-āka-p piri]<lb n="4" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>yāt</l>
+		<l n="16">Urimai-c c<unclear>u</unclear>[ṟṟam-āka-p piri]<lb n="4" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>yāt</l>
 		<l n="17">tala nikaḻ <hi rend="grantha">ja</hi>yamun= tāṉum vīṟṟ-irun=tu</l>
 		<l n="18">kula-ma‡ṇi makuṭa muṟai‡yiṟ cūṭi-t</l>
 		<l n="19">taṉ kaḻal tarāti[v>p]ar cūṭa-c ceṅ‡kōl</l>
@@ -343,14 +346,14 @@
 	
 <div type="commentary">
            
-           <p>This record forms a pair with EC 10 Kl 106d = <ref target="DHARMA_INSTamilOutsideTN00004">Tamil outside TN 4</ref>, another record in the same place.</p>
+           <p>This inscription appears to be part of a group of three related inscriptions found in the same temple, the other two being EC 10 Kl 106d = <ref target="DHARMA_INSTamilOutsideTN00004">TIOTN 4</ref> and EC 10 Kl 112a <ref target="DHARMA_INSTamilOutsideTN00017">TIOTN 17</ref>.</p>
 	<p>At the end of each line, approximately 6 characters are covered by a later construction.</p>
 	
 </div>
         	
 <div type="bibliography">
 	
-	<p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 108).</p>
+	<p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 108). The text is transliterated and translated along with EC 10 Kl 112a, which is edited independently as such in Tamil transcription, but considered as the continuation of EC 10 Kl 108 in the Roman transliteration and the translation.</p>
 	
 	<p>This edition by Renato Davalos, Emmanuel Francis, Margherita Trento, S.A.S. Sarma, Vigneshwaran Muralidaran (2024), based on EFEO pictures (2004, 2017), except for lines 9-13, based on <bibl><ptr target="bib:Rice1905_01"/></bibl>.</p>
 	
