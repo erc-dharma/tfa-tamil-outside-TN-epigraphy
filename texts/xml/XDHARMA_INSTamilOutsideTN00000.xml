@@ -128,7 +128,7 @@
         
         <app loc="5">
             <lem><gap reason="illegible" quantity="4" unit="character"/> mmattālē</lem>
-            <note>A tentative reading could be <foreign><choice><unclear>tara</unclear><unclear>tā</unclear><unclear>tar</unclear></choice> <unclear>ta</unclear>mmattālē</foreign>.</note>
+            <note>Tentative readings could be <foreign><choice><unclear>tā</unclear><unclear>tar</unclear><unclear>tara</unclear></choice> <unclear>ta</unclear>mmattālē</foreign>.</note>
         </app>
         
     </listApp>
@@ -138,11 +138,11 @@
 <div type="translation" resp="part:emfr">
 
     <p n="1-2">
-        1827,<note>The era is not specified and this millesime is not followed, as one would expect, by a symbol for year (unless, what is read as "7" is this symbol in an unstandard form, as are unstandard forms the symbols for <foreign>mācam</foreign> and <foreign>tēti</foreign> in line 2). In the present context (colonial La Réunion, antiquity of the Māriyammaṉ temple), it appears that date is in the common era and not in the Śaka era, as one would expect in a inscription from Tamil Nadu itself.</note> month of Cittirai, date 7.
+        1827,<note>The era is not specified and this millesime is not followed, as one would expect, by a symbol for year (unless, what is read as "7" is this symbol in an unstandard form, as are unstandard forms the symbols for <foreign>mācam</foreign> and <foreign>tēti</foreign> in line 2). In the present context (colonial La Réunion, antiquity of the Māriyammaṉ temple), it appears that date is in the common era and not in the Śaka era (as one would expect in a inscription from Tamil Nadu itself).</note> month of Cittirai, date 7.
     </p>
     
     <p n="2-6">
-        Māriyammaṉ temple constructed <supplied reason="explanation"><foreign>kaṭṭappaṭṭatu</foreign></supplied> by<note>See phrase in instrumental case (-<foreign>ālē</foreign>), which precedes <foreign>kaṭṭappaṭṭatu</foreign>. Because of the illegible portions of lines 4-5, it is not clear whether <foreign>kaṭṭappaṭṭatu</foreign> is construed with a subject in nominative case (the donor) and an agent in intrumental case (the contractor) of with just an agent in intrumental case (the donor alone).</note> <gap reason="lost"/> Vēṅkaṭa Reṭṭiyar <gap reason="lost"/> Matān <gap reason="lost"/>.
+        Māriyammaṉ temple constructed <supplied reason="explanation"><foreign>kaṭṭappaṭṭatu</foreign></supplied> by<note>See phrase in instrumental case (-<foreign>ālē</foreign>), which precedes <foreign>kaṭṭappaṭṭatu</foreign>. Because of the illegible portions of lines 4-5, it is not clear whether <foreign>kaṭṭappaṭṭatu</foreign> is to be construed with a subject in nominative case (the donor) and an agent in intrumental case (the contractor) or with just an agent in intrumental case (the donor alone).</note> <gap reason="lost"/> Vēṅkaṭa Reṭṭiyar <gap reason="lost"/> Matān <gap reason="lost"/>.
     </p>
 	
 </div>
@@ -165,7 +165,7 @@
 	
 <div type="bibliography">
     
-	<p>This edition by Emmanuel Francis (2024), based on photos (Darlini Canabady-Moutien). Thanks to Renato Davalos ans Margherita Trento for their suggestions.</p>
+	<p>This edition by Emmanuel Francis (2024), based on photos (Darlini Canabady-Moutien). Thanks to Renato Davalos and Margherita Trento for their suggestions.</p>
 	
 	<!--<listBibl type="primary">
 		
