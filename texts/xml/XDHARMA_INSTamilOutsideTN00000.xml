@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>La Réunion, Māriyammaṉ temple</title>
+				<title>Saint Pierre de la Réunion, Temple des casernes</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>					
 					<persName ref="part:emfr">
@@ -48,7 +48,7 @@
 						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-					    <summary>Construction of the Māriyammaṉ temple.</summary>
+					    <summary>Construction of the Māriyammaṉ temple, that is, of the building currently known as <foreign xml:lang="fra">temple des casernes</foreign>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
