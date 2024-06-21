@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kōlār, Kōlārammā Temple, time of Rājendra Cōḻa, no year</title>
+				<title>Kōlār, Kōlārammā, time of Rājendra Cōḻa, no year</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -139,7 +139,7 @@
 	</p>
 	
 	<p n="1-2">
-		In the glorious name of the king Rājendracōḻa, <supplied reason="subaudible">this is</supplied> the glorious surrounding hall <supplied reason="explanation"><foreign>maṇṭakam</foreign><note>Sanskrit <foreign>maṇdapa</foreign>.</note></supplied> that Jakkiyappai, daughter of Tribhuvana of Iṭṭakirai, had built below<note>That is, "at the feet of".</note> the Cūḻkal hill <supplied reason="explanation"><foreign>cūḻkal-malai</foreign></supplied>, alias the golden mountain <supplied reason="explanation"><foreign>kanaka-parvata</foreign></supplied>, in the Kaṭampaṉākkaināṭu.
+		In the glorious name of the king Rājendracōḻa, <supplied reason="subaudible">this is</supplied> the glorious surrounding hall <supplied reason="explanation"><foreign>maṇṭakam</foreign><note>Sanskrit <foreign>maṇdapa</foreign>.</note></supplied> that Jakkiyappai, daughter of Tribhuvana of Iṭṭakirai, had built below <supplied reason="explanation"><foreign>kīḻ</foreign><note>That is, "at the feet of".</note></supplied> the Cūḻkal hill <supplied reason="explanation"><foreign>cūḻkal-malai</foreign></supplied>, alias the golden mountain <supplied reason="explanation"><foreign>kanaka-parvata</foreign></supplied>, in the Kaṭampaṉākkaināṭu.
 	</p>
 	
 	<p n="3">
