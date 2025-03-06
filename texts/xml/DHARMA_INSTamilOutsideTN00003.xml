@@ -358,22 +358,14 @@
 		<bibl n="EC">
 			<ptr target="bib:Rice1905_01"/>
 			<citedRange unit="item">Kl 108</citedRange>
-			<citedRange unit="part">Text of the Inscriptions in Roman characters, arranged to show the composition</citedRange>
+			<!--<citedRange unit="part">Text of the Inscriptions in Roman characters, arranged to show the composition</citedRange>
 			<citedRange unit="page">35-37</citedRange>
-		</bibl>	
-		
-		<bibl n="EC">
-			<ptr target="bib:Rice1905_01"/>
 			<citedRange unit="item">Kl 108</citedRange>
 			<citedRange unit="part">Translations of the Inscriptions</citedRange>
 			<citedRange unit="page">35-36</citedRange>
-		</bibl>	
-		
-		<bibl n="EC">
-			<ptr target="bib:Rice1905_01"/>
 			<citedRange unit="item">Kl 108</citedRange>
 			<citedRange unit="part">Text of the Inscriptions, arranged as in the original, in Tamil characters</citedRange>
-			<citedRange unit="page">18-20</citedRange>
+			<citedRange unit="page">18-20</citedRange>-->
 		</bibl>	
 		
 	</listBibl>			
