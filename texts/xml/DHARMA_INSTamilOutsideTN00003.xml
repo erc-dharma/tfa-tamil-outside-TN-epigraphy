@@ -5,379 +5,379 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-
-<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Kōlār, Kōlārammā, time of Rājendra Cōḻa, year 20</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Davalos</surname>
-					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-					<persName ref="part:matr">
-						<forename>Margherita</forename>
-						<surname>Trento</surname>
-					</persName>
-					<persName ref="part:sass">
-						<name>S.A.S. Sarma</name>
-					</persName>
-					<persName ref="part:vimu">
-						<name>Vigneshwaran Muralidaran</name>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>					
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTamilOutsideTN00003</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kōlār, Kōlārammā, time of Rājendra Cōḻa, year 20</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Davalos</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
+                    </persName>
+                    <persName ref="part:sass">
+                        <name>S.A.S. Sarma</name>
+                    </persName>
+                    <persName ref="part:vimu">
+                        <name>Vigneshwaran Muralidaran</name>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>					
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>				
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTamilOutsideTN00003</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2026">2019-2026</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<summary>...</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-							<p>Letter <foreign>na</foreign> regularly found instead of expected <foreign>ṉa</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-02-15">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-
-<text xml:space="preserve">
-           
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">   
-	
-	<!--add milestone-->
-	<!--<choice><orig>n</orig><reg>ṉ</reg></choice>-->
-
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1" style="text-align: left"/><milestone n="A" unit="zone" type="gridlike"/>svasti śrī		
-	</ab>	
-	
-	<lg>
-		<l n="1">tiru ma<choice><orig>n</orig><reg>ṉ</reg></choice>ṉi viḷaṅkum iru-kuva<unclear>ṭaṉai</unclear><milestone n="B" unit="zone" type="gridlike" break="no"/>yata<choice><orig>n</orig><reg>ṉ</reg></choice></l>
-		<l n="2">tōḷum vāḷun= tuṇai y-eṉa-k kē<choice><orig>ḻ</orig><reg>ḷ</reg></choice>a<unclear>lar</unclear></l>
-		<l n="3"><supplied reason="lost">vañca</supplied><lb n="2" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>ṉai kaṭan=tu vayirākarattu-k</l>
-		<l n="4">kuñcara-k-kuḻām pala vāri Añcali<supplied reason="omitted">l</supplied></l>
-		<l n="5">cakkara-kōṭṭattu-t tārā-v-aracaṉai-t</l>
-		<l n="6">tikku nikaḻa-t tiṟai koṇṭ-aruḷi</l>
-		<l n="7">Arukkaṉ utaiyatt’ <supplied reason="lost">ā</supplied>cai<milestone n="B" unit="zone" type="gridlike" break="no"/>yil irukkuṅ</l>
-		<l n="8">kamalam aṉaiya nilamakaḷ taṉṉai</l>
-		<l n="9">mu<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice><choice><orig>i</orig><reg>ī</reg></choice><unclear>r</unclear><supplied reason="lost">k kuḷitta</supplied> <lb n="3"/><milestone n="A" unit="zone" type="gridlike"/> vannāḷ tirumāl</l>
-		<l n="10">āti-k kēḻal āki y-eṭu-t taṉavi</l>
-		<l n="11">yātuñ caliyā vakaiyi<supplied reason="lost"><choice><orig>n</orig><reg>ṉ</reg></choice></supplied>it’ eṭuttu-t</l>
-		<l n="12">taṉ kuṭai niḻalil iṉpuṟa Irutti<choice><sic>t</sic><corr>l</corr></choice></l>
-		<l n="13">tikiriyum puliyun= ticai toṟu naṭāttip</l>
-		<l n="14">pukaḻun= tarumamum <unclear>p</unclear>uvi <milestone n="B" unit="zone" type="gridlike"/> toṟum niṟutti</l>
-		<l n="15">v<choice><orig>i</orig><reg>ī</reg></choice>ramun= tiyākamu māṉamuṅ karuṇaiyum</l>
-		<l n="16">Urimai-c c<unclear>u</unclear><supplied reason="lost">ṟṟam-āka-p piri</supplied><lb n="4" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>yāt</l>
-		<l n="17">tala nikaḻ <hi rend="grantha">ja</hi>yamun= tāṉum vīṟṟ-irun=tu</l>
-		<l n="18">kula-maṇi ma‡kuṭa muṟai‡yiṟ cūṭi-t</l>
-		<l n="19">taṉ kaḻal tarāti<choice><orig>v</orig><reg>p</reg></choice>ar cūṭa-c ceṅ‡kōl</l>
-		<l n="20">nāva‡lam puvitoṟum naṭāttiya</l>
-	</lg>
-	
-	<p>
-		kō-<hi rend="grantha">rāja</hi>-kē<hi rend="grantha">sari</hi>-va<hi rend="grantha">nma</hi>r-āṉa
-		<unclear>U</unclear>⌈<milestone n="B" unit="zone" type="gridlike" break="no"/><unclear>ṭ</unclear>aiyār <hi rend="grantha">śrī-rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu Iraṇṭ-āvatu
-	</p>
-	
-	<p>
-		Atikāri<supplied reason="lost">kaḷ jayaṅ-koṇṭa</supplied>
-		<lb n="5" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/><add place="left">cō</add>ḻa-maṇṭalattu-k kāliyūr-k-kōṭṭattu-p
-		perum-puliyūr-nāṭṭu-p p<unclear>ā</unclear>ṇṭiyam-pākkattu-p pāṇṭiyam-pākkam-uṭaiyār Ampalava<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-p-pon=taiyār-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a vīra-cikā-maṇi-mūvē<milestone n="B" unit="zone" type="gridlike" break="no"/>n=tavēḷār vi<hi rend="grantha">jai</hi>ya-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-maṇṭalattu-k kuvaḷāla-nā<supplied reason="lost">ṭṭu</supplied> <supplied reason="lost"> kuvaḷāla-pura</supplied>
-		<lb n="6" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>ttu-p piṭāriyār kōyiliṉ uḷḷāl tiru-c-cuṟṟu-maṇṭapattu-k kōyiṟ karumam ārāyā v-irun=tu
-		
-		It-tēvar tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>am-āṉa Ūrkaḷāl van=ta māṭai ⌈<milestone n="B" unit="zone" type="gridlike" break="no"/>nell ākki It-tēvarkkum pati-pāta-mūla-p-paṭṭ-uṭaiya <supplied reason="lost">pañcācāryarkkum</supplied>
-		<lb n="7"/><milestone n="A" unit="zone" type="gridlike"/>pala-paṇi-nivan=takkārkkum nivan=tañ ceyta paṭi Uṇṭō v-eṉṟu
-		
-		It-tēvarkku māṭāpattiyañ ceykiṟa ka<choice><orig>n</orig><reg>ṉ</reg></choice>ṉāṭaka-paṇṭitaraiyum pati-pāta-mūla-p-paṭṭ-uṭai<milestone n="B" unit="zone" type="gridlike" break="no"/>-p pañcācāriya-t-tēvakanmikaḷaiyuṅ kēṭka
-		
-		Uṭaiyār <hi rend="grantha">śrī-<supplied reason="lost">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</supplied></hi>-<supplied reason="lost">cō</supplied>
-		<lb n="8" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>ḻa-<hi rend="grantha">de</hi>varkku yāṇṭu iraṇṭ-āvatu varaiy<unclear>u</unclear>m nivan=tañ ceytat’ illai y-eṉ<unclear>ṟu</unclear> colla
-		
-		mēṟ-paṭiyārkaḷaiyum puravu-vari-tiṇaikaḷattu mukaveṭṭi * * * yūr-k<milestone n="B" unit="zone" type="gridlike" break="no"/>-kōṭṭattu <unclear>A</unclear>raṇi-nilai mumm<unclear>u</unclear>ṭi-cōḻa-nallūr <unclear>Iḷai</unclear><supplied reason="lost">ya-mūvēn=ta</supplied>
-		
-		<!--place <milestone n="B" unit="zone" type="gridlike" break="no"/> for lines 9-13-->
-		<lb n="9" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>vēḷāṉ kaṇpu * m-āṉa nirupa-cikāmaṇi-viḻupparaiyaṉai vaiyttu-k koṭa * tu Atikārikaḷ vīra-cikāmaṇi-mūvēn=tavēḷar nivan=tañ ceyta paṭi
-		tēvatānam
-		kuṟuṇi nel [...]
-		<lb n="10"/><milestone n="A" unit="zone" type="gridlike"/>māṭai nūṟṟ’ eṇ-patt' ēḻē mūnṟu mā <g type="ddanda">.</g>
-	</p>
-	
-	<p>		
-		parakkampaḷḷi māṭai Iru-nūṟṟu Iraṇṭē mā-kāṇi <g type="ddanda">.</g>
-		* r māṭai patt’ araiyē Oru mā
-		va<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> kaḻai * māṉṟaṉ pa * * * Eṇ-ṇūṟṟ’ oru paṟ to * * <g type="pc">.</g>
-		
-		Āka
-		
-		<lb n="11" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>* Aiñ-ñūṟṟ’ oru patt’ ēḻē mūnṟu mā-kāṇiyināl māṭai Onṟukku kācu Iraṇṭ' āka kācu Āyirattu mu-p-pattu nālē <choice><sic>ḻ</sic><corr>m</corr></choice>ummā v-araikku kāc’ onṟukku rā<hi rend="grantha">ja</hi> * * * * * * * * nellu * Ira * ṭi * * nellu Iraṇṭ’ āyirat [...]
-		
-		<lb n="12"/><milestone n="A" unit="zone" type="gridlike"/>* * * nē tūṇiyināl kalaṅ kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi nā-nāḻi vāci * ṟṟi Aru-moḻi-tēvaṉ marakkālāl nellu Iraṇṭ’ āyiratt’ eṇ-ṇūṟṟu nāṟ-pattu mu-k-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē y-Iru-tūṇi mu-k-kuṟuṇikkum nivan=tañ ce<supplied reason="omitted">y</supplied>ta paṭi <g type="ddanda">.</g>		
-	</p>
-	<p>
-		<list>			
-			<item>vīra-<hi rend="grantha">bhadra-de</hi>varku <hi rend="grantha">sa</hi><supplied reason="lost">n=ti</supplied> Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amu<supplied reason="lost">tu</supplied> Iraṇṭum Aṭai-k-kā-y-a<supplied reason="lost">mutu iraṇṭum</supplied>
-				<lb n="13"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">ilai-y-a</supplied>mutu nālum <g type="danda">.</g></item>
-			
-			<item><hi rend="grantha">brahmāṇi</hi>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <g type="danda">.</g></item>
-			
-			<item><hi rend="grantha">Īśvari</hi>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici <supplied reason="lost">nā-ṉāḻiyum</supplied> kaṟi-y-amutu Iraṇṭum Aṭai-<supplied reason="lost">k-kāy-amutu Ira</supplied>ṇṭum ilai-y-amu<supplied reason="lost">tu nālum</supplied></item>
-			
-			<item><lb n="14"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">kaumāriy</supplied>ārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-nāḻiyum kaṟi-y-amutu I<unclear>ra</unclear>ṇṭum aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <unclear><g type="danda">.</g></unclear></item>
-			
-			<item>vaiyi<hi rend="grantha">ṣṇa</hi>v<unclear>i</unclear>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum aṭai-k-<unclear>k</unclear><milestone n="B" unit="zone" type="gridlike" break="no"/><!--check location of milestone-->āy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
-			
-			<item>vā<hi rend="grantha">rāhi</hi><unclear>y</unclear>ār<supplied reason="lost">kku</supplied> san=t<unclear>i</unclear> Oṉ<supplied reason="lost">ṟukku tiru-v-amut’ arici nā</supplied>
-				<lb n="15" break="no"/><milestone n="A" unit="zone" type="gridlike"/>-<supplied reason="lost">nāḻiyum kaṟi</supplied>-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <unclear><g type="danda">.</g></unclear></item>
-			
-			<item>I<hi rend="grantha">ndrā</hi>ṇiyārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum ilai-y-amutu nā<milestone n="B" unit="zone" type="gridlike" break="no"/><!--check location of milestone-->lum <unclear><g type="danda">.</g></unclear></item>
-			
-			<item><hi rend="grantha">cā</hi>muṇṭē<hi rend="grantha">śva</hi>riyārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-nāḻiyu<supplied reason="lost">m</supplied> * * * * *</item>
-			
-			<item><lb n="16"/><milestone n="A" unit="zone" type="gridlike"/><gap reason="lost" quantity="5" unit="character" precision="low"/> kuṟuṇi nā-ṉāḻiyum <hi rend="grantha">Arddha</hi>yāmattukku tiru-v-amut-arici nā-ṉāḻiyum <hi rend="grantha">sa</hi>n=ti nālukku kaṟi-y-amutu Eṭṭum Aṭai-k-kāy-amutu Eṭṭum Ilai-y-amutu patiṉāṟum <hi rend="grantha">ga</hi>ṇapatiyār Arumukkiya ko tu <milestone n="B" unit="zone" type="gridlike" break="no"/> ku la ppiḷḷaiyārkku <hi rend="grantha">sa</hi>n=ti <unclear>Oṉṟu</unclear>kku <unclear>ti</unclear>ru-v-amut-ari<unclear>ci</unclear> nā-ṉāḻiyum <supplied reason="lost">kaṟi-y-amutu</supplied>	
-				<lb n="17"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">Iraṇṭum A</supplied>ṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
-			
-			<item>mūla<hi rend="grantha">sthā</hi>ṉattu <hi rend="grantha">cāmu</hi>ṇṭē<hi rend="grantha">śva</hi>riyārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>		
-			
-			<item>yō<hi rend="grantha">ge<milestone n="B" unit="zone" type="gridlike" break="no"/><!--check location of milestone-->śvari</hi>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum <supplied reason="lost">Aṭai-k-kāy-a</supplied>
-				<lb n="18" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/><supplied reason="lost">mutu iraṇṭu</supplied>m Ilai-y-amutu nālum</item>
-			
-			<item><hi rend="grantha">kṣettra-pāla-dē</hi>varkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
-						
-			<item><hi rend="grantha">mahā-śāstā</hi>vukku tiru-v-amut-arici nā-<milestone n="B" unit="zone" type="gridlike" break="no"/>ṉāḻiyum kaṟi-y-amutu Iraṇṭum aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nā<supplied reason="lost">lum</supplied> * * * *</item>
-			
-			<item><lb n="19"/><milestone n="A" unit="zone" type="gridlike"/>* * * * * * kku tiru-v-amut-arici <unclear>nā-ṉāḻiyum</unclear> kaṟi-y-amutu Iraṇṭum aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
-			
-			<item><hi rend="grantha">sū<reg>r</reg>yya-de</hi>varkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amu<milestone n="B" unit="zone" type="gridlike" break="no"/>tu Iraṇṭum Ilai-y-amutu nālum</item>
-		
-		</list>
-		
-		Āka
-		
-		<hi rend="grantha">de</hi>varkaḷukku nāḷ oṉṟukku ti * * * * *
-		<lb n="20"/><milestone n="A" unit="zone" type="gridlike"/>* * * * * * mu<choice><orig>n-n</orig><reg>ṉ-ṉ</reg></choice>ūṟṟ’ a<unclear>ṟupa</unclear>ti<unclear>ṉukku</unclear> tiru-v-amut-arici Iru-nūṟṟ’ eḻu-patiṉ kalatti<choice><orig>n</orig><reg>ṉ</reg></choice>āl Iraṇṭ’ añc’ ākki nel Aṟu-nūṟṟ’ eḻu-patt’ aiṅ-kalam		
-	</p>
-	
-	<p>
-		
-	<list>
-		<item>kaṟi-y-amut’ oṉṟukku nel Uḻakk' āka nāḷ Oṉṟukku nel ku<milestone n="B" unit="zone" type="gridlike" break="no"/>ṟuṇi Oru nāḻi <supplied reason="lost">y-āka nāḷ</supplied> munnūṟṟ’ aṟu-patiṉukku mu-p-pattu m<supplied reason="lost">u-k-kalaṉē Oṉpatu</supplied>
-		<lb n="21"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">kuṟuṇi</supplied></item>
-		
-		<item><supplied reason="lost">nāḷ Oṉ</supplied>ṟukku A<supplied reason="lost">ṭ</supplied>ai-<supplied reason="lost">k-k</supplied>āy-amutu muppatt’ <unclear>āṟ’ āka n</unclear>āḷ muṉ-nūṟṟ’ aṟu-patukku Aṭai-k-kāy-amutu paṉnīrāyirattu to<choice><orig>ḷ</orig><reg>ḷḷ</reg></choice>āyiratt’ aṟu-patukku Aṭai-k-kāy-amutu pattukku nel nāḻi y-āka patiṉ mu-k-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p <milestone n="B" unit="zone" type="gridlike" break="no"/> patakku</item>
-		
-		<item>nāḷ Oṉṟukku Ilai-y-amu<unclear>tu</unclear> Eḻupatt’ iraṇt’ āka nāḷ munnūṟṟ<supplied reason="lost">’ aṟupatukku</supplied> <supplied reason="lost">Irupat</supplied>
-		<lb n="22" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/><supplied reason="lost">t’ ai-y-āyira</supplied><unclear>ttu-t</unclear> to<choice><orig>ḷ</orig><reg>ḷḷ</reg></choice>āyirattu Irupatukku Ilaiyamut’ iru-patukku nel nāḻi y-āka nel patiṉ mukkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p patakk’</item>
-	</list>
-		
-		āka
-		
-		<hi rend="grantha">de</hi>varkaḷukku Ōr āṭṭaikku nellu Eḻu ṉūṟṟu mu-p-patt’ aiṅ-ka<milestone n="B" unit="zone" type="gridlike" break="no"/>laṉē y-iru-tūṇi-k kuṟuṇi <g type="gomutraFinal">.</g>
-	</p>
-	
-	<p>
-		<list>
-			<item>Uttara<hi rend="grantha">m-a</hi>yana-<supplied reason="lost"><hi rend="grantha">saṃkrā</hi></supplied>n=ti nāḷ <supplied reason="lost"><hi rend="grantha">sna</hi>panam Āṭi Aruḷu</supplied>
-				<lb n="23" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>kaikku
-				kalacatti<choice><orig>n</orig><reg>ṉ</reg></choice> k<choice><orig>i</orig><reg>ī</reg></choice>ḻ Aṭṭa nel tūṇi Arici nā-ṉāḻiyāl nel ku<unclear>ṟu</unclear>ṇi</item>
-			
-			<item><hi rend="grantha"><unclear>snapa</unclear></hi>na-<hi rend="grantha">dravyam</hi> vēṇṭuva<choice><orig>n</orig><reg>ṉ</reg></choice>a koḷḷa-k kācu kālukku nellu Iru-tūṇi y-iru-nāḻi 
-				piratāna-kumpañ cūḻa-p puṭavai Onṟukku-k kācu Arai<milestone n="B" unit="zone" type="gridlike" break="no"/>-<supplied reason="lost">k-kālu</supplied>kku nellu tūṇi Oru <unclear>n</unclear>āḻi
-				per<unclear>u</unclear>n=-tiru-v-amut’ arici tūṇi-p <supplied reason="lost">patakki<choice><orig>n</orig><reg>ṉ</reg></choice>āl I</supplied>
-				<lb n="24" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/><supplied reason="lost">ra</supplied><unclear>ṇṭ</unclear>’ añc’ ākki nel kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mu-k-kuṟuṇi
-				kaṟi-y-amutu nālukku nel iru-nāḻi
-				A<unclear>ṭai</unclear>-k-kāy-amutu Iru-patukkum ilai-y-amutu nāṟ-patukku<supplied reason="omitted">m</supplied> nel nā-nāḻi</item>
-			
-			<item>yō<hi rend="grantha">gi</hi>nī-yō<hi rend="grantha">geśvara-pūjai</hi>kku mattiya-pānam Iru-kalattukku nel kala<milestone n="B" unit="zone" type="gridlike" break="no"/>m
-				<supplied reason="lost">A</supplied><unclear>ri</unclear><supplied reason="lost">ci</supplied>] tūṇiyi<choice><orig>n</orig><reg>ṉ</reg></choice>āl Iraṇṭ’ añc’ ākki nel iru-tūṇi-p patakku <supplied reason="lost">Āṭ’ onṟi<choice><orig>n</orig><reg>ṉ</reg></choice>āl</supplied>
-				<lb n="25"/><milestone n="A" unit="zone" type="gridlike"/>kācu kālē Arai-k-kālukku nel kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mu-n-ṉāḻi <g type="gomutraFinal">.</g></item>
-			
-			<item><hi rend="grantha">dakṣa</hi>ṇam-ayana-<hi rend="grantha">saṃkrā</hi>n=ti nā<unclear>ḷ</unclear> <hi rend="grantha">sna</hi>panam Āṭi Aruḷukaikku
-				kalacatti<choice><orig>n</orig><reg>ṉ</reg></choice> k<choice><orig>i</orig><reg>ī</reg></choice>ḻ aṭṭa nel tūṇi Arici nā-ṉāḻiyāl nel kuṟuni piratāna-kumpañ cūḻa-p puṭa<unclear>vai</unclear> Onṟukku kācu <milestone n="B" unit="zone" type="gridlike" break="no"/> Arai-k-kālukku nel tūṇi Oru-nāḻi</item>
-			
-			<item><lb n="26"/><milestone n="A" unit="zone" type="gridlike"/><hi rend="grantha">snapa</hi>na-<hi rend="grantha">dravya</hi>ṅ <unclear>ko</unclear>ḷḷa-k kācu kālukku nel Iru-tūṇi Iru-nāḻi
-				perun=-tiru-v-amutukku Arici tūṇi-p- patakki<choice><orig>n</orig><reg>ṉ</reg></choice>āl Iraṇṭ’ añc’ ākki nel * kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mu-k-kuṟuṇi
-				kari-y-amutu nāḻukku nel Iru-nāḻi
-				Aṭai-k-kāy-amu<milestone n="B" unit="zone" type="gridlike" break="no"/>tu Iru-patukkum
-				Ilai-y-amutu nāṟ-pa
-				<lb n="27" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>tukkum nel nā-nāḻi</item>
-			
-			<item>yō<hi rend="grantha">gi</hi>ni-yō<hi rend="grantha">geśvara-pūjai</hi>kku mattiya-pānam Iru-kalattināl neṟ kalam
-				Arici tūṇiyiṉāl Iraṇṭ’ añc’ ākki nel v-iru-tūni-p patakku
-				Āṭ’ onṟi<choice><orig>n</orig><reg>ṉ</reg></choice>āl kācu kālē Arai-k-kā<milestone n="B" unit="zone" type="gridlike" break="no"/>li[n>ṉ]āl neṟ kala[n>ṉ]ē mu-n-nāḻi [...]</item>
-			
-			<item><lb n="28"/><milestone n="A" unit="zone" type="gridlike"/><hi rend="grantha">sū<unclear>r</unclear>yya-graha</hi>ṇattu nāḷ <hi rend="grantha"><unclear>snapa</unclear></hi>nam āṭi Aruḷukaikku
-				kalacatti<choice><orig>n</orig><reg>ṉ</reg></choice> kīḻ Aṭṭa nel tūṇi Arici nā-<choice><orig>n</orig><reg>ṉ</reg></choice>āḻiyi<choice><orig>n</orig><reg>ṉ</reg></choice>āl nel kuṟuni
-				piratāna-kumpañ cūḻa-p puṭavai Oṉṟukku kācu Araikkālukku nel <unclear>t</unclear>ūṇi Or<supplied reason="lost">u</supplied> <milestone n="B" unit="zone" type="gridlike" break="no"/> nāḻi</item>
-			
-		</list>
-	</p>
-         </div>
-         
-<div type="apparatus">
-	
-	<listApp>
-		
-		<!--<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Rice1905_01">...</rdg>
-		</app>-->
-		
-		<app loc="1">
-			<lem>irukuva<unclear>ṭaṉai</unclear>yata<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
-			<rdg source="bib:Rice1905_01">i <gap reason="lost" quantity="1" unit="character"/> ku <gap reason="lost" quantity="5" unit="character"/> ṉa <gap reason="lost" quantity="1" unit="character"/> tan</rdg>
-		</app>
-		
-		<app loc="4">
-			<lem>Atikāri<supplied reason="lost">kaḷ jayaṅ-koṇṭa</supplied><lb n="5" break="no"/>cōḻa°</lem>
-			<rdg source="bib:Rice1905_01">Atikāri<lb n="5"/> <gap reason="lost" quantity="1" unit="character"/> ḻa°</rdg>
-		</app>
-		
-		<app loc="5">
-			<lem><add place="left">cō</add>ḻa°</lem>
-			<rdg source="bib:Rice1905_01"><gap reason="lost" quantity="1" unit="character"/> ḻa°</rdg>
-		</app>
-		
-		<!--<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Rice1905_01">...</rdg>
-		</app>
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Rice1905_01">...</rdg>
-		</app>
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Rice1905_01">...</rdg>
-		</app>
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Rice1905_01">...</rdg>
-		</app>
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Rice1905_01">...</rdg>
-		</app>-->					
-		
-	</listApp>
-</div>
-         
-<div type="translation" resp="part:reda part:emfr part:sass part:matr part:vimu">
-
-	<p n="1">
-		Prosperity! Fortune!
-	</p>
-	
-	<p n="4">
-		Second year <supplied reason="explanation"><foreign>yāṇṭu iraṇṭāvatu</foreign></supplied> <supplied reason="subaudible">of the reign</supplied> of the glorious Lord, king Rājendra Cōḻa <supplied reason="explanation"><foreign>uṭaiyār śrīrācēntiracōḻatēvarkku</foreign></supplied> alias king Rājakesarivarman <supplied reason="explanation"><foreign>kōvirācakēcarivaṉmarāṉa</foreign><note>That is, Kulottuṅga Cōḻa I, as named in inscriptions of the early years of his reign.</note></supplied>,
-	</p>
-	
-	<p n="1-4">
-		who ...
-	</p>
-	
-</div>
-	
-<div type="commentary">
-           
-           <p>This inscription appears to be part of a group of three related inscriptions found in the same temple, the other two being EC 10 Kl 106d = <ref target="DHARMA_INSTamilOutsideTN00004">TIOTN 4</ref> and EC 10 Kl 112a <ref target="DHARMA_INSTamilOutsideTN00017">TIOTN 17</ref>.</p>
-	<p>At the end of each line, approximately 6 characters are covered by a later construction.</p>
-	
-</div>
-        	
-<div type="bibliography">
-	
-	<p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 108). The text is transliterated and translated along with EC 10 Kl 112a, which is edited independently as such in Tamil transcription, but considered as the continuation of EC 10 Kl 108 in the Roman transliteration and the translation.</p>
-	
-	<p>This edition by Renato Davalos, Emmanuel Francis, Margherita Trento, S.A.S. Sarma, Vigneshwaran Muralidaran (2024), based on EFEO pictures (2004, 2017), except for lines 9-13, based on <bibl><ptr target="bib:Rice1905_01"/></bibl>.</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="EC">
-			<ptr target="bib:Rice1905_01"/>
-			<citedRange unit="item">Kl 108</citedRange>
-			<!--<citedRange unit="part">Text of the Inscriptions in Roman characters, arranged to show the composition</citedRange>
-			<citedRange unit="page">35-37</citedRange>
-			<citedRange unit="item">Kl 108</citedRange>
-			<citedRange unit="part">Translations of the Inscriptions</citedRange>
-			<citedRange unit="page">35-36</citedRange>
-			<citedRange unit="item">Kl 108</citedRange>
-			<citedRange unit="part">Text of the Inscriptions, arranged as in the original, in Tamil characters</citedRange>
-			<citedRange unit="page">18-20</citedRange>-->
-		</bibl>	
-		
-	</listBibl>			
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:Cox2016_01"/>
-		</bibl>	
-		
-	</listBibl>
-</div>
-      </body>
-  </text>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p>Letter <foreign>na</foreign> regularly found instead of expected <foreign>ṉa</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-02-15">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">   
+                
+                <!--add milestone-->
+                <!--<choice><orig>n</orig><reg>ṉ</reg></choice>-->
+                
+                <ab>
+                    <lb n="1" style="text-align: left"/><milestone n="A" unit="zone" type="gridlike"/><hi rend="grantha">svasti śrī</hi>		
+                </ab>	
+                
+                <lg>
+                    <l n="1">tiru ma<choice><orig>n</orig><reg>ṉ</reg></choice>ṉi viḷaṅkum iru-kuva<unclear>ṭaṉai</unclear><milestone n="B" unit="zone" type="gridlike" break="no"/>yata<choice><orig>n</orig><reg>ṉ</reg></choice></l>
+                    <l n="2">tōḷum vāḷun= tuṇai y-eṉa-k kē<choice><orig>ḻ</orig><reg>ḷ</reg></choice>a<unclear>lar</unclear></l>
+                    <l n="3"><supplied reason="lost">vañca</supplied><lb n="2" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>ṉai kaṭan=tu vayirākarattu-k</l>
+                    <l n="4">kuñcara-k-kuḻām pala vāri Añcali<supplied reason="omitted">l</supplied></l>
+                    <l n="5">cakkara-kōṭṭattu-t tārā-v-aracaṉai-t</l>
+                    <l n="6">tikku nikaḻa-t tiṟai koṇṭ-aruḷi</l>
+                    <l n="7">Arukkaṉ utaiyatt’ <supplied reason="lost">ā</supplied>cai<milestone n="B" unit="zone" type="gridlike" break="no"/>yil irukkuṅ</l>
+                    <l n="8">kamalam aṉaiya nilamakaḷ taṉṉai</l>
+                    <l n="9">mu<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice><choice><orig>i</orig><reg>ī</reg></choice><unclear>r</unclear><supplied reason="lost">k kuḷitta</supplied> <lb n="3"/><milestone n="A" unit="zone" type="gridlike"/> vannāḷ tirumāl</l>
+                    <l n="10">āti-k kēḻal āki y-eṭu-t taṉavi</l>
+                    <l n="11">yātuñ caliyā vakaiyi<supplied reason="lost"><choice><orig>n</orig><reg>ṉ</reg></choice></supplied>it’ eṭuttu-t</l>
+                    <l n="12">taṉ kuṭai niḻalil iṉpuṟa Irutti<choice><sic>t</sic><corr>l</corr></choice></l>
+                    <l n="13">tikiriyum puliyun= ticai toṟu naṭāttip</l>
+                    <l n="14">pukaḻun= tarumamum <unclear>p</unclear>uvi <milestone n="B" unit="zone" type="gridlike"/> toṟum niṟutti</l>
+                    <l n="15">v<choice><orig>i</orig><reg>ī</reg></choice>ramun= tiyākamu māṉamuṅ karuṇaiyum</l>
+                    <l n="16">Urimai-c c<unclear>u</unclear><supplied reason="lost">ṟṟam-āka-p piri</supplied><lb n="4" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>yāt</l>
+                    <l n="17">tala nikaḻ <hi rend="grantha">ja</hi>yamun= tāṉum vīṟṟ-irun=tu</l>
+                    <l n="18">kula-maṇi ma‡kuṭa muṟai‡yiṟ cūṭi-t</l>
+                    <l n="19">taṉ kaḻal tarāti<choice><orig>v</orig><reg>p</reg></choice>ar cūṭa-c ceṅ‡kōl</l>
+                    <l n="20">nāva‡lam puvitoṟum naṭāttiya</l>
+                </lg>
+                
+                <p>
+                    kō-<hi rend="grantha">rāja</hi>-kē<hi rend="grantha">sari</hi>-va<hi rend="grantha">nma</hi>r-āṉa
+                    <unclear>U</unclear>⌈<milestone n="B" unit="zone" type="gridlike" break="no"/><unclear>ṭ</unclear>aiyār <hi rend="grantha">śrī-rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu Iraṇṭ-āvatu
+                </p>
+                
+                <p>
+                    Atikāri<supplied reason="lost">kaḷ jayaṅ-koṇṭa</supplied>
+                    <lb n="5" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/><add place="left">cō</add>ḻa-maṇṭalattu-k kāliyūr-k-kōṭṭattu-p
+                    perum-puliyūr-nāṭṭu-p p<unclear>ā</unclear>ṇṭiyam-pākkattu-p pāṇṭiyam-pākkam-uṭaiyār Ampalava<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-p-pon=taiyār-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a vīra-cikā-maṇi-mūvē<milestone n="B" unit="zone" type="gridlike" break="no"/>n=tavēḷār vi<hi rend="grantha">jai</hi>ya-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-maṇṭalattu-k kuvaḷāla-nā<supplied reason="lost">ṭṭu</supplied> <supplied reason="lost"> kuvaḷāla-pura</supplied>
+                    <lb n="6" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>ttu-p piṭāriyār kōyiliṉ uḷḷāl tiru-c-cuṟṟu-maṇṭapattu-k kōyiṟ karumam ārāyā v-irun=tu
+                    
+                    It-tēvar tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>am-āṉa Ūrkaḷāl van=ta māṭai ⌈<milestone n="B" unit="zone" type="gridlike" break="no"/>nell ākki It-tēvarkkum pati-pāta-mūla-p-paṭṭ-uṭaiya <supplied reason="lost">pañcācāryarkkum</supplied>
+                    <lb n="7"/><milestone n="A" unit="zone" type="gridlike"/>pala-paṇi-nivan=takkārkkum nivan=tañ ceyta paṭi Uṇṭō v-eṉṟu
+                    
+                    It-tēvarkku māṭāpattiyañ ceykiṟa ka<choice><orig>n</orig><reg>ṉ</reg></choice>ṉāṭaka-paṇṭitaraiyum pati-pāta-mūla-p-paṭṭ-uṭai<milestone n="B" unit="zone" type="gridlike" break="no"/>-p pañcācāriya-t-tēvakanmikaḷaiyuṅ kēṭka
+                    
+                    Uṭaiyār <hi rend="grantha">śrī-<supplied reason="lost">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</supplied></hi>-<supplied reason="lost">cō</supplied>
+                    <lb n="8" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>ḻa-<hi rend="grantha">de</hi>varkku yāṇṭu iraṇṭ-āvatu varaiy<unclear>u</unclear>m nivan=tañ ceytat’ illai y-eṉ<unclear>ṟu</unclear> colla
+                    
+                    mēṟ-paṭiyārkaḷaiyum puravu-vari-tiṇaikaḷattu mukaveṭṭi * * * yūr-k<milestone n="B" unit="zone" type="gridlike" break="no"/>-kōṭṭattu <unclear>A</unclear>raṇi-nilai mumm<unclear>u</unclear>ṭi-cōḻa-nallūr <unclear>Iḷai</unclear><supplied reason="lost">ya-mūvēn=ta</supplied>
+                    
+                    <!--place <milestone n="B" unit="zone" type="gridlike" break="no"/> for lines 9-13-->
+                    <lb n="9" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>vēḷāṉ kaṇpu * m-āṉa nirupa-cikāmaṇi-viḻupparaiyaṉai vaiyttu-k koṭa * tu Atikārikaḷ vīra-cikāmaṇi-mūvēn=tavēḷar nivan=tañ ceyta paṭi
+                    tēvatānam
+                    kuṟuṇi nel [...]
+                    <lb n="10"/><milestone n="A" unit="zone" type="gridlike"/>māṭai nūṟṟ’ eṇ-patt' ēḻē mūnṟu mā <g type="ddanda">.</g>
+                </p>
+                
+                <p>		
+                    parakkampaḷḷi māṭai Iru-nūṟṟu Iraṇṭē mā-kāṇi <g type="ddanda">.</g>
+                    * r māṭai patt’ araiyē Oru mā
+                    va<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> kaḻai * māṉṟaṉ pa * * * Eṇ-ṇūṟṟ’ oru paṟ to * * <g type="pc">.</g>
+                    
+                    Āka
+                    
+                    <lb n="11" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>* Aiñ-ñūṟṟ’ oru patt’ ēḻē mūnṟu mā-kāṇiyināl māṭai Onṟukku kācu Iraṇṭ' āka kācu Āyirattu mu-p-pattu nālē <choice><sic>ḻ</sic><corr>m</corr></choice>ummā v-araikku kāc’ onṟukku rā<hi rend="grantha">ja</hi> * * * * * * * * nellu * Ira * ṭi * * nellu Iraṇṭ’ āyirat [...]
+                    
+                    <lb n="12"/><milestone n="A" unit="zone" type="gridlike"/>* * * nē tūṇiyināl kalaṅ kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi nā-nāḻi vāci * ṟṟi Aru-moḻi-tēvaṉ marakkālāl nellu Iraṇṭ’ āyiratt’ eṇ-ṇūṟṟu nāṟ-pattu mu-k-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē y-Iru-tūṇi mu-k-kuṟuṇikkum nivan=tañ ce<supplied reason="omitted">y</supplied>ta paṭi <g type="ddanda">.</g>		
+                </p>
+                <p>
+                    <list>			
+                        <item>vīra-<hi rend="grantha">bhadra-de</hi>varku <hi rend="grantha">sa</hi><supplied reason="lost">n=ti</supplied> Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amu<supplied reason="lost">tu</supplied> Iraṇṭum Aṭai-k-kā-y-a<supplied reason="lost">mutu iraṇṭum</supplied>
+                            <lb n="13"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">ilai-y-a</supplied>mutu nālum <g type="danda">.</g></item>
+                        
+                        <item><hi rend="grantha">brahmāṇi</hi>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <g type="danda">.</g></item>
+                        
+                        <item><hi rend="grantha">Īśvari</hi>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici <supplied reason="lost">nā-ṉāḻiyum</supplied> kaṟi-y-amutu Iraṇṭum Aṭai-<supplied reason="lost">k-kāy-amutu Ira</supplied>ṇṭum ilai-y-amu<supplied reason="lost">tu nālum</supplied></item>
+                        
+                        <item><lb n="14"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">kaumāriy</supplied>ārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-nāḻiyum kaṟi-y-amutu I<unclear>ra</unclear>ṇṭum aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <unclear><g type="danda">.</g></unclear></item>
+                        
+                        <item>vaiyi<hi rend="grantha">ṣṇa</hi>v<unclear>i</unclear>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum aṭai-k-<unclear>k</unclear><milestone n="B" unit="zone" type="gridlike" break="no"/><!--check location of milestone-->āy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
+                        
+                        <item>vā<hi rend="grantha">rāhi</hi><unclear>y</unclear>ār<supplied reason="lost">kku</supplied> san=t<unclear>i</unclear> Oṉ<supplied reason="lost">ṟukku tiru-v-amut’ arici nā</supplied>
+                            <lb n="15" break="no"/><milestone n="A" unit="zone" type="gridlike"/>-<supplied reason="lost">nāḻiyum kaṟi</supplied>-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <unclear><g type="danda">.</g></unclear></item>
+                        
+                        <item>I<hi rend="grantha">ndrā</hi>ṇiyārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum ilai-y-amutu nā<milestone n="B" unit="zone" type="gridlike" break="no"/><!--check location of milestone-->lum <unclear><g type="danda">.</g></unclear></item>
+                        
+                        <item><hi rend="grantha">cā</hi>muṇṭē<hi rend="grantha">śva</hi>riyārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-nāḻiyu<supplied reason="lost">m</supplied> * * * * *</item>
+                        
+                        <item><lb n="16"/><milestone n="A" unit="zone" type="gridlike"/><gap reason="lost" quantity="5" unit="character" precision="low"/> kuṟuṇi nā-ṉāḻiyum <hi rend="grantha">Arddha</hi>yāmattukku tiru-v-amut-arici nā-ṉāḻiyum <hi rend="grantha">sa</hi>n=ti nālukku kaṟi-y-amutu Eṭṭum Aṭai-k-kāy-amutu Eṭṭum Ilai-y-amutu patiṉāṟum <hi rend="grantha">ga</hi>ṇapatiyār Arumukkiya ko tu <milestone n="B" unit="zone" type="gridlike" break="no"/> ku la ppiḷḷaiyārkku <hi rend="grantha">sa</hi>n=ti <unclear>Oṉṟu</unclear>kku <unclear>ti</unclear>ru-v-amut-ari<unclear>ci</unclear> nā-ṉāḻiyum <supplied reason="lost">kaṟi-y-amutu</supplied>	
+                            <lb n="17"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">Iraṇṭum A</supplied>ṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
+                        
+                        <item>mūla<hi rend="grantha">sthā</hi>ṉattu <hi rend="grantha">cāmu</hi>ṇṭē<hi rend="grantha">śva</hi>riyārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>		
+                        
+                        <item>yō<hi rend="grantha">ge<milestone n="B" unit="zone" type="gridlike" break="no"/><!--check location of milestone-->śvari</hi>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum <supplied reason="lost">Aṭai-k-kāy-a</supplied>
+                            <lb n="18" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/><supplied reason="lost">mutu iraṇṭu</supplied>m Ilai-y-amutu nālum</item>
+                        
+                        <item><hi rend="grantha">kṣettra-pāla-dē</hi>varkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
+                        
+                        <item><hi rend="grantha">mahā-śāstā</hi>vukku tiru-v-amut-arici nā-<milestone n="B" unit="zone" type="gridlike" break="no"/>ṉāḻiyum kaṟi-y-amutu Iraṇṭum aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nā<supplied reason="lost">lum</supplied> * * * *</item>
+                        
+                        <item><lb n="19"/><milestone n="A" unit="zone" type="gridlike"/>* * * * * * kku tiru-v-amut-arici <unclear>nā-ṉāḻiyum</unclear> kaṟi-y-amutu Iraṇṭum aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
+                        
+                        <item><hi rend="grantha">sū<reg>r</reg>yya-de</hi>varkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amu<milestone n="B" unit="zone" type="gridlike" break="no"/>tu Iraṇṭum Ilai-y-amutu nālum</item>
+                        
+                    </list>
+                    
+                    Āka
+                    
+                    <hi rend="grantha">de</hi>varkaḷukku nāḷ oṉṟukku ti * * * * *
+                    <lb n="20"/><milestone n="A" unit="zone" type="gridlike"/>* * * * * * mu<choice><orig>n-n</orig><reg>ṉ-ṉ</reg></choice>ūṟṟ’ a<unclear>ṟupa</unclear>ti<unclear>ṉukku</unclear> tiru-v-amut-arici Iru-nūṟṟ’ eḻu-patiṉ kalatti<choice><orig>n</orig><reg>ṉ</reg></choice>āl Iraṇṭ’ añc’ ākki nel Aṟu-nūṟṟ’ eḻu-patt’ aiṅ-kalam		
+                </p>
+                
+                <p>
+                    
+                    <list>
+                        <item>kaṟi-y-amut’ oṉṟukku nel Uḻakk' āka nāḷ Oṉṟukku nel ku<milestone n="B" unit="zone" type="gridlike" break="no"/>ṟuṇi Oru nāḻi <supplied reason="lost">y-āka nāḷ</supplied> munnūṟṟ’ aṟu-patiṉukku mu-p-pattu m<supplied reason="lost">u-k-kalaṉē Oṉpatu</supplied>
+                            <lb n="21"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">kuṟuṇi</supplied></item>
+                        
+                        <item><supplied reason="lost">nāḷ Oṉ</supplied>ṟukku A<supplied reason="lost">ṭ</supplied>ai-<supplied reason="lost">k-k</supplied>āy-amutu muppatt’ <unclear>āṟ’ āka n</unclear>āḷ muṉ-nūṟṟ’ aṟu-patukku Aṭai-k-kāy-amutu paṉnīrāyirattu to<choice><orig>ḷ</orig><reg>ḷḷ</reg></choice>āyiratt’ aṟu-patukku Aṭai-k-kāy-amutu pattukku nel nāḻi y-āka patiṉ mu-k-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p <milestone n="B" unit="zone" type="gridlike" break="no"/> patakku</item>
+                        
+                        <item>nāḷ Oṉṟukku Ilai-y-amu<unclear>tu</unclear> Eḻupatt’ iraṇt’ āka nāḷ munnūṟṟ<supplied reason="lost">’ aṟupatukku</supplied> <supplied reason="lost">Irupat</supplied>
+                            <lb n="22" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/><supplied reason="lost">t’ ai-y-āyira</supplied><unclear>ttu-t</unclear> to<choice><orig>ḷ</orig><reg>ḷḷ</reg></choice>āyirattu Irupatukku Ilaiyamut’ iru-patukku nel nāḻi y-āka nel patiṉ mukkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p patakk’</item>
+                    </list>
+                    
+                    āka
+                    
+                    <hi rend="grantha">de</hi>varkaḷukku Ōr āṭṭaikku nellu Eḻu ṉūṟṟu mu-p-patt’ aiṅ-ka<milestone n="B" unit="zone" type="gridlike" break="no"/>laṉē y-iru-tūṇi-k kuṟuṇi <g type="gomutraFinal">.</g>
+                </p>
+                
+                <p>
+                    <list>
+                        <item>Uttara<hi rend="grantha">m-a</hi>yana-<supplied reason="lost"><hi rend="grantha">saṃkrā</hi></supplied>n=ti nāḷ <supplied reason="lost"><hi rend="grantha">sna</hi>panam Āṭi Aruḷu</supplied>
+                            <lb n="23" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>kaikku
+                            kalacatti<choice><orig>n</orig><reg>ṉ</reg></choice> k<choice><orig>i</orig><reg>ī</reg></choice>ḻ Aṭṭa nel tūṇi Arici nā-ṉāḻiyāl nel ku<unclear>ṟu</unclear>ṇi</item>
+                        
+                        <item><hi rend="grantha"><unclear>snapa</unclear></hi>na-<hi rend="grantha">dravyam</hi> vēṇṭuva<choice><orig>n</orig><reg>ṉ</reg></choice>a koḷḷa-k kācu kālukku nellu Iru-tūṇi y-iru-nāḻi 
+                            piratāna-kumpañ cūḻa-p puṭavai Onṟukku-k kācu Arai<milestone n="B" unit="zone" type="gridlike" break="no"/>-<supplied reason="lost">k-kālu</supplied>kku nellu tūṇi Oru <unclear>n</unclear>āḻi
+                            per<unclear>u</unclear>n=-tiru-v-amut’ arici tūṇi-p <supplied reason="lost">patakki<choice><orig>n</orig><reg>ṉ</reg></choice>āl I</supplied>
+                            <lb n="24" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/><supplied reason="lost">ra</supplied><unclear>ṇṭ</unclear>’ añc’ ākki nel kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mu-k-kuṟuṇi
+                            kaṟi-y-amutu nālukku nel iru-nāḻi
+                            A<unclear>ṭai</unclear>-k-kāy-amutu Iru-patukkum ilai-y-amutu nāṟ-patukku<supplied reason="omitted">m</supplied> nel nā-nāḻi</item>
+                        
+                        <item>yō<hi rend="grantha">gi</hi>nī-yō<hi rend="grantha">geśvara-pūjai</hi>kku mattiya-pānam Iru-kalattukku nel kala<milestone n="B" unit="zone" type="gridlike" break="no"/>m
+                            <supplied reason="lost">A</supplied><unclear>ri</unclear><supplied reason="lost">ci</supplied>] tūṇiyi<choice><orig>n</orig><reg>ṉ</reg></choice>āl Iraṇṭ’ añc’ ākki nel iru-tūṇi-p patakku <supplied reason="lost">Āṭ’ onṟi<choice><orig>n</orig><reg>ṉ</reg></choice>āl</supplied>
+                            <lb n="25"/><milestone n="A" unit="zone" type="gridlike"/>kācu kālē Arai-k-kālukku nel kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mu-n-ṉāḻi <g type="gomutraFinal">.</g></item>
+                        
+                        <item><hi rend="grantha">dakṣa</hi>ṇam-ayana-<hi rend="grantha">saṃkrā</hi>n=ti nā<unclear>ḷ</unclear> <hi rend="grantha">sna</hi>panam Āṭi Aruḷukaikku
+                            kalacatti<choice><orig>n</orig><reg>ṉ</reg></choice> k<choice><orig>i</orig><reg>ī</reg></choice>ḻ aṭṭa nel tūṇi Arici nā-ṉāḻiyāl nel kuṟuni piratāna-kumpañ cūḻa-p puṭa<unclear>vai</unclear> Onṟukku kācu <milestone n="B" unit="zone" type="gridlike" break="no"/> Arai-k-kālukku nel tūṇi Oru-nāḻi</item>
+                        
+                        <item><lb n="26"/><milestone n="A" unit="zone" type="gridlike"/><hi rend="grantha">snapa</hi>na-<hi rend="grantha">dravya</hi>ṅ <unclear>ko</unclear>ḷḷa-k kācu kālukku nel Iru-tūṇi Iru-nāḻi
+                            perun=-tiru-v-amutukku Arici tūṇi-p- patakki<choice><orig>n</orig><reg>ṉ</reg></choice>āl Iraṇṭ’ añc’ ākki nel * kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mu-k-kuṟuṇi
+                            kari-y-amutu nāḻukku nel Iru-nāḻi
+                            Aṭai-k-kāy-amu<milestone n="B" unit="zone" type="gridlike" break="no"/>tu Iru-patukkum
+                            Ilai-y-amutu nāṟ-pa
+                            <lb n="27" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>tukkum nel nā-nāḻi</item>
+                        
+                        <item>yō<hi rend="grantha">gi</hi>ni-yō<hi rend="grantha">geśvara-pūjai</hi>kku mattiya-pānam Iru-kalattināl neṟ kalam
+                            Arici tūṇiyiṉāl Iraṇṭ’ añc’ ākki nel v-iru-tūni-p patakku
+                            Āṭ’ onṟi<choice><orig>n</orig><reg>ṉ</reg></choice>āl kācu kālē Arai-k-kā<milestone n="B" unit="zone" type="gridlike" break="no"/>li[n>ṉ]āl neṟ kala[n>ṉ]ē mu-n-nāḻi [...]</item>
+                        
+                        <item><lb n="28"/><milestone n="A" unit="zone" type="gridlike"/><hi rend="grantha">sū<unclear>r</unclear>yya-graha</hi>ṇattu nāḷ <hi rend="grantha"><unclear>snapa</unclear></hi>nam āṭi Aruḷukaikku
+                            kalacatti<choice><orig>n</orig><reg>ṉ</reg></choice> kīḻ Aṭṭa nel tūṇi Arici nā-<choice><orig>n</orig><reg>ṉ</reg></choice>āḻiyi<choice><orig>n</orig><reg>ṉ</reg></choice>āl nel kuṟuni
+                            piratāna-kumpañ cūḻa-p puṭavai Oṉṟukku kācu Araikkālukku nel <unclear>t</unclear>ūṇi Or<supplied reason="lost">u</supplied> <milestone n="B" unit="zone" type="gridlike" break="no"/> nāḻi</item>
+                        
+                    </list>
+                </p>
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <!--<app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:Rice1905_01">...</rdg>
+                        </app>-->
+                    
+                    <app loc="1">
+                        <lem>irukuva<unclear>ṭaṉai</unclear>yata<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
+                        <rdg source="bib:Rice1905_01">i <gap reason="lost" quantity="1" unit="character"/> ku <gap reason="lost" quantity="5" unit="character"/> ṉa <gap reason="lost" quantity="1" unit="character"/> tan</rdg>
+                    </app>
+                    
+                    <app loc="4">
+                        <lem>Atikāri<supplied reason="lost">kaḷ jayaṅ-koṇṭa</supplied><lb n="5" break="no"/>cōḻa°</lem>
+                        <rdg source="bib:Rice1905_01">Atikāri<lb n="5"/> <gap reason="lost" quantity="1" unit="character"/> ḻa°</rdg>
+                    </app>
+                    
+                    <app loc="5">
+                        <lem><add place="left">cō</add>ḻa°</lem>
+                        <rdg source="bib:Rice1905_01"><gap reason="lost" quantity="1" unit="character"/> ḻa°</rdg>
+                    </app>
+                    
+                    <!--<app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:Rice1905_01">...</rdg>
+                        </app>
+                        
+                        <app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:Rice1905_01">...</rdg>
+                        </app>
+                        
+                        <app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:Rice1905_01">...</rdg>
+                        </app>
+                        
+                        <app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:Rice1905_01">...</rdg>
+                        </app>
+                        
+                        <app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:Rice1905_01">...</rdg>
+                        </app>-->					
+                    
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:reda part:emfr part:sass part:matr part:vimu">
+                
+                <p n="1">
+                    Prosperity! Fortune!
+                </p>
+                
+                <p n="4">
+                    Second year <supplied reason="explanation"><foreign>yāṇṭu iraṇṭāvatu</foreign></supplied> <supplied reason="subaudible">of the reign</supplied> of the glorious Lord, king Rājendra Cōḻa <supplied reason="explanation"><foreign>uṭaiyār śrīrācēntiracōḻatēvarkku</foreign></supplied> alias king Rājakesarivarman <supplied reason="explanation"><foreign>kōvirācakēcarivaṉmarāṉa</foreign><note>That is, Kulottuṅga Cōḻa I, as named in inscriptions of the early years of his reign.</note></supplied>,
+                </p>
+                
+                <p n="1-4">
+                    who ...
+                </p>
+                
+            </div>
+            
+            <div type="commentary">
+                
+                <p>This inscription appears to be part of a group of three related inscriptions found in the same temple, the other two being EC 10 Kl 106d = <ref target="DHARMA_INSTamilOutsideTN00004">TIOTN 4</ref> and EC 10 Kl 112a <ref target="DHARMA_INSTamilOutsideTN00017">TIOTN 17</ref>.</p>
+                <p>At the end of each line, approximately 6 characters are covered by a later construction.</p>
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 108). The text is transliterated and translated along with EC 10 Kl 112a, which is edited independently as such in Tamil transcription, but considered as the continuation of EC 10 Kl 108 in the Roman transliteration and the translation.</p>
+                
+                <p>This edition by Renato Davalos, Emmanuel Francis, Margherita Trento, S.A.S. Sarma, Vigneshwaran Muralidaran (2024), based on EFEO pictures (2004, 2017), except for lines 9-13, based on <bibl><ptr target="bib:Rice1905_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="EC">
+                        <ptr target="bib:Rice1905_01"/>
+                        <citedRange unit="item">Kl 108</citedRange>
+                        <!--<citedRange unit="part">Text of the Inscriptions in Roman characters, arranged to show the composition</citedRange>
+                            <citedRange unit="page">35-37</citedRange>
+                            <citedRange unit="item">Kl 108</citedRange>
+                            <citedRange unit="part">Translations of the Inscriptions</citedRange>
+                            <citedRange unit="page">35-36</citedRange>
+                            <citedRange unit="item">Kl 108</citedRange>
+                            <citedRange unit="part">Text of the Inscriptions, arranged as in the original, in Tamil characters</citedRange>
+                            <citedRange unit="page">18-20</citedRange>-->
+                    </bibl>	
+                    
+                </listBibl>			
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:Cox2016_01"/>
+                    </bibl>	
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
