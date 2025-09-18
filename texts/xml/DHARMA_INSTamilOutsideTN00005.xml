@@ -90,8 +90,8 @@
 	
 	<!--Check Rice's reading against EFEO pictures-->
 	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>		
 	</ab>
 	
 	<lg n="1" met="āciriyappā">
