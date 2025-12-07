@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Pierre de la Réunion, Temple des casernes</title>
+                <title>Saint Pierre de la Réunion, temple des casernes</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">XDHARMA_INSTamilOutsideTN00000</idno>
+                <idno type="filename">DHARMA_INSTamilOutsideTN100001</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +41,7 @@
                         <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <summary>Construction of the Māriyammaṉ temple, that is, of the building currently known as <foreign xml:lang="fra">temple des casernes</foreign>.</summary>
+                        <summary>Inscription on a stone-slab (49,5 x 28,5 cm). Records the construction of the Māriyammaṉ temple, that is, the temple currently known as <foreign xml:lang="fra">chapelle des casernes</foreign>.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -88,8 +88,8 @@
                 <p>
                     m<choice><sic>a</sic><corr>ā</corr></choice>riyam
                     <lb n="3" break="no"/>ma<choice><orig>n</orig><reg>ṉ</reg></choice> kōv<choice><orig>ī</orig><reg>i</reg></choice>l vē<unclear>ṅ</unclear>
-                    <lb n="4" break="no"/>ka<choice><orig>ṭ=ṭ</orig><reg>ṭ</reg></choice>a-reṭṭi<unclear>yar</unclear> <gap reason="illegible" quantity="2" unit="character"/> matān
-                    <lb n="5"/>t <gap reason="illegible" quantity="4" unit="character"/> mmattālē kaṭṭa
+                    <lb n="4" break="no"/>ka<choice><orig>ṭ=ṭ</orig><reg>ṭ</reg></choice>a-reṭṭi<unclear>yar</unclear> <gap reason="illegible" quantity="5" unit="character"/>
+                    <lb n="5"/><gap reason="illegible" quantity="2" unit="character"/> tammattālē kaṭṭa
                     <lb n="6" break="no"/>-p-paṭṭatu
                 </p>
                 
@@ -113,17 +113,7 @@
                         <lem><unclear reason="eccentric_ductus"><g type="tēti"/></unclear></lem>
                         <note>Unstandard form.</note>
                     </app>
-                    
-                    <app loc="4">
-                        <lem>matān</lem>
-                        <note>Possibly to be normalised as <foreign>matāṉ</foreign>.</note>
-                    </app>
-                    
-                    <app loc="5">
-                        <lem><gap reason="illegible" quantity="4" unit="character"/> mmattālē</lem>
-                        <note>Tentative readings could be <foreign><choice><unclear>tā</unclear><unclear>tar</unclear><unclear>tara</unclear></choice> <unclear>ta</unclear>mmattālē</foreign>.</note>
-                    </app>
-                    
+                   
                 </listApp>
                 
             </div>
@@ -131,11 +121,11 @@
             <div type="translation" resp="part:emfr">
                 
                 <p n="1-2">
-                    1827,<note>The era is not specified and this millesime is not followed, as one would expect, by a symbol for year (unless, what is read as "7" is this symbol in an unstandard form, as are unstandard forms the symbols for <foreign>mācam</foreign> and <foreign>tēti</foreign> in line 2). In the present context (colonial La Réunion, antiquity of the Māriyammaṉ temple), it appears that date is in the common era and not in the Śaka era (as one would expect in a inscription from Tamil Nadu itself).</note> month of Cittirai, date 7.
+                    1827, month of Cittirai, date 7.<note>The era is not specified and this millesime is not followed, as one would expect, by a symbol for year (unless, what is read as "7" is this symbol in an unstandard form, as are unstandard forms the symbols for <foreign>mācam</foreign> and <foreign>tēti</foreign> in line 2). In the present context (colonial La Réunion, antiquity of the Māriyammaṉ temple), it appears that date is in the common era and not in the Śaka era (as one would expect in a inscription from Tamil Nadu itself). It corresponds to April 18, 1827</note>
                 </p>
                 
                 <p n="2-6">
-                    Māriyammaṉ temple constructed <supplied reason="explanation"><foreign>kaṭṭappaṭṭatu</foreign></supplied> by<note>See phrase in instrumental case (-<foreign>ālē</foreign>), which precedes <foreign>kaṭṭappaṭṭatu</foreign>. Because of the illegible portions of lines 4-5, it is not clear whether <foreign>kaṭṭappaṭṭatu</foreign> is to be construed with a subject in nominative case (the donor) and an agent in intrumental case (the contractor) or with just an agent in intrumental case (the donor alone).</note> <gap reason="lost"/> Vēṅkaṭa Reṭṭiyar <gap reason="lost"/> Matān <gap reason="lost"/>.
+                    The Māriyammaṉ temple has been constructed <supplied reason="explanation"><foreign>kaṭṭappaṭṭatu</foreign></supplied> through the pious act <supplied reason="explanation"><foreign>tammattālē</foreign></supplied> <supplied reason="subaudible">of</supplied> Vēṅkaṭa Reṭṭiyar <gap reason="illegible"/>.
                 </p>
                 
             </div>
@@ -147,18 +137,18 @@
                 </p>
                 
                 <p n="2-6">
-                    Temple de Māriyammaṉ construit par <gap reason="lost"/> Vēṅkaṭa Reṭṭiyar <gap reason="lost"/> Matān <gap reason="lost"/>.
+                    Le temple de Māriyammaṉ a été construit par Vēṅkaṭa Reṭṭiyar <gap reason="lost"/>.
                 </p>
                 
             </div>
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p n="1">The era of the year 1827 is not specified and this millesime is not followed, as one would expect, by a symbol for year (unless, what is read as "7" is this symbol in an unstandard form, as are unstandard forms the symbols for <foreign>mācam</foreign> and <foreign>tēti</foreign> in line 2). In the present context (colonial La Réunion, antiquity of the Māriyammaṉ temple), it appears that date is in the common era and not in the Śaka era (as one would expect in a inscription from Tamil Nadu itself). It corresponds, as kindly confirmed to us by Marco Franceschini, to April 18, 1827.</p>
+                </div>
             
             <div type="bibliography">
                 
-                <p>This edition by Emmanuel Francis (2024), based on photos (Darlini Canabady-Moutien). Thanks to Renato Davalos and Margherita Trento for their suggestions.</p>
+                <p>This edition by Emmanuel Francis (2024), based on photos (Darlini Canabady Moutien). Thanks to Renato Davalos and Margherita Trento for their suggestions.</p>
                 
                 <!--<listBibl type="primary">
                     
