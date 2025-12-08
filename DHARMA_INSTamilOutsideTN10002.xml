@@ -24,7 +24,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSTamilOutsideTN100002</idno>
+                <idno type="filename">DHARMA_INSTamilOutsideTN10002</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -48,7 +48,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>     
-                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p>Tamil script. No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>. One instance of <foreign>puḷḷi</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -125,12 +125,12 @@
             </div>
             
             <div type="commentary">
-                
+                <p>The blocks are (in 2025) on the top of the compound wall on both sides of the <foreign>gopura</foreign>. Old pictures show that they were originally on the <foreign>gopura</foreign> itself and moved from there when renovation took place in 2004.</p>
             </div>
             
             <div type="bibliography">
                 
-                <p>This edition by Emmanuel Francis and Darlini Canabady Moutien, based on autopsy and photos.</p>
+                <p>This edition by Emmanuel Francis and Darlini Canabady Moutien, based on autopsy (2025) and photos.</p>
                 
                 <!--<listBibl type="primary">
                     

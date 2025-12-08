@@ -24,7 +24,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSTamilOutsideTN100001</idno>
+                <idno type="filename">DHARMA_INSTamilOutsideTN10001</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -49,8 +49,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-                            <p>Spelling <foreign>n</foreign> instead of expected <foreign>ṉ</foreign>.</p>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>. No <foreign>puḷḷi</foreign>. Spelling <foreign>n</foreign> instead of expected <foreign>ṉ</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -105,7 +104,7 @@
                     
                     <app loc="1">
                         <lem><num value="1827"><g type="numeral">1000</g> 8 <g type="numeral">100</g> <unclear reason="eccentric_ductus">2</unclear> <g type="numeral">10</g> 7</num></lem>
-                        <note>The figure "2" has an unstandard form which looks like a <foreign>piḷḷaiyār cuḻi</foreign>.</note>
+                        <note>The figure "2" is of an unstandard form, which looks like a <foreign>piḷḷaiyār cuḻi</foreign>.</note>
                     </app>	
                     
                     <app loc="2">
@@ -129,7 +128,7 @@
                 </p>
                 
                 <p n="2-6">
-                    The Māriyammaṉ temple has been constructed <supplied reason="explanation"><foreign>kaṭṭappaṭṭatu</foreign></supplied> through the pious act <supplied reason="explanation"><foreign>tammattālē</foreign></supplied> <supplied reason="subaudible">of</supplied> Vēṅkaṭa Reṭṭiyar <gap reason="illegible"/>.
+                    The Māriyammaṉ temple has been constructed <supplied reason="explanation"><foreign>kaṭṭappaṭṭatu</foreign></supplied> through the pious act <supplied reason="explanation"><foreign>tammattālē</foreign><note>Instrumental case of <foreign>tammam</foreign>, that is, Sanskrit <foreign>dharma</foreign>.</note></supplied> <supplied reason="subaudible">of</supplied> Vēṅkaṭa Reṭṭiyar <gap reason="illegible"/>.
                 </p>
                 
             </div>
@@ -152,7 +151,7 @@
             
             <div type="bibliography">
                 
-                <p>This edition by Emmanuel Francis and Darlini Canabady Moutien, based on autopsy, photos and estampages. Thanks to Renato Davalos and Margherita Trento for their suggestions.</p>
+                <p>This edition by Emmanuel Francis and Darlini Canabady Moutien, based on autopsy (2025), photos and estampages. Thanks to Renato Davalos and Margherita Trento for their suggestions.</p>
                 
                 <!--<listBibl type="primary">
                     
