@@ -8,19 +8,23 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Paul de la Réunion, temple of Subrahmaṇya</title>
+                <title>Saint Pierre de la Réunion, temple des casernes</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
+                    <persName ref="part:daca">
+                        <forename>Darlini</forename>
+                        <surname>Canabady Moutien</surname>
+                    </persName>
                 </respStmt>		
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSTamilOutsideTN100002</idno>
+                <idno type="filename">DHARMA_INSTamilOutsideTN100001</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -38,13 +42,15 @@
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
                         <idno/>
+                        <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <summary>Inscriptions on two stone-slabs on the <foreign>gopura</foreign>. Records the construction of the <foreign>gopura</foreign>.</summary>
+                        <summary>Inscription on a stone-slab (49,5 x 28,5 cm) recording the construction of the Māriyammaṉ temple, that is, the temple currently known as <foreign xml:lang="fra">chapelle des casernes</foreign>.</summary>
                     </msContents>
                     <physDesc>
-                        <handDesc>     
+                        <handDesc>
                             <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p>Spelling <foreign>n</foreign> instead of expected <foreign>ṉ</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -69,7 +75,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2025-12-07">Creation of the file</change>
+            <change who="part:emfr" when="2024-05-23">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
     
@@ -77,56 +83,76 @@
         
         <body>
             
-            <div type="edition">            	
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            	
                 
-                <div n="A" type="textpart" xml:lang="fra-Latn" rendition="class:undetermined maturity:undetermined"><head>1st slab</head>
-                    <p>
-                        <lb n="1"/>PYRAMIDE
-                        <lb n="2"/>BATIE
-                        <lb n="3"/>AS • AYASSAMY &amp; C<hi rend="superscript">o</hi>
-                        <lb n="4"/>1888
-                    </p>
-                </div>
+                <p>
+                    <lb n="1"/><num value="1827"><g type="numeral">1000</g> 8 <g type="numeral">100</g> <unclear reason="eccentric_ductus">2</unclear> <g type="numeral">10</g> 7</num> cit
+                    <lb n="2" break="no"/>tirai <unclear reason="eccentric_ductus"><g type="mācam"/></unclear> 7 <unclear reason="eccentric_ductus"><g type="tēti"/></unclear></p> 
                 
-                <div n="B" type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>2nd slab</head>
-                    <p>
-                        <lb n="1"/>Inta kōpuram
-                        <lb n="2"/>ye • cu Ayyācāmi
-                        <lb n="3"/><g type="piḷḷai"/> kampeṉiyār
-                        <lb n="4"/>tarumam·
-                    </p>
-                </div>
+                <p>
+                    m<choice><sic>a</sic><corr>ā</corr></choice>riyam
+                    <lb n="3" break="no"/>ma<choice><orig>n</orig><reg>ṉ</reg></choice> kōv<choice><orig>ī</orig><reg>i</reg></choice>l vē<unclear>ṅ</unclear>
+                    <lb n="4" break="no"/>ka<choice><orig>ṭ=ṭ</orig><reg>ṭ</reg></choice>a-reṭṭi<unclear>yar</unclear> <gap reason="illegible" quantity="5" unit="character"/>
+                    <lb n="5"/><gap reason="illegible" quantity="2" unit="character"/> tammattālē kaṭṭa
+                    <lb n="6" break="no"/>-p-paṭṭatu
+                </p>
+                
             </div>
             
             <div type="apparatus">
                 
+                <listApp>		
+                    
+                    <app loc="1">
+                        <lem><num value="1827"><g type="numeral">1000</g> 8 <g type="numeral">100</g> <unclear reason="eccentric_ductus">2</unclear> <g type="numeral">10</g> 7</num></lem>
+                        <note>The figure "2" has an unstandard form which looks like a <foreign>piḷḷaiyār cuḻi</foreign>.</note>
+                    </app>	
+                    
+                    <app loc="2">
+                        <lem><unclear reason="eccentric_ductus"><g type="mācam"/></unclear></lem>
+                        <note>Unstandard form.</note>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem><unclear reason="eccentric_ductus"><g type="tēti"/></unclear></lem>
+                        <note>Unstandard form.</note>
+                    </app>
+                   
+                </listApp>
+                
             </div>
             
             <div type="translation" resp="part:emfr">
-                <div n="A" type="textpart"><head>1st slab</head>
-                    <p n="1-3">
-                        Pyramid built <supplied reason="subaudible">by</supplied> A. S. Ayassamy &amp; C<hi rend="superscript">o</hi>
-                    </p>
-                    <p n="4">1888</p>
-                </div>
-                <div n="B" type="textpart"><head>2nd slab</head>
-                    <p n="1-4">
-                        This <foreign>gopura</foreign> <supplied reason="subaudible">is</supplied> a pious donation <supplied reason="explanation"><foreign>tarumam</foreign><note>Sanskrit <foreign>dharma</foreign>.</note></supplied> <supplied reason="subaudible">of/by</supplied> Ye. Cu. Ayyācāmi Piḷḷai <supplied reason="subaudible">and</supplied> company <supplied reason="explanation"><foreign>kampeṉiyār</foreign><note>Literally: those in his company.</note></supplied>.
-                    </p>
-                </div>
+                
+                <p n="1-2">
+                    1827, month of Cittirai, date 7.
+                </p>
+                
+                <p n="2-6">
+                    The Māriyammaṉ temple has been constructed <supplied reason="explanation"><foreign>kaṭṭappaṭṭatu</foreign></supplied> through the pious act <supplied reason="explanation"><foreign>tammattālē</foreign></supplied> <supplied reason="subaudible">of</supplied> Vēṅkaṭa Reṭṭiyar <gap reason="illegible"/>.
+                </p>
+                
             </div>
             
             <div type="translation" xml:lang="fra" resp="part:emfr">
                 
+                <p n="1-2">
+                    1827, mois de Cittirai, date 7.
+                </p>
+                
+                <p n="2-6">
+                    Le temple de Māriyammaṉ a été construit par Vēṅkaṭa Reṭṭiyar <gap reason="lost"/>.
+                </p>
+                
             </div>
             
             <div type="commentary">
-                
-            </div>
+                <p n="1">The era of the year 1827 is not specified and this millesime is not followed, as one would expect, by a symbol for year. In the context of production of the inscription (colonial La Réunion, antiquity of the Māriyammaṉ temple), it appears that date is in the common era and not in the Śaka era as one would expect in a inscription from Tamil Nadu itself. It thus appears to correspond, as kindly confirmed to us by Marco Franceschini, to April 18, 1827.</p>
+                </div>
             
             <div type="bibliography">
                 
-                <p>This edition by Emmanuel Francis (2025), based on autopsy and photos (E. Francis, 2025).</p>
+                <p>This edition by Emmanuel Francis and Darlini Canabady Moutien, based on autopsy, photos and estampages. Thanks to Renato Davalos and Margherita Trento for their suggestions.</p>
                 
                 <!--<listBibl type="primary">
                     
