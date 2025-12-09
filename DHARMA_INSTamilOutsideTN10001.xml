@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Pierre de la Réunion, temple des casernes</title>
+                <title>Saint-Pierre de la Réunion, temple des Casernes, fondation of Māriyammaṉ temple</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -45,7 +45,7 @@
                         <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <summary>Inscription on a stone-slab (49,5 x 28,5 cm) recording the construction of the Māriyammaṉ temple, that is, the temple currently known as <foreign xml:lang="fra">chapelle des casernes</foreign>.</summary>
+                        <summary>Inscription on a stone-slab (49,5 x 28,5 cm) recording the construction of the Māriyammaṉ temple, that is, the temple currently known as <foreign xml:lang="fra">chapelle des Casernes</foreign> or <foreign xml:lang="fra">temple des Casernes</foreign>.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -151,7 +151,7 @@
             
             <div type="bibliography">
                 
-                <p>This edition by Emmanuel Francis and Darlini Canabady Moutien, based on autopsy (2025), photos and estampages. Thanks to Renato Davalos and Margherita Trento for their suggestions.</p>
+                <p>This edition by Emmanuel Francis and Darlini Canabady Moutien, based on autopsy (2025), photos and estampages (<ref target="https://didomena.ehess.fr/concern/data_sets/p2677481n">E. Francis, 2025</ref>). Thanks to Renato Davalos and Margherita Trento for their suggestions.</p>
                 
                 <!--<listBibl type="primary">
                     

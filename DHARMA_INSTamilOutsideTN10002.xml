@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Paul de la Réunion, temple of Subrahmaṇya</title>
+                <title>Saint-Paul de la Réunion, temple of Subrahmaṇya</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -130,7 +130,7 @@
             
             <div type="bibliography">
                 
-                <p>This edition by Emmanuel Francis and Darlini Canabady Moutien, based on autopsy (2025) and photos.</p>
+                <p>This edition by Emmanuel Francis and Darlini Canabady Moutien, based on autopsy (2025) and photos (<ref target="https://didomena.ehess.fr/concern/data_sets/hd76s827x">E. Francis, 2025</ref>).</p>
                 
                 <!--<listBibl type="primary">
                     
