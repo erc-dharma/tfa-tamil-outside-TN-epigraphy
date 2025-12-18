@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poḷonnaruva, inscription of the Vēlaikkāṟaṉ-s</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSTamilOutsideTN10001</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-12-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-11-26" status="draft">Conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition">
+                
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <p>
+                        <lb n="1"/>svasti śrīḥ <supplied reason="undefined"><g type="ddanda">.</g></supplied> laṃkāyāṃ jinadantadhātubhavanaṃ yaddeva
+                        <lb n="2" break="no"/>senādhipokārṣit· śrīvijayādibāhu nṛvarādeśā
+                        <lb n="3" break="no"/>t· pulasteḥ pure <supplied reason="undefined"><g type="danda">.</g></supplied> veḷaikkāṟasamā<unclear>hṛtā</unclear>n tadapi ta
+                        <lb n="4" break="no"/>tvaryanta devālayān· veḷaikkāṟabalāni <unclear>yā</unclear>
+                        <lb n="5" break="no"/>ntu nitarāmākalpasandherbhuvi <unclear><g type="danda">.</g></unclear>
+                    </p>
+                    <p>
+                        namo buddhāya <supplied reason="undefined"><g type="danda">.</g></supplied>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                    
+                    <p>                    
+                        <lb n="6"/><hi rend="grantha">śrī-laṃkā-dvipa</hi>ttu <hi rend="grantha">sūrya</hi>-va<hi rend="grantha">ṃśa</hi>ttu <hi rend="grantha">Ikṣvā</hi>ku<unclear>vi</unclear>
+                        <lb n="7" break="no"/>n vaḻi vanta Aneka <hi rend="grantha">śatru</hi>-vi<hi rend="grantha">ja</hi>yam paṇṇi Anur<unclear>ā</unclear>
+                        <lb n="8" break="no"/><hi rend="grantha">dha</hi>pura<unclear>m</unclear> pukku <hi rend="grantha">buddha-śāsa</hi>na<hi rend="grantha">ṃ rakṣi</hi>kka vēṇṭi <hi rend="grantha">sa<unclear>ṃ</unclear></hi>
+                        <lb n="9" break="no"/><hi rend="grantha">gha</hi>-niyo<hi rend="grantha">ga</hi>ttāl tiru-muṭi cūṭi Arumaṇattil ni
+                        <lb n="10" break="no"/>ṉṟum caṅkattārai Aḻaippittu muṉṟu nikāya
+                        <lb n="11" break="no"/>ttu <hi rend="grantha">saṃgha-śuddhi</hi> paṇṇuvittu muṉṟu tulā<hi rend="grantha">bhā</hi>ram
+                        <lb n="12"/>muṉṟu nikāyattukku kuṭuttu <hi rend="grantha">daśa-rāja-dharmma</hi>ttāl
+                        <lb n="13"/>Aiñpattay yāṇṭu Ilaṅkai-muḻutum Oru-kuṭai-ni<unclear>ḻa</unclear>
+                        <lb n="14" break="no"/>ṟṟi-t tiru-virā<hi rend="grantha">jya</hi>ñ ceytaruḷi Eḻupattumuvāṇṭu tiru-na
+                        <lb n="15" break="no"/><hi rend="grantha">kṣatra</hi>ñ celuttiṉa kō-<hi rend="grantha">śrī-saṃgha-bodhi</hi>va<hi rend="grantha">tma</hi>r-āṉa <hi rend="grantha">cakra</hi>va<hi rend="grantha">rtti</hi>
+                        <lb n="16" break="no"/><unclear>ka</unclear>ḷ <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-<hi rend="grantha">bāhu-de</hi>var anuvākal te<supplied reason="omitted">va</supplied>ceṉavirttar
+                        <lb n="17" break="no"/>kku niyokittu-p pulanariyāṉa vi<hi rend="grantha">ja</hi>yarā<hi rend="grantha">ja</hi>-purattu Eṭup
+                        <lb n="18" break="no"/><unclear>pi</unclear>tta m<choice><orig>u</orig><reg>ū</reg></choice>la<hi rend="grantha">sthā</hi>nam-ākiya A<hi rend="grantha">bha</hi>ya<hi rend="grantha">giri-mahā</hi>-vi<hi rend="grantha">hā</hi>rattu <hi rend="grantha">Agra</hi>
+                        <lb n="19" break="no"/><unclear>va</unclear>tanamāṉa Uttoruḷmuḷaiyil mu-v-ulakukkuñ cikāmaṇi
+                        <lb n="20" break="no"/><unclear>y</unclear>-ākiya <hi rend="grantha">daḷadā-pātradhātusvāmi</hi>tevarkaḷukku ni<hi rend="grantha">tya</hi>-vā<hi rend="grantha">sa-bha</hi>vana
+                        <lb n="21" break="no"/><unclear>m</unclear>-āṉa <hi rend="grantha">prathamābhiṣe</hi>kattukku maṅkala-<hi rend="grantha">gṛha</hi>māṉa Āṭ=ṭāṇṭu
+                        <lb n="22" break="no"/>t<unclear>ō<!--kāl clear--></unclear>ṟun tiru-nayana-<hi rend="grantha">mokṣa</hi>m paṇṇi Añcaṉaniṟukkum
+                        <lb n="23"/>kaṇṇālañceyyum <hi rend="grantha">maṃgala-mahā-śilāma</hi>ya-<hi rend="grantha">buddha</hi>
+                        <lb n="24" break="no"/><hi rend="grantha">de</hi>varkku <hi rend="grantha">gandhakuṭi</hi>yāṉa <hi rend="grantha">daḷadā</hi>y-p-perum-paḷḷi Uṅ<unclear>ka</unclear>
+                        <lb n="25" break="no"/><unclear>ḷ</unclear> <hi rend="grantha">rakṣa</hi>yāka vēṇṭum eṉṟu <hi rend="grantha">sakala-śāstrāgama-śil<unclear>ā</unclear></hi>
+                        <lb n="26" break="no"/><hi rend="grantha"><unclear>c</unclear>āra-saMpa</hi>nnar-āṉa <hi rend="grantha">rāja-guru</hi> Uturuḷmuḷaiyil <hi rend="grantha">vyā</hi>riṇimu
+                        <lb n="27" break="no"/><hi rend="grantha"><unclear>ga</unclear></hi>lan <hi rend="grantha">mahāsthi</hi>virar rā<hi rend="grantha">jāmātya</hi>roṭuṅ kūṭa Eḻunt-aruḷi-<unclear>y-i</unclear>
+                        <lb n="28" break="no"/>runtu Eṅkaḷai Aḻaittu Aruḷi-c-ceytamaiyil mā-tantirat
+                        <lb n="29" break="no"/>toṅ kūṭi Eṅkaḷukku mutātaikaḷā-y-uḷḷa vaḷañceyaraiyum E
+                        <lb n="30" break="no"/><unclear>ṅ</unclear>kaḷoṭu kūṭi varun nakarattār uḷḷiṭṭoraiyuṅ kūṭṭi muṉṟu
+                        <lb n="31" break="no"/>kait tiru-vēḷaikkāṟan <hi rend="grantha">daḷadā</hi>y-p-perumpaḷḷi y-eṉ<unclear>ṟu</unclear>
+                        <lb n="32"/>tiru-nāmañ cātti Eṅkaḷ aṟam āy Eṅkaḷ kāval āy niṟka
+                        <lb n="33" break="no"/>v<unclear>e</unclear>ṇṭumeṉṟu Aṟaṅkāvalukku <unclear>U</unclear>ṭaippaṭaiyāl Oro
+                        <lb n="34" break="no"/>c<unclear>e</unclear>vakaraiyum Oroveli nilamum Iṭṭu-k kuṭuttu Ip
+                        <lb n="35" break="no"/>paḷḷi nokkiṉa Ūrkaḷum parivāramum paṇṭāramum A<hi rend="grantha">bha</hi>
+                        <lb n="36" break="no"/><unclear>ya</unclear>mpukkāraiyum paṭṭum keṭṭuṅ kākkakkaṭavomāka
+                        <lb n="37" break="no"/><unclear>vu</unclear>m Aḻivupaṭṭaṭaṅka ḷaḻivucorntum Eṅkaḷ Anva
+                        <lb n="38" break="no"/><unclear>ya</unclear> muḷḷataṉaiyu meññāṉṟu mitukku veṇṭuvaṉave
+                        <lb n="39" break="no"/><unclear>l</unclear>lāñ ceyvōm ākavum
+                        
+                        paṇṇiṉa Inta va<hi rend="grantha">vyasdhai candr<unclear>ā</unclear></hi>
+                        <lb n="40" break="no"/><hi rend="grantha"><unclear>di</unclear>tya</hi>varai niṟpatāka-k kaiyviṉāveṟṟi-c cempiluṅ kalli
+                        <lb n="41" break="no"/>lum veṭṭuvittu-k kuṭuttōm valaṅkai Iṭaṅkai ci
+                        <lb n="42" break="no"/>ṟu-tanam piḷḷaikaḷ-taṉam vaṭukar malaiyāḷar parivārak
+                        <lb n="43" break="no"/>k<unclear>o<!--kāl clear--></unclear>ntam palakalaṉaiyum Uḷḷiṭṭa tiru-vēḷaikkāṟa
+                        <lb n="44" break="no"/>r<unclear>ō<!--kāl clear--></unclear>m
+                    </p>
+                    <p>
+                        Ippaṭi tiṟampuvāṉum tiṟampa-c colluvāṉu
+                        <lb n="45" break="no"/><unclear>m</unclear> tiṟampa-c cammatippāṉum mātantirattukku-p piḻaitta
+                        <lb n="46"/><unclear>pa</unclear>ṭaippakaiyan <hi rend="grantha">pañca-mahā</hi>pātakañ ceytāṉum tevar
+                        <lb n="47"/><unclear>pū</unclear>tar mātavattorkku-k kuṭuttaṉa koḷḷum koṭum
+                        <lb n="48" break="no"/><unclear>p</unclear>āviyum <hi rend="grantha">buddha-dharmma-saṃgha-ratna</hi>ṅkaḷukkup piḻaitt<unclear>ā</unclear>
+                        <lb n="49" break="no"/>ṉum pukun narakam pukuvān· <unclear><g type="ddanda">.</g></unclear>
+                    </p>
+                    <p>                        
+                        Aṟa<supplied reason="subaudible">m</supplied> maṟavaṟka
+                    </p>
+                    <p>
+                        <hi rend="grantha">svasti śrī</hi> <g type="circleDouble"/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="apparatus">
+                
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                <p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/618).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.1396). + Ep. Zeyl. 2.40</p>
+                
+                <p>This revised edition by Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:KrishnaSastri1923_01"/>
+                        <citedRange unit="page">492</citedRange>
+                        <citedRange unit="item">1396</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1912-1913"/>
+                        <citedRange unit="page">66</citedRange>
+                        <citedRange unit="appendix">B/1912</citedRange>
+                        <citedRange unit="item">600</citedRange>
+                    </bibl>  
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
