@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint-Pierre de la Réunion, temple des Casernes, fondation of Māriyammaṉ temple</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                    <persName ref="part:daca">
+                        <forename>Darlini</forename>
+                        <surname>Canabady Moutien</surname>
+                    </persName>
+                </respStmt>		
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTamilOutsideTN90001</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Inscription on a stone-slab (49,5 x 28,5 cm) recording the construction of the Māriyammaṉ temple, that is, the temple currently known as <foreign xml:lang="fra">chapelle des Casernes</foreign> or <foreign xml:lang="fra">temple des Casernes</foreign>.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>. No <foreign>puḷḷi</foreign>. Spelling <foreign>n</foreign> instead of expected <foreign>ṉ</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-23">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            	
+                
+                <p>
+                    <lb n="1"/><num value="1827"><g type="numeral">1000</g> 8 <g type="numeral">100</g> <unclear reason="eccentric_ductus">2</unclear> <g type="numeral">10</g> 7</num> cit
+                    <lb n="2" break="no"/>tirai <unclear reason="eccentric_ductus"><g type="mācam"/></unclear> 7 <unclear reason="eccentric_ductus"><g type="tēti"/></unclear></p> 
+                
+                <p>
+                    m<choice><sic>a</sic><corr>ā</corr></choice>riyam
+                    <lb n="3" break="no"/>ma<choice><orig>n</orig><reg>ṉ</reg></choice> kōv<choice><orig>ī</orig><reg>i</reg></choice>l vē<unclear>ṅ</unclear>
+                    <lb n="4" break="no"/>ka<choice><orig>ṭ=ṭ</orig><reg>ṭ</reg></choice>a-reṭṭi<unclear>yar</unclear> <gap reason="illegible" quantity="5" unit="character"/>
+                    <lb n="5"/><gap reason="illegible" quantity="2" unit="character"/> tammattālē kaṭṭa
+                    <lb n="6" break="no"/>-p-paṭṭatu
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>		
+                    
+                    <app loc="1">
+                        <lem><num value="1827"><g type="numeral">1000</g> 8 <g type="numeral">100</g> <unclear reason="eccentric_ductus">2</unclear> <g type="numeral">10</g> 7</num></lem>
+                        <note>The figure "2" is of an unstandard form, which looks like a <foreign>piḷḷaiyār cuḻi</foreign>.</note>
+                    </app>	
+                    
+                    <app loc="2">
+                        <lem><unclear reason="eccentric_ductus"><g type="mācam"/></unclear></lem>
+                        <note>Unstandard form.</note>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem><unclear reason="eccentric_ductus"><g type="tēti"/></unclear></lem>
+                        <note>Unstandard form.</note>
+                    </app>
+                   
+                </listApp>
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1-2">
+                    1827, month of Cittirai, date 7.
+                </p>
+                
+                <p n="2-6">
+                    The Māriyammaṉ temple has been constructed <supplied reason="explanation"><foreign>kaṭṭappaṭṭatu</foreign></supplied> through the pious act <supplied reason="explanation"><foreign>tammattālē</foreign><note>Instrumental case of <foreign>tammam</foreign>, that is, Sanskrit <foreign>dharma</foreign>.</note></supplied> <supplied reason="subaudible">of</supplied> Vēṅkaṭa Reṭṭiyar <gap reason="illegible"/>.
+                </p>
+                
+            </div>
+            
+            <div type="translation" xml:lang="fra" resp="part:emfr">
+                
+                <p n="1-2">
+                    1827, mois de Cittirai, date 7.
+                </p>
+                
+                <p n="2-6">
+                    Le temple de Māriyammaṉ a été construit par Vēṅkaṭa Reṭṭiyar <gap reason="lost"/>.
+                </p>
+                
+            </div>
+            
+            <div type="commentary">
+                <p n="1">The era of the year 1827 is not specified and this millesime is not followed, as one would expect, by a symbol for year. In the context of production of the inscription (colonial La Réunion, antiquity of the Māriyammaṉ temple), it appears that date is in the common era and not in the Śaka era as one would expect in a inscription from Tamil Nadu itself. It thus appears to correspond, as kindly confirmed to us by Marco Franceschini, to April 18, 1827.</p>
+                </div>
+            
+            <div type="bibliography">
+                
+                <p>This edition by Emmanuel Francis and Darlini Canabady Moutien, based on autopsy (2025), photos and estampages (<ref target="https://didomena.ehess.fr/concern/data_sets/p2677481n">E. Francis, 2025</ref>). Thanks to Renato Davalos and Margherita Trento for their suggestions.</p>
+                
+                <!--<listBibl type="primary">
+                    
+                    <bibl>
+                    <ptr target="bib:..."/>
+                    <citedRange unit="item">...</citedRange>
+                    </bibl>		
+                    
+                    </listBibl>-->
+                
+                <!--<listBibl type="secondary">
+                    
+                    </listBibl>-->
+            </div>
+        </body>
+    </text>
+</TEI>
