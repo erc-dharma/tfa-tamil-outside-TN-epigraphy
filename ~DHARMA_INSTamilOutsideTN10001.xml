@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Poḷonnaruva, inscription of the Vēlaikkāṟaṉ-s</title>
+                <title>Poḷonnaruva, inscription of the Vēḷaikkāṟaṉ-s</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -35,7 +35,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Tamil script ― The puḷ<foreign></foreign>ḷi is used. No distinction between medial <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>, <foreign>u</foreign> and <foreign>ū</foreign>. Medial <foreign>ai</foreign> is Grantha except for <foreign>l</foreign>, <foreign>ḷ</foreign> and <foreign>ṉ</foreign>.</p>
+                            <p>Grantha script ― The <foreign>anusvāra</foreign> is placed above <foreign>sa</foreign> and after <foreign>ma</foreign>. ― Tamil script ― The <foreign>puḷḷi</foreign> is regularly used, but almost never not in the case of <foreign>tt</foreign>. No distinction between medial <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>, <foreign>u</foreign> and <foreign>ū</foreign>. Grantha Medial <foreign>ai</foreign> except for <foreign>l</foreign>, <foreign>ḷ</foreign> and <foreign>ṉ</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -53,12 +53,20 @@
                 <!--Add puḷḷi-->
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                     <p>
-                        <lb n="1"/>svasti śrīḥ <supplied reason="undefined"><g type="ddanda">.</g></supplied> laṃkāyāṃ jina-danta-dhātu-bhavanaṃ yad deva
-                        <lb n="2" break="no"/>-senādhipo 'kārṣit· śrī-vijayādi-bāhu-nṛvarādeśā
-                        <lb n="3" break="no"/>t· pulasteḥ pure <supplied reason="undefined"><g type="danda">.</g></supplied> veḷaikkāṟa-samā<unclear>hṛtā</unclear>n tad api ta
-                        <lb n="4" break="no"/>t-paryyanta-devālayān· veḷaikkāṟa-balāni pā
-                        <lb n="5" break="no"/>ntu nitarām ākalpa-sandher bhuvi <unclear><g type="danda">.</g></unclear>
+                        <lb n="1"/>svasti śrīḥ <supplied reason="undefined"><g type="ddanda">.</g></supplied>
                     </p>
+                    
+                    <lg n="1" met="śārdūlavikrīḍita">
+                        <l n="a">laṃkāyāṃ jina-danta-dhātu-bhavanaṃ yad deva
+                            <lb n="2" break="no"/>-senādhipo</l> 
+                        <l n="b">'kārṣit· śrī-vijayādi-bāhu-nṛvarādeśā
+                            <lb n="3" break="no"/>t· pulasteḥ pure</l> 
+                        <l n="c">veḷaikkāṟa-samā<unclear>hṛtā</unclear>n tad api ta
+                            <lb n="4" break="no"/>t-paryyanta-devālayān·</l>
+                        <l n="d">veḷaikkāṟa-balāni pā
+                            <lb n="5" break="no"/>ntu nitarām ākalpa-sandher bhuvi <unclear><g type="danda">.</g></unclear></l>
+                    </lg>
+                    
                     <p>
                         namo buddhāya <supplied reason="undefined"><g type="danda">.</g></supplied>
                     </p>
@@ -68,57 +76,57 @@
                     
                     <p>                    
                         <lb n="6"/><hi rend="grantha">śrī-laṃkā-dvipa</hi>ttu <hi rend="grantha">sūrya</hi>-va<hi rend="grantha">ṃśa</hi>ttu <hi rend="grantha">Ikṣvā</hi>ku<unclear>vi</unclear>
-                        <lb n="7" break="no"/>n vaḻi vanta Aneka <hi rend="grantha">śatru</hi>-vi<hi rend="grantha">ja</hi>yam paṇṇi Anur<unclear>ā</unclear>
+                        <lb n="7" break="no"/>n vaḻi vanta Aneka <hi rend="grantha">śatru</hi>-vi<hi rend="grantha">ja</hi>yam paṇ<unclear>·</unclear>ṇi Anur<unclear>ā</unclear>
                         <lb n="8" break="no"/><hi rend="grantha">dha</hi>-pura<unclear>m</unclear> pukku <hi rend="grantha">buddha-śāsa</hi>na<hi rend="grantha">ṃ rakṣi</hi>kka vēṇṭi <hi rend="grantha">sa<unclear>ṃ</unclear></hi>
-                        <lb n="9" break="no"/><hi rend="grantha">gha</hi>-niyo<hi rend="grantha">ga</hi>ttāl tiru-muṭi cūṭi Arumaṇattil ni
-                        <lb n="10" break="no"/>ṉṟum· caṅkattār<hi rend="grantha">ai</hi> Aḻ<hi rend="grantha">ai</hi>ppittu muṉṟu nikāya
-                        <lb n="11" break="no"/>ttu <hi rend="grantha">saṃgha-śuddhi</hi> paṇṇuvittu muṉṟu tulā<hi rend="grantha">bhā</hi>ram
-                        <lb n="12"/>muṉṟu nikāyattukku kuṭuttu <hi rend="grantha">daśa-rāja-dharmma</hi>ttāl
-                        <lb n="13"/>Aiñ·patt' ay·-y-āṇ·ṭu Ilaṅ·k<hi rend="grantha">ai</hi> muḻutum Oru kuṭ<hi rend="grantha">ai</hi> ni<unclear>ḻa</unclear>
+                        <lb n="9" break="no"/><hi rend="grantha">gha</hi>-niyo<hi rend="grantha">ga</hi>ttāl tiru-muṭi cūṭi Arumaṇat·til ni
+                        <lb n="10" break="no"/>ṉṟum· caṅ·kattār<hi rend="grantha">ai</hi> Aḻ<hi rend="grantha">ai</hi>p·pittu m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu nikāya
+                        <lb n="11" break="no"/>ttu <hi rend="grantha">saṃgha-śuddhi</hi> paṇṇuvittu m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu tulā<hi rend="grantha">bhā</hi>ram<unclear>·</unclear>
+                        <lb n="12"/>m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu nikāyattuk=ku kuṭuttu <hi rend="grantha">daśa-rāja-dharmma</hi>ttāl·
+                        <lb n="13"/>Aiñ·patt' ay·-y-āṇ·ṭu Ilaṅ·k<hi rend="grantha">ai</hi> muḻutum<unclear>·</unclear> Oru kuṭ<hi rend="grantha">ai</hi> ni<unclear>ḻa</unclear>
                         <lb n="14" break="no"/>ṟṟi-t tiru-virā<hi rend="grantha">jya</hi>ñ ceyt-aruḷi Eḻupattu mu-v-āṇṭu tiru-na
                         <lb n="15" break="no"/><hi rend="grantha">kṣatra</hi>ñ celuttiṉa kō-<hi rend="grantha">śrī-saṃgha-bodhi</hi>-va<hi rend="grantha">tma</hi>r-āṉa <hi rend="grantha">cakra</hi>va<hi rend="grantha">rtti</hi>
-                        <lb n="16" break="no"/><unclear>ka</unclear>ḷ <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-<hi rend="grantha">bāhu-de</hi>var <seg rend="check">anuvākal</seg>· tē<supplied reason="omitted">va</supplied>-cēṉa-virattar
-                        <lb n="17" break="no"/>kku niyokittu-p pulanari-y-āṉa vi<hi rend="grantha">ja</hi>ya-rā<hi rend="grantha">ja</hi>-purattu Eṭup
+                        <lb n="16" break="no"/><unclear>ka</unclear>ḷ· <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-<hi rend="grantha">bāhu-de</hi>var <seg rend="check">anuvākal·</seg>· tē<supplied reason="omitted">va</supplied>-cēṉa-virattar
+                        <lb n="17" break="no"/>kku niyokit·tu-p· pulanari-y-āṉa vi<hi rend="grantha">ja</hi>ya-rā<hi rend="grantha">ja</hi>-purattu Eṭup·
                         <lb n="18" break="no"/><unclear>pi</unclear>tta m<choice><orig>u</orig><reg>ū</reg></choice>la-<hi rend="grantha">sthā</hi>nam-ākiya A<hi rend="grantha">bha</hi>ya<hi rend="grantha">giri-mahā</hi>-vi<hi rend="grantha">hā</hi>rattu <hi rend="grantha">Agra</hi>
-                        <lb n="19" break="no"/><unclear>va</unclear>tanam-āṉa Uttoruḷam<choice><orig>u</orig><reg>ū</reg></choice>ḷaiyil<!--contra SII--> mu-v-ulakukkuñ cikāmaṇi
-                        <lb n="20" break="no"/><unclear>y</unclear>-ākiya <hi rend="grantha">daḷadā-pātra-dhātu-svāmi</hi>-tēvarkaḷukku ni<hi rend="grantha">tya</hi>-vā<hi rend="grantha">sa-bha</hi>vana
-                        <lb n="21" break="no"/><unclear>m</unclear>-āṉa <hi rend="grantha">prathamābhiṣe</hi>kattukku maṅkala-<hi rend="grantha">gṛha</hi>m-āṉa Āṭ=ṭāṇṭu
-                        <lb n="22" break="no"/>t<unclear>ō<!--kāl clear--></unclear>ṟun tiru-nayana-<hi rend="grantha">mokṣa</hi>m paṇṇi Añcaṉa-niṟukkum
-                        <lb n="23"/>kaṇṇālañ ceyyum <hi rend="grantha">maṃgala-mahā-śilāma</hi>ya-<hi rend="grantha">buddha</hi>
-                        <lb n="24" break="no"/><hi rend="grantha">de</hi>varkku <hi rend="grantha">gandha-kuṭi</hi>-y-āṉa <hi rend="grantha">daḷadā</hi>y-p-perum-paḷḷi Uṅ<unclear>ka</unclear>
-                        <lb n="25" break="no"/><unclear>ḷ</unclear> <hi rend="grantha">rakṣa</hi>-y-āka vēṇṭum eṉṟu <hi rend="grantha">sakala-śāstrāgama-śil<unclear>ā</unclear></hi>
-                        <lb n="26" break="no"/><hi rend="grantha"><unclear>c</unclear>āra-saMpa</hi>nnar-āṉa <hi rend="grantha">rāja-guru</hi> Uturuḷam<choice><orig>u</orig><reg>ū</reg></choice>ḷaiyil<!--contra SII--> <hi rend="grantha">vyā</hi>riṇi mu
-                        <lb n="27" break="no"/><hi rend="grantha"><unclear>ga</unclear></hi>lan <hi rend="grantha">mahā-sthi</hi>virar rā<hi rend="grantha">jāmātya</hi>roṭuṅ kūṭa Eḻunt-aruḷi-<unclear>y-i</unclear>
-                        <lb n="28" break="no"/>runtu Eṅkaḷai Aḻ<hi rend="grantha">ai</hi>ttu Aruḷi-c-ceytam<hi rend="grantha">ai</hi>yil mā-tantirat
-                        <lb n="29" break="no"/>tōṅ kūṭi Eṅkaḷukku mutāt<hi rend="grantha">ai</hi>kaḷ-āy-uḷḷa vaḷañceyar<hi rend="grantha">ai</hi>yum E
-                        <lb n="30" break="no"/><unclear>ṅ</unclear>·kaḷoṭu kūṭi varun· nakarattār uḷ·ḷiṭṭār<hi rend="grantha">ai</hi>yuṅ· kūṭ·ṭi muṉ·ṟu
-                        <lb n="31" break="no"/>-k<hi rend="grantha">ai</hi>-t tiru-vēḷaikkāṟan· <hi rend="grantha">daḷadā</hi>y-p-perum-paḷḷi y-eṉ<unclear>ṟu</unclear>
-                        <lb n="32"/>tiru-nāmañ cātti Eṅkaḷ aṟam-āy Eṅkaḷ kāval-āy niṟka
-                        <lb n="33" break="no"/>v<unclear>ē</unclear>ṇ·ṭum eṉ·ṟu Aṟaṅ-kāvalukku paṭ<hi rend="grantha">ai</hi>-p·-paṭ<hi rend="grantha">ai</hi>yāl· Orō
-                        <lb n="34"/>c<unclear>ē</unclear>vakar<hi rend="grantha">ai</hi>yum Orō vēli nilamum Iṭṭu-k kuṭuttu Ip
-                        <lb n="35" break="no"/>paḷ·ḷi nōk<unclear>·</unclear>kiṉa Ūrkaḷum· parivāramum paṇṭāramum A<hi rend="grantha">bha</hi>
-                        <lb n="36" break="no"/><unclear>ya</unclear>m· puk·kār<hi rend="grantha">ai</hi>yum paṭṭum keṭṭuṅ kākka-k kaṭavōm āka
-                        <lb n="37" break="no"/><unclear>vu</unclear>m
+                        <lb n="19" break="no"/><unclear>va</unclear>tanam-āṉa Ut·toruḷam<choice><orig>u</orig><reg>ū</reg></choice>ḷaiyil·<!--contra SII--> mu-v-ulakuk=kuñ cikāmaṇi
+                        <lb n="20" break="no"/><unclear>y</unclear>-ākiya <hi rend="grantha">daḷadā-pātra-dhātu-svāmi</hi>-tēvarkaḷuk·ku ni<hi rend="grantha">tya</hi>-vā<hi rend="grantha">sa-bha</hi>vana
+                        <lb n="21" break="no"/><unclear>m</unclear>-āṉa <hi rend="grantha">prathamābhiṣe</hi>kattukku maṅ·kala-<hi rend="grantha">gṛha</hi>m-āṉa Āṭ=ṭāṇ·ṭu
+                        <lb n="22" break="no"/>t<unclear>ō<!--kāl clear--></unclear>ṟun tiru-nayana-<hi rend="grantha">mokṣa</hi>m· paṇ·ṇi Añcaṉa-niṟukkum·
+                        <lb n="23"/>kaṇṇālañ cey·yum· <hi rend="grantha">maṃgala-mahā-śilāma</hi>ya-<hi rend="grantha">buddha</hi>
+                        <lb n="24" break="no"/><hi rend="grantha">de</hi>vark·ku <hi rend="grantha">gandha-kuṭi</hi>-y-āṉa <hi rend="grantha">daḷadā</hi>y·-p·-perum-paḷḷi Uṅ·<unclear>ka</unclear>
+                        <lb n="25" break="no"/><unclear>ḷ·</unclear> <hi rend="grantha">rakṣa</hi>-y-āka vēṇ·ṭum eṉ·ṟu <hi rend="grantha">sakala-śāstrāgama-śil<unclear>ā</unclear></hi>
+                        <lb n="26" break="no"/><hi rend="grantha"><unclear>c</unclear>āra-saMpa</hi>n·nar-āṉa <hi rend="grantha">rāja-guru</hi> Uturuḷam<choice><orig>u</orig><reg>ū</reg></choice>ḷaiyil·<!--contra SII--> <hi rend="grantha">vyā</hi>riṇi mu
+                        <lb n="27" break="no"/><hi rend="grantha"><unclear>ga</unclear></hi>lan· <hi rend="grantha">mahā-sthi</hi>virar· rā<hi rend="grantha">jāmātya</hi>roṭuṅ· kūṭa Eḻun·t-aruḷi-<unclear>y-i</unclear>
+                        <lb n="28" break="no"/>runtu Eṅ·kaḷai Aḻ<hi rend="grantha">ai</hi>ttu Aruḷi-c·-ceytam<hi rend="grantha">ai</hi>yil mā-tan·tirat·
+                        <lb n="29" break="no"/>tōṅ· kūṭi Eṅ·kaḷukku mutāt<hi rend="grantha">ai</hi>kaḷ-āy-uḷ·ḷa vaḷañ·ceyar<hi rend="grantha">ai</hi>yum E
+                        <lb n="30" break="no"/><unclear>ṅ</unclear>·kaḷoṭu kūṭi varun· nakarattār uḷ·ḷiṭṭār<hi rend="grantha">ai</hi>yuṅ· kūṭ·ṭi m<choice><orig>u</orig><reg>ū</reg></choice>ṉ·ṟu
+                        <lb n="31" break="no"/>-k<hi rend="grantha">ai</hi>-t tiru-vēḷaikkāṟan· <hi rend="grantha">daḷadā</hi>y·-p·-perum<unclear>·</unclear>-paḷ·ḷi y-eṉ<unclear>·</unclear><unclear>ṟu</unclear>
+                        <lb n="32"/>tiru-nāmañ cāt·ti Eṅ·kaḷ aṟam-āy· Eṅ·kaḷ kāval-āy<unclear>·</unclear> niṟ·ka
+                        <lb n="33" break="no"/>v<unclear>ē</unclear>ṇ·ṭum eṉ·ṟu Aṟaṅ·-kāvalukku paṭ<hi rend="grantha">ai</hi>-p·-paṭ<hi rend="grantha">ai</hi>yāl<unclear>·</unclear> Orō
+                        <lb n="34"/>c<unclear>ē</unclear>vakar<hi rend="grantha">ai</hi>yum Orō vēli nilamum Iṭ·ṭu-k kuṭuttu Ip·
+                        <lb n="35" break="no"/>paḷ·ḷi nōk<unclear>·</unclear>kiṉa Ūrkaḷum· parivāramum· paṇṭāramum· A<hi rend="grantha">bha</hi>
+                        <lb n="36" break="no"/><unclear>ya</unclear>m· puk·kār<hi rend="grantha">ai</hi>yum· paṭ·ṭum· keṭṭuṅ· kākka-k kaṭavōm āka
+                        <lb n="37" break="no"/><unclear>vu</unclear>m·
                     </p>
                     
                     <p>                        
-                        Aḻivu-paṭṭaṭaṅkaḷ aḻivu corntum Eṅkaḷ Anva
-                        <lb n="38" break="no"/><unclear>ya</unclear>m uḷḷataṉaiyum eññāṉṟum itukku vēṇṭuvaṉa v-e
-                        <lb n="39" break="no"/><unclear>l</unclear>·lāñ cey·vōm ākavum·
+                        Aḻivu-paṭ·ṭaṭaṅ·kaḷ aḻivu corn·tum· Eṅ·kaḷ<unclear>·</unclear> Anva
+                        <lb n="38" break="no"/><unclear>ya</unclear>m uḷḷataṉaiyum eññāṉ<unclear>·</unclear>ṟum ituk<unclear>·</unclear>ku vēṇ·ṭuvaṉa v-e
+                        <lb n="39" break="no"/><unclear>l</unclear>·lāñ· cey·vōm ākavum·
                         
-                        paṇṇiṉa Inta <hi rend="grantha">vya</hi>va<hi rend="grantha">sthai candr<unclear>ā</unclear></hi>
-                        <lb n="40" break="no"/><hi rend="grantha"><unclear>di</unclear>tya</hi>var<hi rend="grantha">ai</hi> niṟpatāka-k k<hi rend="grantha">ai</hi>yviṉāveṟṟi-c cempiluṅ kalli
+                        paṇ·ṇiṉa Inta <hi rend="grantha">vya</hi>va<hi rend="grantha">sthai candr<unclear>ā</unclear></hi>
+                        <lb n="40" break="no"/><hi rend="grantha"><unclear>di</unclear>tya</hi>var<hi rend="grantha">ai</hi> niṟpatāka-k k<hi rend="grantha">ai</hi>y<unclear>·</unclear>viṉāveṟ<unclear>·</unclear>ṟi-c cem·piluṅ· kal·li
                         <lb n="41" break="no"/>lum· veṭṭuvittu-k kuṭut·tōm valaṅ·k<hi rend="grantha">ai</hi> Iṭaṅ<unclear>·</unclear>k<hi rend="grantha">ai</hi> ci
-                        <lb n="42" break="no"/>ṟu-tanam piḷḷaikaḷ-taṉam vaṭukar malaiyāḷar parivāra-k
-                        <lb n="43" break="no"/>-k<unclear>o<!--kāl clear--></unclear>ntam palakalaṉaiyum Uḷḷiṭṭa tiru-vēḷaikkāṟa
+                        <lb n="42" break="no"/>ṟu-tanam· piḷḷaikaḷ<unclear>·</unclear>-taṉam· vaṭukar<unclear>·</unclear> malaiyāḷar· parivāra-k
+                        <lb n="43" break="no"/>-k<unclear>o<!--kāl clear--></unclear>ntam· palakalaṉaiyum Uḷ·ḷiṭ·ṭa tiru-vēḷaikkāṟa
                         <lb n="44" break="no"/>r<unclear>ō<!--kāl clear--></unclear>m
                     </p>
                     <p>
-                        Ippaṭi tiṟampuvāṉum tiṟampa-c colluvāṉu
+                        Ip·paṭi tiṟampuvāṉum tiṟampa-c colluvāṉu
                         <lb n="45" break="no"/><unclear>m</unclear> tiṟampa-c cammatippāṉum mātantirattukku-p piḻ<hi rend="grantha">ai</hi>tta
-                        <lb n="46"/><unclear>pa</unclear>ṭ<hi rend="grantha">ai</hi>ppak<hi rend="grantha">ai</hi>yan <hi rend="grantha">pañca-mahā</hi>pātakañ ceytāṉum tēvar
-                        <lb n="47"/><unclear>pū</unclear>tar mā-tavattōrkku-k kuṭuttaṉa koḷ<unclear>·</unclear>ḷum koṭum·
-                        <lb n="48" break="no"/><unclear>p</unclear>āviyum <hi rend="grantha">buddha-dharmma-saṃgha-ra</hi>tnaṅ·kaḷukku-p piḻ<hi rend="grantha">ai</hi>tt<unclear>ā</unclear>
+                        <lb n="46"/><unclear>pa</unclear>ṭ<hi rend="grantha">ai</hi>ppak<hi rend="grantha">ai</hi>yan· <hi rend="grantha">pañca-mahā</hi>pātakañ ceytāṉum tēvar<unclear>·</unclear>
+                        <lb n="47"/><unclear>pū</unclear>ta<unclear>r</unclear> mā-tavat·tōr·k·ku-k<unclear>·</unclear> kuṭuttaṉa koḷ<unclear>·</unclear>ḷum koṭum·
+                        <lb n="48" break="no"/><unclear>p</unclear>āviyum <hi rend="grantha">buddha-dharmma-saṃgha-ra</hi>tnaṅ·kaḷukku-p piḻ<hi rend="grantha">ai</hi>ttā
                         <lb n="49" break="no"/>ṉum pukun narakam pukuvān· <space/>
                     </p>
                     <p>                        
@@ -133,16 +141,20 @@
             <div type="apparatus">
                 <!--Complete apparatus-->
                 <listApp>
+                    <app loc="2">
+                        <lem>deś<choice><sic>a</sic><corr>ā</corr></choice>
+                            <lb n="3" break="no"/>t·</lem>
+                        <rdg source="bib:KrishnaSastri1923_01">deśā
+                            <lb n="3" break="no"/>t·</rdg>
+                        <rdg source="bib:Wickremasinghe1912–1927_01">deś<supplied reason="omitted">ā</supplied>
+                            <lb n="3" break="no"/>t</rdg>
+                    </app>
                     <app loc="4">
                         <lem source="bib:Wickremasinghe1912–1927_01">pā
                             <lb n="5" break="no"/>ntu</lem>
                         <rdg source="bib:KrishnaSastri1923_01"><unclear>yā</unclear>
                             <lb n="5" break="no"/>ntu</rdg>
                         <note>An alernative reading according to <ptr target="bib:Wickremasinghe1912–1927_01"/> is <foreign>sāntu</foreign>, but we do not believe so.</note>
-                    </app>
-                    <app loc="5">
-                        <lem source="bib:KrishnaSastri1923_01 bib:Wickremasinghe1912–1927_01">nitarām</lem>
-                        <note>An alernative reading according to <ptr target="bib:Wickremasinghe1912–1927_01"/> is <foreign>nityām</foreign>, but we do not believe so.</note>
                     </app>
                     <app loc="4">
                         <lem source="bib:Wickremasinghe1912–1927_01">paryyanta</lem>
@@ -153,6 +165,10 @@
                             <lb n="5" break="no"/>ntu</lem>
                         <rdg source="bib:KrishnaSastri1923_01"><unclear>yā</unclear>
                             <lb n="5" break="no"/>ntu</rdg>
+                    </app>
+                    <app loc="5">
+                        <lem source="bib:KrishnaSastri1923_01 bib:Wickremasinghe1912–1927_01">nitarām</lem>
+                        <note>An alernative reading according to <ptr target="bib:Wickremasinghe1912–1927_01"/> is <foreign>nityām</foreign>, but we do not believe so.</note>
                     </app>
                     <app loc="7">
                         <lem source="bib:KrishnaSastri1923_01"><hi rend="grantha">śatru</hi>-vi<hi rend="grantha">ja</hi>yam</lem>
@@ -167,8 +183,9 @@
                         <rdg source="bib:Wickremasinghe1912–1927_01">nuvarakal</rdg>
                     </app>
                     <!--<app loc="16">
-                        <lem>Uttoruḷmuḷaiyil</lem>
-                        <rdg source="">...</rdg>
+                        <lem></lem>
+                        <rdg source="bib:KrishnaSastri1923_01">Uttoruḷmuḷaiyil</rdg>
+                        <rdg source="bib:Wickremasinghe1912–1927_01">...</rdg>
                         </app>-->
                     <app loc="17">
                         <lem source="bib:Wickremasinghe1912–1927_01">virattar
@@ -177,9 +194,18 @@
                             <lb n="17" break="no"/>kku</rdg>
                     </app>
                     <!--<app loc="26">
-                        <lem>Uturuḷmuḷaiyil</lem>
-                        <rdg source="">...</rdg>
-                        </app>--> 
+                        <lem></lem>
+                        <rdg source="bib:KrishnaSastri1923_01">Uturuḷmuḷaiyil</rdg>                        
+                        <rdg source="bib:Wickremasinghe1912–1927_01">...</rdg>
+                    </app> -->
+                    <app loc="26">
+                        <lem source="bib:KrishnaSastri1923_01"><hi rend="grantha">vyā</hi>riṇi</lem>
+                        <rdg source="bib:Wickremasinghe1912–1927_01"><unclear><hi rend="grantha">vyā</hi>riṇi</unclear></rdg>
+                    </app>
+                    <app loc="27">
+                        <lem source="bib:KrishnaSastri1923_01 bib:Wickremasinghe1912–1927_01">kūṭa</lem>
+                        <note>Maybe <foreign>kūṭi</foreign> in fact, but with a medial <foreign>i</foreign> shorter than usual.</note>
+                    </app>
                     <app loc="30">
                         <lem source="bib:Wickremasinghe1912–1927_01">uḷ·ḷiṭṭār<hi rend="grantha">ai</hi>yuṅ·</lem>
                         <rdg source="bib:KrishnaSastri1923_01">uḷḷiṭṭoraiyuṅ</rdg>
@@ -192,10 +218,10 @@
                         <lem source="bib:Wickremasinghe1912–1927_01"><hi rend="grantha">vya</hi>va<hi rend="grantha">sthai</hi></lem>
                         <rdg source="bib:KrishnaSastri1923_01">va<hi rend="grantha">vyasdhai</hi></rdg>
                     </app> 
-                    <!--<app loc="40">
-                        <lem>kaiyviṉāveṟṟi-c</lem>
-                        <rdg source="">...</rdg>
-                        </app>--> 
+                    <app loc="40">
+                        <lem>kaiyviṉā</lem>
+                        <rdg source="bib:Wickremasinghe1912–1927_01">kaiyvi<unclear>ḷu</unclear></rdg>
+                    </app> 
                 </listApp>
             </div>
             
@@ -207,7 +233,7 @@
                 <p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/618).</p>
                 
                 <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.1396).</p>
-                <p>Eedited and translated in <bibl><ptr target="bib:Wickremasinghe1912–1927_01"/></bibl> with visual documentation (Ep. Zeyl. 2.40). See <ref target="https://siddham.network/inscription/in03103/">Siddham inscription 3103</ref>.</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Wickremasinghe1912–1927_01"/></bibl> with visual documentation (Ep. Zeyl. 2.40). See <ref target="https://siddham.network/inscription/in03103/">Siddham inscription 3103</ref>.</p>
                 
                 <p>This revised edition by Emmanuel Francis based on published and online visual documentation.</p>
                 
