@@ -53,11 +53,11 @@
                 
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                     <p>
-                        <lb n="1"/>svasti śrīḥ <supplied reason="undefined"><g type="ddanda">.</g></supplied> laṃkāyāṃ jinadantadhātubhavanaṃ yaddeva
-                        <lb n="2" break="no"/>senādhipokārṣit· śrīvijayādibāhu nṛvarādeśā
-                        <lb n="3" break="no"/>t· pulasteḥ pure <supplied reason="undefined"><g type="danda">.</g></supplied> veḷaikkāṟasamā<unclear>hṛtā</unclear>n tadapi ta
-                        <lb n="4" break="no"/>tvaryanta devālayān· veḷaikkāṟabalāni <unclear>yā</unclear>
-                        <lb n="5" break="no"/>ntu nitarāmākalpasandherbhuvi <unclear><g type="danda">.</g></unclear>
+                        <lb n="1"/>svasti śrīḥ <supplied reason="undefined"><g type="ddanda">.</g></supplied> laṃkāyāṃ jina-danta-dhātu-bhavanaṃ yad deva
+                        <lb n="2" break="no"/>senādhipo 'kārṣit· śrī-vijayādi-bāhu-nṛvarādeśā
+                        <lb n="3" break="no"/>t· pulasteḥ pure <supplied reason="undefined"><g type="danda">.</g></supplied> veḷaikkāṟa-samā<unclear>hṛtā</unclear>n tad api ta
+                        <lb n="4" break="no"/>t-paryyanta-devālayān· veḷaikkāṟa-balāni pā
+                        <lb n="5" break="no"/>ntu nitarām ākalpa-sandher bhuvi <unclear><g type="danda">.</g></unclear>
                     </p>
                     <p>
                         namo buddhāya <supplied reason="undefined"><g type="danda">.</g></supplied>
@@ -127,7 +127,22 @@
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="4">
+                        <lem>varyanta</lem>
+                        <rdg source="bib:KrishnaSastri1923_01">paryyanta</rdg>
+                    </app>
+                    <app loc="4">
+                        <lem>pā
+                            <lb n="5" break="no"/>ntu</lem>
+                        <rdg source="bib:KrishnaSastri1923_01"><unclear>yā</unclear>
+                            <lb n="5" break="no"/>ntu</rdg>
+                    </app>
+                    <app loc="7">
+                        <lem><hi rend="grantha">śatru</hi>-vi<hi rend="grantha">ja</hi>yam</lem>
+                        <rdg source="">...</rdg>
+                    </app>
+                </listApp>
             </div>
             
             <div type="commentary">
