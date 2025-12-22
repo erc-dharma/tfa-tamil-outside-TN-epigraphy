@@ -85,7 +85,7 @@
                         <lb n="13"/>Aiñ·patt' ay·-y-āṇ·ṭu Ilaṅ·k<hi rend="grantha">ai</hi> muḻutum<unclear>·</unclear> Oru kuṭ<hi rend="grantha">ai</hi> ni<unclear>ḻa</unclear>
                         <lb n="14" break="no"/>ṟṟi-t tiru-virā<hi rend="grantha">jya</hi>ñ ceyt-aruḷi Eḻupattu mu-v-āṇṭu tiru-na
                         <lb n="15" break="no"/><hi rend="grantha">kṣatra</hi>ñ celuttiṉa kō-<hi rend="grantha">śrī-saṃgha-bodhi</hi>-va<hi rend="grantha">tma</hi>r-āṉa <hi rend="grantha">cakra</hi>va<hi rend="grantha">rtti</hi>
-                        <lb n="16" break="no"/><unclear>ka</unclear>ḷ· <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-<hi rend="grantha">bāhu-de</hi>var <seg rend="check">anuvākal·</seg>· tē<supplied reason="omitted">va</supplied>-cēṉa-virattar
+                        <lb n="16" break="no"/><unclear>ka</unclear>ḷ· <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-<hi rend="grantha">bāhu-de</hi>var <seg rend="check">anuvākal·</seg> tē<supplied reason="omitted">va</supplied>-cēṉa-virattar
                         <lb n="17" break="no"/>kku niyokit·tu-p· pulanari-y-āṉa vi<hi rend="grantha">ja</hi>ya-rā<hi rend="grantha">ja</hi>-purattu Eṭup·
                         <lb n="18" break="no"/><unclear>pi</unclear>tta m<choice><orig>u</orig><reg>ū</reg></choice>la-<hi rend="grantha">sthā</hi>nam-ākiya A<hi rend="grantha">bha</hi>ya<hi rend="grantha">giri-mahā</hi>-vi<hi rend="grantha">hā</hi>rattu <hi rend="grantha">Agra</hi>
                         <lb n="19" break="no"/><unclear>va</unclear>tanam-āṉa Ut·toruḷam<choice><orig>u</orig><reg>ū</reg></choice>ḷaiyil·<!--contra SII--> mu-v-ulakuk=kuñ cikāmaṇi
@@ -230,9 +230,9 @@
             </div>
             
             <div type="bibliography">
-                <p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/618).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/618, pp. 66, 101-102).</p>
                 
-                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.1396).</p>
+                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (<ref target="DHARMA_INSSIIv04p0i1396">SII 4.1396</ref>).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Wickremasinghe1912–1927_01"/></bibl> with visual documentation (Ep. Zeyl. 2.40). See <ref target="https://siddham.network/inscription/in03103/">Siddham inscription 3103</ref>.</p>
                 
                 <p>This revised edition by Emmanuel Francis based on published and online visual documentation.</p>
