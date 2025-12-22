@@ -182,22 +182,28 @@
                         <lem source="bib:KrishnaSastri1923_01">anuvākal·</lem>
                         <rdg source="bib:Wickremasinghe1912–1927_01">nuvarakal</rdg>
                     </app>
-                    <!--<app loc="16">
-                        <lem></lem>
-                        <rdg source="bib:KrishnaSastri1923_01">Uttoruḷmuḷaiyil</rdg>
-                        <rdg source="bib:Wickremasinghe1912–1927_01">...</rdg>
-                        </app>-->
+                    <app loc="16">
+                        <lem source="bib:KrishnaSastri1923_01">cēṉa</lem>
+                        <rdg source="bib:Paranavitana1925-1926_01">sēne</rdg>
+                    </app>
                     <app loc="17">
                         <lem source="bib:Wickremasinghe1912–1927_01">virattar
                             <lb n="17" break="no"/>kku</lem>
                         <rdg source="bib:KrishnaSastri1923_01">virttar
                             <lb n="17" break="no"/>kku</rdg>
                     </app>
+                     <!--<app loc="19">
+                        <lem></lem>
+                        <rdg source="bib:KrishnaSastri1923_01">Uttoruḷmuḷaiyil</rdg>
+                        <rdg source="bib:Wickremasinghe1912–1927_01">...</rdg>
+                        <rdg source="bib:Paranavitana1925-1926_01">uttoruḷmūḷaiyil</rdg>
+                        </app>-->
                     <!--<app loc="26">
                         <lem></lem>
                         <rdg source="bib:KrishnaSastri1923_01">Uturuḷmuḷaiyil</rdg>                        
                         <rdg source="bib:Wickremasinghe1912–1927_01">...</rdg>
-                    </app> -->
+                        <rdg source="bib:Paranavitana1925-1926_01">uturuḷmuḷaiyil</rdg>
+                        </app> -->
                     <app loc="26">
                         <lem source="bib:KrishnaSastri1923_01"><hi rend="grantha">vyā</hi>riṇi</lem>
                         <rdg source="bib:Wickremasinghe1912–1927_01"><unclear><hi rend="grantha">vyā</hi>riṇi</unclear></rdg>
@@ -232,8 +238,7 @@
             <div type="bibliography">
                 <p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/618, pp. 66, 101-102).</p>
                 
-                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (<ref target="DHARMA_INSSIIv04p0i1396">SII 4.1396</ref>).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Wickremasinghe1912–1927_01"/></bibl> with visual documentation (Ep. Zeyl. 2.40). See <ref target="https://siddham.network/inscription/in03103/">Siddham inscription 3103</ref>.</p>
+                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (<ref target="DHARMA_INSSIIv04p0i1396">SII 4.1396</ref>). Edited and translated in <bibl><ptr target="bib:Wickremasinghe1912–1927_01"/></bibl> with visual documentation (Ep. Zeyl. 2.40 [see <ref target="https://siddham.network/inscription/in03103/">Siddham inscription 3103</ref>]). Edited and translated in <bibl><ptr target="bib:Paranavitana1925-1926_01"/></bibl> with visual documentation (EI 18.38).</p>
                 
                 <p>This revised edition by Emmanuel Francis based on published and online visual documentation.</p>
                 
@@ -249,6 +254,10 @@
                         <ptr target="bib:Wickremasinghe1912–1927_01"/>
                         <citedRange unit="page">242-255</citedRange>
                         <citedRange unit="item">40</citedRange>
+                    </bibl>
+                    
+                    <bibl n="EI">
+                        <ptr target="bib:Paranavitana1925-1926_01"/>
                     </bibl>
                     
                 </listBibl>
