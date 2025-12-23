@@ -97,7 +97,8 @@
             
             <div type="bibliography">
                 
-                <p>Edited in and translated <bibl><ptr target="bib:KanapathiPillai1960_02"/></bibl> with visual documentation.</p>
+                <p>Edited and translated in <bibl><ptr target="bib:KanapathiPillai1960_02"/></bibl> with visual documentation.</p>
+                <p>Edited in <bibl><ptr target="bib:Patmanatan2006_01"/></bibl>.</p>
                 
                 <p>This revised edition by Emmanuel Francis base on the published visual documentation.</p>
                 
@@ -107,9 +108,12 @@
                         <ptr target="bib:KanapathiPillai1960_02"/>
                     </bibl>
                     
+                    <bibl n="P">
+                        <ptr target="bib:Patmanatan2006_01"/>
+                        <citedRange unit="page">444</citedRange>
+                    </bibl>
+                    
                 </listBibl>
-                
-                
                 
             </div>
             
