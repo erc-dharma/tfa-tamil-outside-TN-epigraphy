@@ -53,28 +53,27 @@
                 
                 <p>
                     <lb n="1"/>teṉ-ṉ-ilaṅkai-k-kō
-                    <lb n="2" break="no"/>ṉ pa<hi rend="grantha">rākra</hi>ma-<hi rend="grantha">bāhu</hi>
-                    nic
+                    <lb n="2" break="no"/>ṉ pa<hi rend="grantha">rākra</hi>ma-<hi rend="grantha">bāhu</hi>-nic
                     <lb n="3" break="no"/>caṅka-mallaṟki yāṇ
                     <lb n="4" break="no"/>ṭ' añciṟ tiṉakaraṉ cuṟa
-                    <lb n="5" break="no"/>vil aṇainta vit
+                    <lb n="5" break="no"/>vil aṇainta v<unclear>i</unclear>t
                     <lb n="6" break="no"/>taiyyil uttiraṭṭāti ⌈
                     <lb n="7" break="no"/>y-ēḻ pakkam poṉṉavaṉ
-                    <lb n="8" break="no"/>tiṉa naṟ cātayōkattil
-                    <lb n="9"/>Uyar tarum pōtimātava
+                    <lb n="8"/>tiṉa<supplied reason="subaudible">m</supplied> naṟcātayōkattil
+                    <lb n="9"/>Uyar tarum pōti-mātava
                     <lb n="10" break="no"/>ṟku-p poṟpamar kōyil mu
                     <lb n="11" break="no"/>ṉivar ālaiyan tēnaṟan
-                    <lb n="12" break="no"/>tikaḻ cālaiyuñ cayittam
-                    <lb n="13"/>Aṉṉavai tikaḻ Aivarakaṇ
-                    <lb n="14" break="no"/>ṭaṉ vaṉuveri Ilaṅkai Ati
+                    <lb n="12"/>tikaḻ cālaiyuñ cayittam
+                    <lb n="13"/>Aṉṉavai tikaḻ Aivar kaṇ
+                    <lb n="14" break="no"/>ṭaṉ vaṉuvēri Ilaṅkai Ati
                     <lb n="15" break="no"/>kāri Ala<hi rend="grantha">kra</hi>ta-puya<choice><orig>n</orig><reg>ṉ</reg></choice> teṉ-pa<hi rend="grantha">rā</hi>
-                    <lb n="16"/><hi rend="grantha">kra</hi>maṉ mēnai-c cenevi nā
-                    <lb n="17" break="no"/>taṉ tiru-p-pivāṉ maṉṉi
-                    <lb n="18"/>ya ciṟappilamala tarumaḻakā
+                    <lb n="16"/><hi rend="grantha">kra</hi>maṉ mēnai-c cenevi-nā
+                    <lb n="17" break="no"/>taṉ tiruppiyāṉ maṉṉi
+                    <lb n="18"/>ya ciṟappil malitarumaḻakā
                     <lb n="19" break="no"/>ṟ pa<hi rend="grantha">rākra</hi>ma Atikāri-p pi
                     <lb n="20" break="no"/>rivuṉa vaḷartara Amaittāṉ
-                    <lb n="21"/><hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>-pura-nakaruḷ mati-māṉa-pañ
-                    <lb n="22" break="no"/>cara-ṉama kulaṉtēy                                       
+                    <lb n="21"/><hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>-pura-nakaruḷ matimāṉ pañ
+                    <lb n="22" break="no"/>caraṉ mak<choice><sic>u</sic><corr>i</corr></choice>lṉtēy                                       
                 </p>
                 
             </div>
@@ -82,13 +81,52 @@
             <div type="apparatus">
                 
                 <listApp>
-                    <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:KanapathiPillai1960_02"></rdg>
+                    <app loc="5">
+                        <lem>v<unclear>i</unclear>t
+                            <lb n="6" break="no"/>taiyyil</lem>
+                        <rdg source="bib:KanapathiPillai1960_02">vit
+                            <lb n="6" break="no"/>taiyyil</rdg>                        
+                        <rdg source="bib:Patmanatan2006_01">vat
+                            <lb n="6" break="no"/>taiyyil</rdg>                    
+                    </app>
+                    <app loc="13">
+                        <lem source="bib:Patmanatan2006_01">Aivar</lem>
+                        <rdg source="bib:KanapathiPillai1960_02">Aiyar</rdg>     
+                    </app>     
+                    <app loc="15">
+                        <lem source="bib:KanapathiPillai1960_02">Ala<hi rend="grantha">kra</hi>ta</lem>
+                        <rdg source="bib:Patmanatan2006_01">Alaṅkruta</rdg>
+                        <note>That is, Sanskrit <foreign>alaṃkṛta</foreign>.</note>
+                    </app>
+                    <app loc="17">
+                        <lem source="bib:Patmanatan2006_01">tiruppiyāṉ</lem>
+                        <rdg source="bib:KanapathiPillai1960_02">tiruppivāṉ</rdg>
+                    </app>
+                    <app loc="18">
+                        <lem source="bib:Patmanatan2006_01">ciṟappil malitarum</lem>
+                        <rdg source="bib:KanapathiPillai1960_02">ciṟappilamala tarum</rdg>
+                    </app>
+                    <app loc="21">
+                        <lem source="bib:Patmanatan2006_01">matimāṉ pañ
+                            <lb n="22" break="no"/>caraṉ makulṉtēy</lem>
+                        <rdg source="bib:KanapathiPillai1960_02">matimāṉapañ
+                            <lb n="22" break="no"/>caraṉama kulaṉtey</rdg>
                     </app>
                     
                 </listApp>                
                 
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1-22">
+                    In the fifth year of Parākrama Bahu Niśśaṅka Malla, king of Southern Laṅkā,
+                    on the day of Jupiter <supplied reason="explanation"><foreign>poṉṉavaṉ tiṉam</foreign><note>That is, Thursday.</note></supplied>, seven<supplied reason="subaudible">th day in</supplied> the fortnight, ... when the sun joins in the Capricorn,
+                    ...
+                    the vainquisher of the five<note>That is, the Pāṇḍyas?</note>,
+                    ...
+                    rejoiced.
+                </p>
             </div>
             
             <div type="commentary">
