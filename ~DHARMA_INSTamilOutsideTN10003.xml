@@ -61,7 +61,7 @@
                     <lb n="7" break="no"/>y-ēḻ pakkam poṉṉavaṉ
                     <lb n="8"/>tiṉa<supplied reason="subaudible">m</supplied> naṟcātayōkattil
                     <lb n="9"/>Uyar tarum pōti-mātava
-                    <lb n="10" break="no"/>ṟku-p poṟpamar kōyil mu
+                    <lb n="10" break="no"/>ṟku-p poṟp' amar kōyil mu
                     <lb n="11" break="no"/>ṉivar ālaiyan tēnaṟan
                     <lb n="12"/>tikaḻ cālaiyuñ cayittam
                     <lb n="13"/>Aṉṉavai tikaḻ Aivar kaṇ
@@ -121,11 +121,17 @@
                 
                 <p n="1-22">
                     In the fifth year of Parākrama Bahu Niśśaṅka Malla, king of Southern Laṅkā,
-                    on the day of Jupiter <supplied reason="explanation"><foreign>poṉṉavaṉ tiṉam</foreign><note>That is, Thursday.</note></supplied>, seven<supplied reason="subaudible">th day in</supplied> the fortnight, ... when the sun joins in the Capricorn,
-                    ...
+                    <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>naṟcātayōkattil</foreign></supplied>, on the day of Jupiter <supplied reason="explanation"><foreign>poṉṉavaṉ tiṉam</foreign><note>That is, Thursday.</note></supplied>, seven<supplied reason="subaudible">th day in</supplied> the fortnight <supplied reason="explanation"><foreign>yēḻ pakkam</foreign>?<note>We follow here existing translations, but this expression is not usual.</note></supplied>, <supplied reason="subaudible">with the <foreign>nakṣatra</foreign></supplied> Uttiraṭṭti, <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>vittaiyyil</foreign></supplied> when the sun joins in the Capricorn <supplied reason="explanation"><foreign>tiṉakaraṉ cuṟavil aṇainta</foreign></supplied>,
+                    
+                    in the beautiful temple
+                    of/for the excellent ascetic of the enlightenment,
+                    
                     the vainquisher of the five<note>That is, the Pāṇḍyas?</note>,
-                    ...
-                    rejoiced.
+                    <gap reason="ellipsis"/>
+                    
+                    
+                    rejoiced <supplied reason="explanation"><foreign>makiḻntēy</foreign><note>Literally: having rejoiced (absolutive).</note></supplied> <supplied reason="subaudible">to establish</supplied>
+                    a residence for the ascetics, a feeding hall <gap reason="ellipsis"/>, and a <foreign>caitya</foreign> <supplied reason="explanation"><foreign>cayittam</foreign></supplied>.
                 </p>
             </div>
             
@@ -136,7 +142,8 @@
             <div type="bibliography">
                 
                 <p>Edited and translated in <bibl><ptr target="bib:KanapathiPillai1960_02"/></bibl> with visual documentation.</p>
-                <p>Edited in <bibl><ptr target="bib:Patmanatan2006_01"/></bibl>.</p>
+                <p>Edited in <bibl><ptr target="bib:Patmanatan2006_01"/></bibl> [see <ref target="https://siddham.network/inscription/in03227/">Siddham inscription 3327</ref>].</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Pathmanathan2019_01"/></bibl>.</p>
                 
                 <p>This revised edition by Emmanuel Francis base on the published visual documentation.</p>
                 
@@ -150,6 +157,12 @@
                         <ptr target="bib:Patmanatan2006_01"/>
                         <citedRange unit="page">444</citedRange>
                     </bibl>
+                    
+                    <bibl n="P2">
+                        <ptr target="bib:Pathmanathan2019_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                    </bibl>
+                    
                     
                 </listBibl>
                 

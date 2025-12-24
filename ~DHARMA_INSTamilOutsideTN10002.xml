@@ -203,7 +203,8 @@
             <div type="bibliography">
                 
                 <p>Edited in and translated <bibl><ptr target="bib:KanapathiPillai1962_01"/></bibl> with visual documentation.</p>
-                <p>Edited in <bibl><ptr target="bib:Patmanatan2006_01"/></bibl>.</p>
+                <p>Edited in <bibl><ptr target="bib:Patmanatan2006_01"/></bibl> [see <ref target="https://siddham.network/inscription/in03228/">Siddham inscription 3328</ref>].</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Pathmanathan2019_01"/></bibl>.</p>
                 
                 <p>This revised edition by Emmanuel Francis base on the published visual documentation.</p>
                 
@@ -218,10 +219,10 @@
                         <citedRange unit="page">442</citedRange>
                     </bibl>
                     
-                    <!--<bibl n="P2019">
+                    <bibl n="P2">
                         <ptr target="bib:Pathmanathan2019_01"/>
                         <citedRange unit="page">TBC</citedRange>
-                    </bibl>-->
+                    </bibl>
                     
                 </listBibl>
                 
