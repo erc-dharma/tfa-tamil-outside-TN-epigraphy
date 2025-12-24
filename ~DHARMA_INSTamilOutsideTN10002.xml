@@ -166,7 +166,7 @@
                     </listApp>
                 </div>
                 
-                <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:grantha maturity:vernacular"><head>Face II</head>
+                <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:grantha maturity:vernacular"><head>Face II</head>
                     <listApp>
                         <app loc="5">
                             <lem><hi rend="grantha">b</hi>
@@ -186,13 +186,52 @@
                         </app>
                         <app loc="16">
                             <lem>ce<supplied reason="lost">y</supplied>
-                        <lb n="B17" break="no"/><unclear>var ṟu ḷa nā</unclear>
-                        <lb n="B18" break="no"/><choice><unclear>k</unclear><unclear>t</unclear></choice>i-p</lem>
+                                <lb n="B17" break="no"/><unclear>var ṟu ḷa nā</unclear>
+                                <lb n="B18" break="no"/><choice><unclear>k</unclear><unclear>t</unclear></choice>i-p</lem>
                             <rdg source="bib:KanapathiPillai1962_01">ce<unclear>ya</unclear>
                                 <lb n="B17" break="no"/><unclear>l enru</unclear> ḷama
                                 <lb n="B18" break="no"/>ti-p</rdg>
                         </app>
                     </listApp>
+                </div>
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                <div type="textpart" n="A"><head>Face I</head>
+                    <p>
+                        <gap reason="ellipsis"/>
+                    </p>
+                </div>
+                <div type="textpart" n="B"><head>Face II</head>
+                    <p>
+                        <gap reason="ellipsis"/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="translation" source="bib:KanapathiPillai1962_01">                
+                <div type="textpart" n="A"><head>Face I</head>
+                    <p>
+                        Hail! In the 43rd year of Abhayasalā Megha Varman, the Emperor Sri Jayabhāhu Deva, the agricultural land named Tel, Kiratu and the agricultural land named Narātu were given to me Mintaṉ Koṟṟaṉ, the overseer of the palanquin bearers of the Royal Bed-Chamber, by Gajabhāhu Deva for life. The four boundaries surrounding these (the agricultural lands) are the lands belonging to the vihāra of Gajabhāhu Deva which is situated on the main road. These (the agricultural lands) are given as donation to me.
+                    </p>
+                </div>
+                <div type="textpart" n="B"><head>Face II</head>
+                    <p>
+                        To this notification issued by the king, Mānābharana Deva ordered “May the wishes of the king Gajabhāhu Deva be accomplished” and sent a royal letter to inscribe this (donation) on stone, ordering that no impediment should be done to this wish. This vow is taken in the name of the enlightened Buddha. This is the oath taken by Vallavarayaṉ.
+                    </p>
+                </div>
+            </div>
+            
+            <div type="translation" source="bib:Pathmanathan2019_01">                
+                <div type="textpart" n="A"><head>Face I</head>
+                    <p>
+                        <gap reason="ellipsis"/>
+                    </p>
+                </div>
+                <div type="textpart" n="B"><head>Face II</head>
+                    <p>
+                        <gap reason="ellipsis"/>
+                    </p>
                 </div>
             </div>
             
