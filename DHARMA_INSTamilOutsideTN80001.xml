@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Quanzhou, installation of Tirukkāṉiccuramuṭaiya Nāyaṉār</title>
+                <title>Quanzhou, installation of Tirukkāṉīccuramuṭaiya Nāyaṉār, Śaka year 1203</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -41,7 +41,7 @@
                         <!-- don't modify this -->
                     </msIdentifier>
                     <msContents>
-                        <summary>Installation of Tirukkāṉiccuramuṭaiya Nāyaṉār by Tavaccakkaravattikaḷ alias Campantapperumāḷ for the welfare of and with the authorisation Cekacaikāṉ.</summary>
+                        <summary>Installation of Tirukkāṉīccuramuṭaiya Nāyaṉār by Tavaccakkaravattikaḷ alias Campantapperumāḷ for the welfare of and with the authorisation Cekacaikāṉ.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -84,17 +84,20 @@
                     <lb n="1"/><hi rend="grantha">haraḥ svasti śrī</hi>
                 </ab>
                 <p>
-                    <hi rend="grantha">śagāptaM</hi> <num value="1203"><g type="numeral">1000</g> 2 <g type="numeral">100</g> 3</num> vatu cittirai
+                    <hi rend="grantha">śa<choice><orig>g</orig><reg>k</reg></choice>ā<choice><orig>pt</orig><reg>bd</reg></choice>aM</hi> <num value="1203"><g type="numeral">1000</g> 2 <g type="numeral">100</g> 3</num> vatu cittirai
                     <lb n="2" break="no"/>-c cittirai nāḷ
                 </p>
                 <p>                    
-                    <hi rend="grantha">śrī</hi>-cekacēkāṉ tirumēṉikk<unclear>u</unclear> naṉ
-                    <lb n="3" break="no"/>ṟāka °uṭaiyār tirukk[ā]ṉi[tā/tara]muṭaiya nāyaṉārai
-                    <lb n="4"/>Eṟiy aruḷap paṇṇiṉār campantap perumāḷ
-                    <lb n="5" break="no"/>āṉa tavaccakkaravattikaḷ   cekacaikaraṉ parmāṉ
-                    <lb n="6"/>paṭi 
-                    
+                    <hi rend="grantha">śrī</hi>-cekac<choice><sic>ē</sic><corr>ai</corr></choice>kāṉ tiru-mēṉikk<unclear>u</unclear> naṉ
+                    <lb n="3" break="no"/>ṟāka Uṭaiyār tiru-k-k<unclear>ā</unclear>ṉ<choice><sic>i</sic><corr>ī</corr></choice><unclear>cu</unclear>ram-uṭaiya nāyaṉārai
+                    <lb n="4"/>Ēṟi-y aruḷa-p paṇṇiṉār campa<unclear reason="eccentric_ductus">n</unclear>tap perumāḷ
+                    <lb n="5" break="no"/>āṉa tava-c-cakkaravattikaḷ <space/>
                 </p>
+                <p>
+                    cekacaikāṉ paramā<choice><sic>ḷ</sic><corr>ṉ</corr></choice>
+                    <lb n="6"/>paṭi                    
+                </p>
+                <p><gap reason="ellipsis"/></p>
                 
             </div>
             
@@ -117,16 +120,27 @@
                     Hara! Prosperity! Fortune!
                 </p>
                 
-                <p n="1-6">
-                    ...
+                <p n="1-2">
+                    1203th Śaka year, <supplied reason="subaudible">month of</supplied> Cittirai, day of <foreign>cittirai</foreign>.
                 </p>
                 
-            </div>
-            
+                <p n="2-5">
+                    For the welfare of the glorious body of the glorious Cekacai Kān,
+                    Tavaccakkaravattikaḷ <hi rend="italic">alias</hi> Campantapperumāḷ 
+                    made, so that he graciously rises, the Lord <supplied reason="explanation"><foreign>nāyaṉār</foreign></supplied>, lord of the Tirukkāṉīccuram.<note>That is Tamil <foreign>tiru-k-kān</foreign> + Sanskrit <foreign>īśvara</foreign>, that is, “the glorious lord of the Kāṉ.”</note>
+                </p>
+                
+                <p n="6">
+                    <supplied reason="subaudible">Done</supplied> according to a <foreign>farmān</foreign> of Cekacai Kān.
+                </p>
+                
+                <p><gap reason="ellipsis"/></p>
+                
+            </div>            
             
             
             <div type="commentary">
-               
+                
             </div>
             
             <div type="bibliography">
