@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Poḷonnaruva, inscription of the Vēḷaikkāṟaṉ-s</title>
+                <title>Poḷonnaruva, inscription of the Vēḷaikkāṟar</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -238,7 +238,7 @@
             <div type="bibliography">
                 <p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/618, pp. 66, 101-102).</p>
                 
-                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (<ref target="DHARMA_INSSIIv04p0i1396">SII 4.1396</ref>). Edited and translated in <bibl><ptr target="bib:Wickremasinghe1912–1927_01"/></bibl> with visual documentation (Ep. Zeyl. 2.40 [see <ref target="https://siddham.network/inscription/in03103/">Siddham inscription 3103</ref>]). Edited and translated in <bibl><ptr target="bib:Paranavitana1925-1926_01"/></bibl> with visual documentation (EI 18.38). Edited in <bibl><ptr target="bib:Patmanatan2006_01"/></bibl>. Edited and translated in <bibl><ptr target="bib:Pathmanathan2019_01"/></bibl>.</p>
+                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (<ref target="DHARMA_INSSIIv04p0i1396">SII 4.1396</ref>). Edited and translated in <bibl><ptr target="bib:Wickremasinghe1912–1927_01"/></bibl> with visual documentation (Ep. Zeyl. 2.40 [see <ref target="https://siddham.network/inscription/in03103/">Siddham inscription 3103</ref>]). Edited and translated in <bibl><ptr target="bib:Paranavitana1925-1926_01"/></bibl> with visual documentation (EI 18.38). Edited in <bibl><ptr target="bib:Patmanatan2006_01"/></bibl>. Edited and translated in <bibl><ptr target="bib:Pamanatan2002_12"/></bibl>, <bibl><ptr target="bib:Pathmanathan2019_01"/></bibl>.</p>
                 
                 <p>This revised edition by Emmanuel Francis based on published and online visual documentation.</p>
                 
@@ -260,12 +260,16 @@
                         <ptr target="bib:Paranavitana1925-1926_01"/>
                     </bibl>
                     
-                    <bibl n="P">
+                    <bibl n="P1">
+                        <ptr target="bib:Pamanatan2002_12"/>
+                    </bibl>
+                    
+                    <bibl n="P2">
                         <ptr target="bib:Patmanatan2006_01"/>
                         <citedRange unit="page">430-431</citedRange>
                     </bibl>
                     
-                    <bibl n="P2">
+                    <bibl n="P3">
                         <ptr target="bib:Pathmanathan2019_01"/>
                         <citedRange unit="page">TBC</citedRange>
                     </bibl>

@@ -5,201 +5,194 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Kōlār, Kōlārammā, time of Parakesarivarman Rājendra Cōḻa, year 8</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>					
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>					
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTamilOutsideTN00005</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kōlār, Kōlārammā, time of Parakesarivarman Rājendra Cōḻa, year 8</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>	
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTamilOutsideTN00005</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2026">2019-2026</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<summary>Donation of five buffaloes (<foreign>erumai</foreign>) for maintaining one perpetual lamp for Piṭāriyār of Kuvaḷālam.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-							<p>Letter <foreign>na</foreign> regularly found instead of expected <foreign>ṉa</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-05-23">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-
-<text xml:space="preserve">
-      
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            	
-	
-	<!--Check Rice's reading against EFEO pictures-->
-	
-	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi>		
-	</ab>
-	
-	<lg n="1" met="āciriyappā">
-		<l n="1">tiru maṉṉi vaḷara Iru-nila-maṭan=taiyum</l>
-		<l n="2">pōr-ceya-p-pāvaiyuñ c<choice><orig>i</orig><reg>ī</reg></choice>r-t-ta<choice><orig>n</orig><reg>ṉ</reg></choice>i-c-ce<lb n="2" break="no"/>lviyun=</l>
-		<l n="3">taṉ perun=-tēviyar āki Inpuṟa</l>
-		<l n="4">neṭu-tuyal ūḻiyuḷ Iṭai-tuṟai-nāṭun=</l>
-		<l n="5">tuṭar-vaṉa-vēli-p-pa<lb n="3" break="no"/>ṭar va<choice><orig>n</orig><reg>ṉ</reg></choice>avāciyum</l>
-		<l n="6">cuḷḷi-c-cūḻ-matiṭ koḷḷi-p-pākkaiyum</l>
-		<l n="7">naṇṇaṟk' arum araṇ maṇṇai-k-kaṭakkamum</l>
-		<l n="8"><lb n="4"/>poru-kaṭal <choice><orig>i</orig><reg>ī</reg></choice>ḻatt' araicar tam muṭiyum</l>
-		<l n="9">Āṅkavan tēviyar ōṅk' eḻil muṭiyum</l>
-		<l n="10">muṉ<choice><orig>n</orig><reg>ṉ</reg></choice>avar pakkal te<lb n="5" break="no"/>ṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ava<choice><orig>n</orig><reg>ṉ</reg></choice> vaitta</l>
-		<l n="11">cun=tara-muṭiyum In=tira<choice><orig>n</orig><reg>ṉ</reg></choice> āramum</l>
-		<l n="12"><choice><sic>n=t</sic><corr>t</corr></choice>eṇ-ṭirai Īḻa-maṇṭala-muḻuvatum</l>
-		<l n="13">Eṟi-paṭai-k kēraḷan mu<lb n="6" break="no"/>ṟaimaiyiṟ cūṭum</l>
-		<l n="14">kula-taṉam-ākiya palar pukaḻ muṭiyum</l>
-		<l n="15">ceṅ-katir-mālaiyuñ caṅk-atir-vēlai-t</l>
-		<l n="16">tol<lb n="7" break="no"/>-peruṅ-kāvaṟ pala-paḻan=-tīvuñ</l>
-		<l n="17">ceruviṟ ci<choice><orig>n</orig><reg>ṉ</reg></choice>avil irupatt' oru kāl</l>
-		<l n="18">araicukaḷai kaṭṭa paracurāmaṉ</l>
-		<l n="19">mēvaruñ cā<lb n="8" break="no"/>n=timat-tīv' araṇ karuti</l>
-		<l n="20">Iruttiya cem-poṟ ṟiru-t-taku muṭiyum</l>
-		<l n="21">mā-p-poru-taṇṭāṟ koṇṭa</l>
-	</lg>
-	<p>
-		kō-p-para-kēcari-<hi rend="grantha">panma</hi>
-		<lb n="9" break="no"/>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī-rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>vark=ku yāṇṭu Eṭṭ-āvatu
-	</p>
-	<p>
-		cōḻa-maṇṭalattu Uyya-k-koṇṭār-vaḷa-nāṭṭu <add place="right">tiraimūr-nā</add>
-		<lb n="10" break="no"/><add place="left">ṭṭu-c</add> cātta-maṅkalattu-c- cāttamaṅkalam-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> Araiya<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">rājarāja</hi><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>-āṉa vikkirama-cōḻa-c-cōḻiya-v-a
-		<lb n="11" break="no"/>raiyar nuḷampa-pāṭi-y-āṉa nikarili-cōḻa-maṇṭalattu-k kuvaḷāla-nāṭṭu-k kuvaḷālattu-p piṭāriyārku cantirā
-		<lb n="12" break="no"/>titta-vaṟ Erikka-kaṭavat' āka vaiytta tiru-nuntā-viḷakku Oṉṟukku vaiytta cāvā mūvā nall-erumai Aiñcum
-	</p>
-	<p>
-		I⌈<lb n="13" break="no"/>vai it-tēvarai Ārātikkum <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇar <hi rend="grantha">kauśi</hi>ka-kōttirattu-c cornapuḷiya<choice><orig>n</orig><reg>ṉ</reg></choice>um viṉakkāla<choice><orig>n</orig><reg>ṉ</reg></choice>um Ivv-iruva
-		<lb n="14" break="no"/>ruṅ kai-y-k-koṇṭu Erikka-kaṭava tiru-nun=tā-viḷakk' oṉṟu
-	</p>
-	<p>
-		Itu pa<hi rend="grantha">n-māheśva</hi>rar rakṣai <g type="gomutraFinal">.</g>
-	</p>
-	
-</div>
-	
-<div type="apparatus">
-	
-	<listApp>		
-		
-		<app loc="8">
-			<lem>°<hi rend="grantha">panma</hi><lb n="9" break="no"/>r°</lem>
-			<rdg source="bib:Rice1905_01">°<hi rend="grantha">pamma</hi><lb n="9" break="no"/>r°</rdg>
-		</app>		
-		
-		<app loc="9">
-			<lem><add place="right">tiraimūrnā</add><lb n="10" break="no"/><add place="left">ṭṭuc</add></lem>
-			<note>Added on the pilasters framing the temple walls where the inscription is engraved, except for the final <foreign>c</foreign>.</note>
-		</app>
-		
-		<app loc="11">
-			<lem>cantirā<lb n="12" break="no"/>tittavaṟ</lem>
-			<rdg source="bib:Rice1905_01">cantirā<lb n="12" break="no"/>tittavaṟa</rdg>
-		</app>
-		
-		<app loc="13">
-			<lem><hi rend="grantha">kauśi</hi>ka°</lem>
-			<rdg source="bib:Rice1905_01">kau<hi rend="grantha">śi</hi>ka°</rdg>
-		</app>
-		
-		<app loc="14">
-			<lem>pa<hi rend="grantha">nmāheśva</hi>rar</lem>
-			<rdg source="bib:Rice1905_01">pa<hi rend="grantha">mmāheśva</hi>rar</rdg>
-		</app>
-		
-	</listApp>
-</div>
-         
-<!--<div type="translation" resp="part:emfr">
-
-	<p n="1">
-		Prosperity! Fortune!
-	</p>
-	
-</div>-->
-
-<!--<div type="commentary">
-           
-</div>-->
-	
-<div type="bibliography">
-	
-	<p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 106a).</p>
-	
-	<p>This edition by Emmanuel Francis (2024), based on EFEO pictures (2004, 2017).</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="EC">
-			<ptr target="bib:Rice1905_01"/>
-			<citedRange unit="item">Kl 106a</citedRange>
-		</bibl>		
-		
-	</listBibl>
-	
-	<!--<listBibl type="secondary">
-		
-	</listBibl>-->
-</div>
-      </body>
-  </text>
+                        <p>Copyright (c) 2019-2026 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Donation of five buffaloes (<foreign>erumai</foreign>) for maintaining one perpetual lamp for Piṭāriyār of Kuvaḷālam.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p>Letter <foreign>na</foreign> regularly found instead of expected <foreign>ṉa</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-23">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            	
+                
+                <!--Check Rice's reading against EFEO pictures-->
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>		
+                </ab>
+                
+                <lg n="1" met="āciriyappā">
+                    <l n="1">tiru maṉṉi vaḷara Iru-nila-maṭan=taiyum</l>
+                    <l n="2">pōr-ceya-p-pāvaiyuñ c<choice><orig>i</orig><reg>ī</reg></choice>r-t-ta<choice><orig>n</orig><reg>ṉ</reg></choice>i-c-ce<lb n="2" break="no"/>lviyun=</l>
+                    <l n="3">taṉ perun=-tēviyar āki Inpuṟa</l>
+                    <l n="4">neṭu-tuyal ūḻiyuḷ Iṭai-tuṟai-nāṭun=</l>
+                    <l n="5">tuṭar-vaṉa-vēli-p-pa<lb n="3" break="no"/>ṭar va<choice><orig>n</orig><reg>ṉ</reg></choice>avāciyum</l>
+                    <l n="6">cuḷḷi-c-cūḻ-matiṭ koḷḷi-p-pākkaiyum</l>
+                    <l n="7">naṇṇaṟk' arum araṇ maṇṇai-k-kaṭakkamum</l>
+                    <l n="8"><lb n="4"/>poru-kaṭal <choice><orig>i</orig><reg>ī</reg></choice>ḻatt' araicar tam muṭiyum</l>
+                    <l n="9">Āṅkavan tēviyar ōṅk' eḻil muṭiyum</l>
+                    <l n="10">muṉ<choice><orig>n</orig><reg>ṉ</reg></choice>avar pakkal te<lb n="5" break="no"/>ṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ava<choice><orig>n</orig><reg>ṉ</reg></choice> vaitta</l>
+                    <l n="11">cun=tara-muṭiyum In=tira<choice><orig>n</orig><reg>ṉ</reg></choice> āramum</l>
+                    <l n="12"><choice><sic>n=t</sic><corr>t</corr></choice>eṇ-ṭirai Īḻa-maṇṭala-muḻuvatum</l>
+                    <l n="13">Eṟi-paṭai-k kēraḷan mu<lb n="6" break="no"/>ṟaimaiyiṟ cūṭum</l>
+                    <l n="14">kula-taṉam-ākiya palar pukaḻ muṭiyum</l>
+                    <l n="15">ceṅ-katir-mālaiyuñ caṅk-atir-vēlai-t</l>
+                    <l n="16">tol<lb n="7" break="no"/>-peruṅ-kāvaṟ pala-paḻan=-tīvuñ</l>
+                    <l n="17">ceruviṟ ci<choice><orig>n</orig><reg>ṉ</reg></choice>avil irupatt' oru kāl</l>
+                    <l n="18">araicukaḷai kaṭṭa paracurāmaṉ</l>
+                    <l n="19">mēvaruñ cā<lb n="8" break="no"/>n=timat-tīv' araṇ karuti</l>
+                    <l n="20">Iruttiya cem-poṟ ṟiru-t-taku muṭiyum</l>
+                    <l n="21">mā-p-poru-taṇṭāṟ koṇṭa</l>
+                </lg>
+                <p>
+                    kō-p-para-kēcari-<hi rend="grantha">panma</hi>
+                    <lb n="9" break="no"/>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī-rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>vark=ku yāṇṭu Eṭṭ-āvatu
+                </p>
+                <p>
+                    cōḻa-maṇṭalattu Uyya-k-koṇṭār-vaḷa-nāṭṭu <add place="right">tiraimūr-nā</add>
+                    <lb n="10" break="no"/><add place="left">ṭṭu-c</add> cātta-maṅkalattu-c- cāttamaṅkalam-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> Araiya<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">rājarāja</hi><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>-āṉa vikkirama-cōḻa-c-cōḻiya-v-a
+                    <lb n="11" break="no"/>raiyar nuḷampa-pāṭi-y-āṉa nikarili-cōḻa-maṇṭalattu-k kuvaḷāla-nāṭṭu-k kuvaḷālattu-p piṭāriyārku cantirā
+                    <lb n="12" break="no"/>titta-vaṟ Erikka-kaṭavat' āka vaiytta tiru-nuntā-viḷakku Oṉṟukku vaiytta cāvā mūvā nall-erumai Aiñcum
+                </p>
+                <p>
+                    I⌈<lb n="13" break="no"/>vai it-tēvarai Ārātikkum <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇar <hi rend="grantha">kauśi</hi>ka-kōttirattu-c cornapuḷiya<choice><orig>n</orig><reg>ṉ</reg></choice>um viṉakkāla<choice><orig>n</orig><reg>ṉ</reg></choice>um Ivv-iruva
+                    <lb n="14" break="no"/>ruṅ kai-y-k-koṇṭu Erikka-kaṭava tiru-nun=tā-viḷakk' oṉṟu
+                </p>
+                <p>
+                    Itu pa<hi rend="grantha">n-māheśva</hi>rar rakṣai <g type="gomutraFinal">.</g>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>		
+                    
+                    <app loc="8">
+                        <lem>°<hi rend="grantha">panma</hi><lb n="9" break="no"/>r°</lem>
+                        <rdg source="bib:Rice1905_01">°<hi rend="grantha">pamma</hi><lb n="9" break="no"/>r°</rdg>
+                    </app>		
+                    
+                    <app loc="9">
+                        <lem><add place="right">tiraimūrnā</add><lb n="10" break="no"/><add place="left">ṭṭuc</add></lem>
+                        <note>Added on the pilasters framing the temple walls where the inscription is engraved, except for the final <foreign>c</foreign>.</note>
+                    </app>
+                    
+                    <app loc="11">
+                        <lem>cantirā<lb n="12" break="no"/>tittavaṟ</lem>
+                        <rdg source="bib:Rice1905_01">cantirā<lb n="12" break="no"/>tittavaṟa</rdg>
+                    </app>
+                    
+                    <app loc="13">
+                        <lem><hi rend="grantha">kauśi</hi>ka°</lem>
+                        <rdg source="bib:Rice1905_01">kau<hi rend="grantha">śi</hi>ka°</rdg>
+                    </app>
+                    
+                    <app loc="14">
+                        <lem>pa<hi rend="grantha">nmāheśva</hi>rar</lem>
+                        <rdg source="bib:Rice1905_01">pa<hi rend="grantha">mmāheśva</hi>rar</rdg>
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                Prosperity! Fortune!
+                </p>
+                
+                </div>-->
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 106a).</p>
+                
+                <p>This edition by Emmanuel Francis (2024), based on EFEO pictures (2004, 2017).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="EC">
+                        <ptr target="bib:Rice1905_01"/>
+                        <citedRange unit="item">Kl 106a</citedRange>
+                    </bibl>		
+                    
+                </listBibl>
+                
+                <!--<listBibl type="secondary">
+                    
+                    </listBibl>-->
+            </div>
+        </body>
+    </text>
 </TEI>
