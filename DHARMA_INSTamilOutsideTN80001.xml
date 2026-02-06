@@ -78,26 +78,35 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            	
+            <div type="edition">            	
                 
-                <ab>
-                    <lb n="1"/><hi rend="grantha">haraḥ svasti śrī</hi>
-                </ab>
-                <p>
-                    <hi rend="grantha">śa<choice><orig>g</orig><reg>k</reg></choice>ā<choice><orig>pt</orig><reg>bd</reg></choice>aM</hi> <num value="1203"><g type="numeral">1000</g> 2 <g type="numeral">100</g> 3</num> vatu cittirai
-                    <lb n="2" break="no"/>-c cittirai nāḷ
-                </p>
-                <p>                    
-                    <hi rend="grantha">śrī</hi>-cekac<choice><sic>ē</sic><corr>ai</corr></choice>kāṉ tiru-mēṉikk<unclear>u</unclear> naṉ
-                    <lb n="3" break="no"/>ṟāka Uṭaiyār tiru-k-k<unclear>ā</unclear>ṉ<choice><sic>i</sic><corr>ī</corr></choice><unclear>cu</unclear>ram-uṭaiya nāyaṉārai
-                    <lb n="4"/>Ēṟi-y aruḷa-p paṇṇiṉār campa<unclear reason="eccentric_ductus">n</unclear>tap perumāḷ
-                    <lb n="5" break="no"/>āṉa tava-c-cakkaravattikaḷ <space/>
-                </p>
-                <p>
-                    cekacaikāṉ paramā<choice><sic>ḷ</sic><corr>ṉ</corr></choice>
-                    <lb n="6"/>paṭi                    
-                </p>
-                <p xml:lang="zho" rendition="class:00000 maturity:00000"><gap reason="ellipsis"/></p>
+                <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><head>Tamil Portion</head>
+                    
+                    <ab>
+                        <lb n="1"/><hi rend="grantha">haraḥ svasti śrī</hi>
+                    </ab>
+                    <p>
+                        <hi rend="grantha">śa<choice><orig>g</orig><reg>k</reg></choice>ā<choice><orig>pt</orig><reg>bd</reg></choice>aM</hi> <num value="1203"><g type="numeral">1000</g> 2 <g type="numeral">100</g> 3</num> vatu cittirai
+                        <lb n="2" break="no"/>-c cittirai nāḷ
+                    </p>
+                    <p>                    
+                        <hi rend="grantha">śrī</hi>-cekac<choice><sic>ē</sic><corr>ai</corr></choice>kāṉ tiru-mēṉikk<unclear>u</unclear> naṉ
+                        <lb n="3" break="no"/>ṟāka Uṭaiyār tiru-k-k<unclear>ā</unclear>ṉ<choice><sic>i</sic><corr>ī</corr></choice><unclear>cu</unclear>ram-uṭaiya nāyaṉārai
+                        <lb n="4"/>Ēṟi-y aruḷa-p paṇṇiṉār campa<unclear reason="eccentric_ductus">n</unclear>tap perumāḷ
+                        <lb n="5" break="no"/>āṉa tava-c-cakkaravattikaḷ <space/>
+                    </p>
+                    <p>
+                        cekacaikāṉ paramā<choice><sic>ḷ</sic><corr>ṉ</corr></choice>
+                        <lb n="6"/>paṭi                    
+                    </p>
+                    
+                </div>
+                
+                <div type="textpart" n="B" xml:lang="zho" rendition="class:00000 maturity:00000"><head>Chinese Portion</head>                    
+                    
+                    <p><lb n="1"/><gap reason="ellipsis"/></p>
+                    
+                </div>
                 
             </div>
             
@@ -116,31 +125,35 @@
             
             <div type="translation" resp="part:emfr">
                 
-                <p n="1">
+                <div type="textpart" n="A"><head>Tamil Portion</head><p n="1">
                     Hara! Prosperity! Fortune!
                 </p>
+                    
+                    <p n="1-2">
+                        1203th Śaka year, <supplied reason="subaudible">month of</supplied> Cittirai, day of <foreign>cittirai</foreign>.
+                    </p>
+                    
+                    <p n="2-5">
+                        For the welfare of the glorious body of the glorious Cekacai Kān,
+                        Tavaccakkaravattikaḷ<note>Literally the emperor of asceticism.</note> <hi rend="italic">alias</hi> Campantapperumāḷ 
+                        made, so that he graciously rises, the Lord <supplied reason="explanation"><foreign>nāyaṉār</foreign></supplied>, lord of the Tirukkāṉīccuram.<note>That is Tamil <foreign>tiru-k-kān</foreign> + Sanskrit <foreign>īśvara</foreign>, that is, “the glorious lord of the Kāṉ.”</note>
+                    </p>
+                    
+                    <p n="6">
+                        <supplied reason="subaudible">Done</supplied> according to a <foreign>farmān</foreign> of Cekacai Kān.
+                    </p>
+                    
+                </div>
                 
-                <p n="1-2">
-                    1203th Śaka year, <supplied reason="subaudible">month of</supplied> Cittirai, day of <foreign>cittirai</foreign>.
-                </p>
-                
-                <p n="2-5">
-                    For the welfare of the glorious body of the glorious Cekacai Kān,
-                    Tavaccakkaravattikaḷ<note>Literally the emperor of asceticism.</note> <hi rend="italic">alias</hi> Campantapperumāḷ 
-                    made, so that he graciously rises, the Lord <supplied reason="explanation"><foreign>nāyaṉār</foreign></supplied>, lord of the Tirukkāṉīccuram.<note>That is Tamil <foreign>tiru-k-kān</foreign> + Sanskrit <foreign>īśvara</foreign>, that is, “the glorious lord of the Kāṉ.”</note>
-                </p>
-                
-                <p n="6">
-                    <supplied reason="subaudible">Done</supplied> according to a <foreign>farmān</foreign> of Cekacai Kān.
-                </p>
-                
-                <p><gap reason="ellipsis"/></p>
+                <div type="textpart" n="B"><head>Chinese Portion</head>
+                    <p n="1"><gap reason="ellipsis"/></p>
+                </div>
                 
             </div>            
             
             
             <div type="commentary">
-                
+                <p>The Chinese portion starts at the end of the line 6 of the Tamil portion.</p>
             </div>
             
             <div type="bibliography">
