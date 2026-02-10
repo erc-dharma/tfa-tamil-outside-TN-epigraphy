@@ -45,7 +45,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>. There are several letters akwardly written. The record was possibly engraved by a local Chinese artisan not used to Tamil script. </p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -90,8 +90,8 @@
                         <lb n="2" break="no"/>-c cittirai nāḷ
                     </p>
                     <p>                    
-                        <hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>-cekac<choice><sic>ē</sic><corr>ai</corr></choice>kāṉ tiru-mēṉikk<unclear>u</unclear> naṉ
-                        <lb n="3" break="no"/>ṟāka Uṭaiyār tiru-k-k<unclear>ā</unclear>ṉ<choice><sic>i</sic><corr>ī</corr></choice><choice><sic>ta</sic><corr>ra</corr></choice>ram-uṭaiya nāyaṉārai
+                        <hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>-cekac<choice><sic>ē</sic><corr>ai</corr></choice>kāṉ ti<unclear reason="eccentric_ductus">ru</unclear>-mēṉikk<unclear>u</unclear> naṉ
+                        <lb n="3" break="no"/>ṟāka Uṭaiyār tiru-k-k<unclear>ā</unclear>ṉ<choice><sic>i</sic><corr>ī</corr></choice><choice><sic>ta</sic><corr>ra</corr></choice>ram-uṭ<unclear reason="eccentric_ductus">ai</unclear>ya nāyaṉārai
                         <lb n="4"/>Ēṟi-y aruḷa-p paṇṇiṉār campa<choice><sic><unclear reason="eccentric_ductus">t</unclear></sic><corr>n</corr></choice>ta-p-perumāḷ
                         <lb n="5" break="no"/>āṉa tava-c-cakkaravattikaḷ <space/>
                     </p>
