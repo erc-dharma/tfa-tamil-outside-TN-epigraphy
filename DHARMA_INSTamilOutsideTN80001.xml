@@ -83,16 +83,16 @@
                 <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><head>Tamil Portion</head>
                     
                     <ab>
-                        <lb n="1"/><hi rend="grantha">haraḥ svasti śrī</hi>
+                        <lb n="1"/><hi rend="grantha">haraḥ svasti śr<choice><orig>i</orig><reg>ī</reg></choice></hi>
                     </ab>
                     <p>
                         <hi rend="grantha">śa<choice><orig>g</orig><reg>k</reg></choice>ā<choice><orig>pt</orig><reg>bd</reg></choice>aM</hi> <num value="1203"><g type="numeral">1000</g> 2 <g type="numeral">100</g> 3</num> vatu cittirai
                         <lb n="2" break="no"/>-c cittirai nāḷ
                     </p>
                     <p>                    
-                        <hi rend="grantha">śrī</hi>-cekac<choice><sic>ē</sic><corr>ai</corr></choice>kāṉ tiru-mēṉikk<unclear>u</unclear> naṉ
-                        <lb n="3" break="no"/>ṟāka Uṭaiyār tiru-k-k<unclear>ā</unclear>ṉ<choice><sic>i</sic><corr>ī</corr></choice><unclear>cu</unclear>ram-uṭaiya nāyaṉārai
-                        <lb n="4"/>Ēṟi-y aruḷa-p paṇṇiṉār campa<unclear reason="eccentric_ductus">n</unclear>tap perumāḷ
+                        <hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>-cekac<choice><sic>ē</sic><corr>ai</corr></choice>kāṉ tiru-mēṉikk<unclear>u</unclear> naṉ
+                        <lb n="3" break="no"/>ṟāka Uṭaiyār tiru-k-k<unclear>ā</unclear>ṉ<choice><sic>i</sic><corr>ī</corr></choice><choice><sic>ta</sic><corr>ra</corr></choice>ram-uṭaiya nāyaṉārai
+                        <lb n="4"/>Ēṟi-y aruḷa-p paṇṇiṉār campa<choice><sic><unclear reason="eccentric_ductus">t</unclear></sic><corr>n</corr></choice>ta-p-perumāḷ
                         <lb n="5" break="no"/>āṉa tava-c-cakkaravattikaḷ <space/>
                     </p>
                     <p>
