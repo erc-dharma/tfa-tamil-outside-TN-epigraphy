@@ -90,9 +90,9 @@
                         <lb n="2" break="no"/>-c cittirai nāḷ
                     </p>
                     <p>                    
-                        <hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>-cekac<choice><sic>ē</sic><corr>ai</corr></choice>kāṉ ti<unclear reason="eccentric_ductus">ru</unclear>-mēṉikk<unclear>u</unclear> naṉ
-                        <lb n="3" break="no"/>ṟāka Uṭaiyār tiru-k-k<unclear>ā</unclear>ṉ<choice><sic>i</sic><corr>ī</corr></choice><choice><sic>ta</sic><corr>ra</corr></choice>ram-uṭ<unclear reason="eccentric_ductus">ai</unclear>ya nāyaṉārai
-                        <lb n="4"/>Ēṟi-y aruḷa-p paṇṇiṉār campa<choice><sic><unclear reason="eccentric_ductus">t</unclear></sic><corr>n</corr></choice>ta-p-perumāḷ
+                        <hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>-cekac<choice><sic>e</sic><corr>ai</corr></choice>kāṉ ti<unclear reason="eccentric_ductus">ru</unclear>-mēṉikk<unclear>u</unclear> naṉ
+                        <lb n="3" break="no"/>ṟāka Uṭaiyār tiru-k-k<unclear>ā</unclear>ṉ<choice><sic>i</sic><corr>ī</corr></choice><choice><sic>ta</sic><corr>cu</corr></choice>ram-uṭ<unclear reason="eccentric_ductus">ai</unclear>ya nāyaṉārai
+                        <lb n="4"/>Ēṟi-y-aruḷa-p paṇṇiṉār campa<choice><sic><unclear reason="eccentric_ductus">t</unclear></sic><corr>n</corr></choice>ta-p-perumāḷ
                         <lb n="5" break="no"/>āṉa tava-c-cakkaravattikaḷ <space/>
                     </p>
                     <p>
@@ -124,6 +124,7 @@
             </div>
             
             <div type="translation" resp="part:emfr">
+                <!--add variant readings from K+S-->
                 
                 <div type="textpart" n="A"><head>Tamil Portion</head><p n="1">
                     Hara! Prosperity! Fortune!
@@ -153,21 +154,23 @@
             
             
             <div type="commentary">
-                <p>The Chinese portion starts at the end of the line 6 of the Tamil portion.</p>
+                <p>The Chinese portion starts at the end of the line 6 of the Tamil portion. It has been deciphered but defies interpretation. It might in fact not be related to the Tamil inscription.</p>
             </div>
             
             <div type="bibliography">
                 
+                <p>Edited in <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>.</p>
                 <p>This edition by Emmanuel Francis, based on published visual documentation.</p>
                 
-                <!--<listBibl type="primary">
+                <listBibl type="primary">
                     
-                    <bibl>
-                    <ptr target="bib:..."/>
-                    <citedRange unit="item">...</citedRange>
+                    <bibl n="K+S">
+                    <ptr target="bib:Karashima+Subbarayalu2009_01"/>
+                    <citedRange unit="item">15</citedRange>
+                        <citedRange unit="page">287-288</citedRange>
                     </bibl>		
                     
-                    </listBibl>-->
+                    </listBibl>
                 
                 <!--<listBibl type="secondary">
                     
