@@ -153,12 +153,12 @@
             </div>     
             
             <div type="commentary">
-                <p>The Chinese portion starts at the end of the line 6 of the Tamil portion. It has been deciphered but its interpretation is not very clear. It might in fact not be related to the Tamil inscription. See <bibl><ptr target="bib:Sen_2003_01"/></bibl> (pp. 228-229).</p>
+                <p>The Chinese portion starts at the end of the line 6 of the Tamil portion. It has been deciphered but its interpretation is not very clear. It might in fact not be related to the Tamil inscription. See <bibl><ptr target="bib:Sen_2003_01"/></bibl>.</p>
             </div>
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>.</p>
+                <p>Edited in <bibl><ptr target="bib:Subramanian1978_01"/></bibl>, <bibl><ptr target="bib:Karashima2002_03"/></bibl>, <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>. Translated in <bibl><ptr target="bib:Sen_2003_01"/></bibl>, <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>.</p>
                 <p>This edition by Emmanuel Francis, based on published visual documentation.</p>
                 
                 <listBibl type="primary">
@@ -166,6 +166,12 @@
                     <bibl n="TNS">
                         <ptr target="bib:Subramanian1978_01"/>
                     </bibl>
+                    
+                    <bibl n="K">
+                        <ptr target="bib:Karashima2002_03"/>
+                        <citedRange unit="page">16</citedRange>
+                    </bibl>	
+                    
                     <bibl n="K+S">
                         <ptr target="bib:Karashima+Subbarayalu2009_01"/>
                         <citedRange unit="item">15</citedRange>
@@ -177,6 +183,7 @@
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:Sen_2003_01"/>
+                        <citedRange unit="page">228-229</citedRange>
                     </bibl>	
                 </listBibl>
             </div>
