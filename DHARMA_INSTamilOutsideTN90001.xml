@@ -86,7 +86,7 @@
                 
                 <p>
                     <lb n="1"/><num value="1827"><g type="numeral">1000</g> 8 <g type="numeral">100</g> <unclear reason="eccentric_ductus">2</unclear> <g type="numeral">10</g> 7</num> cit
-                    <lb n="2" break="no"/>tirai <unclear reason="eccentric_ductus"><g type="tam-matam"/></unclear> 7 <unclear reason="eccentric_ductus"><g type="tēti"/></unclear></p> 
+                    <lb n="2" break="no"/>tirai <unclear reason="eccentric_ductus"><g type="tam-matam"/></unclear> 7 <unclear reason="eccentric_ductus"><g type="tam-teti"/></unclear></p> 
                 
                 <p>
                     m<choice><sic>a</sic><corr>ā</corr></choice>riyam
@@ -113,7 +113,7 @@
                     </app>
                     
                     <app loc="3">
-                        <lem><unclear reason="eccentric_ductus"><g type="tēti"/></unclear></lem>
+                        <lem><unclear reason="eccentric_ductus"><g type="tam-teti"/></unclear></lem>
                         <note>Unstandard form.</note>
                     </app>
                    
