@@ -71,16 +71,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -151,37 +148,37 @@
                     <lb n="9" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>vēḷāṉ kaṇpu * m-āṉa nirupa-cikāmaṇi-viḻupparaiyaṉai vaiyttu-k koṭa * tu Atikārikaḷ vīra-cikāmaṇi-mūvēn=tavēḷar nivan=tañ ceyta paṭi
                     tēvatānam
                     kuṟuṇi nel [...]
-                    <lb n="10"/><milestone n="A" unit="zone" type="gridlike"/>māṭai nūṟṟ’ eṇ-patt' ēḻē mūnṟu mā <g type="ddanda">.</g>
+                    <lb n="10"/><milestone n="A" unit="zone" type="gridlike"/>māṭai nūṟṟ’ eṇ-patt' ēḻē mūnṟu mā <g ref="sym:doubleBar" type="punctuation">.</g>
                 </p>
                 
                 <p>		
-                    parakkampaḷḷi māṭai Iru-nūṟṟu Iraṇṭē mā-kāṇi <g type="ddanda">.</g>
+                    parakkampaḷḷi māṭai Iru-nūṟṟu Iraṇṭē mā-kāṇi <g ref="sym:doubleBar" type="punctuation">.</g>
                     * r māṭai patt’ araiyē Oru mā
-                    va<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> kaḻai * māṉṟaṉ pa * * * Eṇ-ṇūṟṟ’ oru paṟ to * * <g type="pc">.</g>
+                    va<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> kaḻai * māṉṟaṉ pa * * * Eṇ-ṇūṟṟ’ oru paṟ to * * <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                     
                     Āka
                     
                     <lb n="11" break="no"/><milestone n="A" unit="zone" type="gridlike" break="no"/>* Aiñ-ñūṟṟ’ oru patt’ ēḻē mūnṟu mā-kāṇiyināl māṭai Onṟukku kācu Iraṇṭ' āka kācu Āyirattu mu-p-pattu nālē <choice><sic>ḻ</sic><corr>m</corr></choice>ummā v-araikku kāc’ onṟukku rā<hi rend="grantha">ja</hi> * * * * * * * * nellu * Ira * ṭi * * nellu Iraṇṭ’ āyirat [...]
                     
-                    <lb n="12"/><milestone n="A" unit="zone" type="gridlike"/>* * * nē tūṇiyināl kalaṅ kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi nā-nāḻi vāci * ṟṟi Aru-moḻi-tēvaṉ marakkālāl nellu Iraṇṭ’ āyiratt’ eṇ-ṇūṟṟu nāṟ-pattu mu-k-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē y-Iru-tūṇi mu-k-kuṟuṇikkum nivan=tañ ce<supplied reason="omitted">y</supplied>ta paṭi <g type="ddanda">.</g>		
+                    <lb n="12"/><milestone n="A" unit="zone" type="gridlike"/>* * * nē tūṇiyināl kalaṅ kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi nā-nāḻi vāci * ṟṟi Aru-moḻi-tēvaṉ marakkālāl nellu Iraṇṭ’ āyiratt’ eṇ-ṇūṟṟu nāṟ-pattu mu-k-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē y-Iru-tūṇi mu-k-kuṟuṇikkum nivan=tañ ce<supplied reason="omitted">y</supplied>ta paṭi <g ref="sym:doubleBar" type="punctuation">.</g>		
                 </p>
                 <p>
                     <list>			
                         <item>vīra-<hi rend="grantha">bhadra-de</hi>varku <hi rend="grantha">sa</hi><supplied reason="lost">n=ti</supplied> Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amu<supplied reason="lost">tu</supplied> Iraṇṭum Aṭai-k-kā-y-a<supplied reason="lost">mutu iraṇṭum</supplied>
-                            <lb n="13"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">ilai-y-a</supplied>mutu nālum <g type="danda">.</g></item>
+                            <lb n="13"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">ilai-y-a</supplied>mutu nālum <g ref="sym:bar" type="punctuation">.</g></item>
                         
-                        <item><hi rend="grantha">brahmāṇi</hi>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <g type="danda">.</g></item>
+                        <item><hi rend="grantha">brahmāṇi</hi>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <g ref="sym:bar" type="punctuation">.</g></item>
                         
                         <item><hi rend="grantha">Īśvari</hi>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici <supplied reason="lost">nā-ṉāḻiyum</supplied> kaṟi-y-amutu Iraṇṭum Aṭai-<supplied reason="lost">k-kāy-amutu Ira</supplied>ṇṭum ilai-y-amu<supplied reason="lost">tu nālum</supplied></item>
                         
-                        <item><lb n="14"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">kaumāriy</supplied>ārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-nāḻiyum kaṟi-y-amutu I<unclear>ra</unclear>ṇṭum aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <unclear><g type="danda">.</g></unclear></item>
+                        <item><lb n="14"/><milestone n="A" unit="zone" type="gridlike"/><supplied reason="lost">kaumāriy</supplied>ārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-nāḻiyum kaṟi-y-amutu I<unclear>ra</unclear>ṇṭum aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <unclear><g ref="sym:bar" type="punctuation">.</g></unclear></item>
                         
                         <item>vaiyi<hi rend="grantha">ṣṇa</hi>v<unclear>i</unclear>yārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum aṭai-k-<unclear>k</unclear><milestone n="B" unit="zone" type="gridlike" break="no"/><!--check location of milestone-->āy-amutu Iraṇṭum Ilai-y-amutu nālum</item>
                         
                         <item>vā<hi rend="grantha">rāhi</hi><unclear>y</unclear>ār<supplied reason="lost">kku</supplied> san=t<unclear>i</unclear> Oṉ<supplied reason="lost">ṟukku tiru-v-amut’ arici nā</supplied>
-                            <lb n="15" break="no"/><milestone n="A" unit="zone" type="gridlike"/>-<supplied reason="lost">nāḻiyum kaṟi</supplied>-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <unclear><g type="danda">.</g></unclear></item>
+                            <lb n="15" break="no"/><milestone n="A" unit="zone" type="gridlike"/>-<supplied reason="lost">nāḻiyum kaṟi</supplied>-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum Ilai-y-amutu nālum <unclear><g ref="sym:bar" type="punctuation">.</g></unclear></item>
                         
-                        <item>I<hi rend="grantha">ndrā</hi>ṇiyārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum ilai-y-amutu nā<milestone n="B" unit="zone" type="gridlike" break="no"/><!--check location of milestone-->lum <unclear><g type="danda">.</g></unclear></item>
+                        <item>I<hi rend="grantha">ndrā</hi>ṇiyārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut’ arici nā-ṉāḻiyum kaṟi-y-amutu Iraṇṭum Aṭai-k-kāy-amutu Iraṇṭum ilai-y-amutu nā<milestone n="B" unit="zone" type="gridlike" break="no"/><!--check location of milestone-->lum <unclear><g ref="sym:bar" type="punctuation">.</g></unclear></item>
                         
                         <item><hi rend="grantha">cā</hi>muṇṭē<hi rend="grantha">śva</hi>riyārkku <hi rend="grantha">sa</hi>n=ti Oṉṟukku tiru-v-amut-arici nā-nāḻiyu<supplied reason="lost">m</supplied> * * * * *</item>
                         
@@ -223,7 +220,7 @@
                     
                     āka
                     
-                    <hi rend="grantha">de</hi>varkaḷukku Ōr āṭṭaikku nellu Eḻu ṉūṟṟu mu-p-patt’ aiṅ-ka<milestone n="B" unit="zone" type="gridlike" break="no"/>laṉē y-iru-tūṇi-k kuṟuṇi <g type="gomutraFinal">.</g>
+                    <hi rend="grantha">de</hi>varkaḷukku Ōr āṭṭaikku nellu Eḻu ṉūṟṟu mu-p-patt’ aiṅ-ka<milestone n="B" unit="zone" type="gridlike" break="no"/>laṉē y-iru-tūṇi-k kuṟuṇi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 
                 <p>
@@ -241,7 +238,7 @@
                         
                         <item>yō<hi rend="grantha">gi</hi>nī-yō<hi rend="grantha">geśvara-pūjai</hi>kku mattiya-pānam Iru-kalattukku nel kala<milestone n="B" unit="zone" type="gridlike" break="no"/>m
                             <supplied reason="lost">A</supplied><unclear>ri</unclear><supplied reason="lost">ci</supplied>] tūṇiyi<choice><orig>n</orig><reg>ṉ</reg></choice>āl Iraṇṭ’ añc’ ākki nel iru-tūṇi-p patakku <supplied reason="lost">Āṭ’ onṟi<choice><orig>n</orig><reg>ṉ</reg></choice>āl</supplied>
-                            <lb n="25"/><milestone n="A" unit="zone" type="gridlike"/>kācu kālē Arai-k-kālukku nel kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mu-n-ṉāḻi <g type="gomutraFinal">.</g></item>
+                            <lb n="25"/><milestone n="A" unit="zone" type="gridlike"/>kācu kālē Arai-k-kālukku nel kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mu-n-ṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
                         
                         <item><hi rend="grantha">dakṣa</hi>ṇam-ayana-<hi rend="grantha">saṃkrā</hi>n=ti nā<unclear>ḷ</unclear> <hi rend="grantha">sna</hi>panam Āṭi Aruḷukaikku
                             kalacatti<choice><orig>n</orig><reg>ṉ</reg></choice> k<choice><orig>i</orig><reg>ī</reg></choice>ḻ aṭṭa nel tūṇi Arici nā-ṉāḻiyāl nel kuṟuni piratāna-kumpañ cūḻa-p puṭa<unclear>vai</unclear> Onṟukku kācu <milestone n="B" unit="zone" type="gridlike" break="no"/> Arai-k-kālukku nel tūṇi Oru-nāḻi</item>
@@ -255,7 +252,7 @@
                         
                         <item>yō<hi rend="grantha">gi</hi>ni-yō<hi rend="grantha">geśvara-pūjai</hi>kku mattiya-pānam Iru-kalattināl neṟ kalam
                             Arici tūṇiyiṉāl Iraṇṭ’ añc’ ākki nel v-iru-tūni-p patakku
-                            Āṭ’ onṟi<choice><orig>n</orig><reg>ṉ</reg></choice>āl kācu kālē Arai-k-kā<milestone n="B" unit="zone" type="gridlike" break="no"/>li[n>ṉ]āl neṟ kala[n>ṉ]ē mu-n-nāḻi [...]</item>
+                            Āṭ’ onṟi<choice><orig>n</orig><reg>ṉ</reg></choice>āl kācu kālē Arai-k-kā<milestone n="B" unit="zone" type="gridlike" break="no"/>li[n&gt;ṉ]āl neṟ kala[n&gt;ṉ]ē mu-n-nāḻi [...]</item>
                         
                         <item><lb n="28"/><milestone n="A" unit="zone" type="gridlike"/><hi rend="grantha">sū<unclear>r</unclear>yya-graha</hi>ṇattu nāḷ <hi rend="grantha"><unclear>snapa</unclear></hi>nam āṭi Aruḷukaikku
                             kalacatti<choice><orig>n</orig><reg>ṉ</reg></choice> kīḻ Aṭṭa nel tūṇi Arici nā-<choice><orig>n</orig><reg>ṉ</reg></choice>āḻiyi<choice><orig>n</orig><reg>ṉ</reg></choice>āl nel kuṟuni
