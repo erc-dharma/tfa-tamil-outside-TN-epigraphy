@@ -59,7 +59,7 @@
                     <p>
                         A
                         <lb n="A2" break="no"/>paiya-calā-me
-                        <lb n="A3" break="no"/>ka-pan<unclear><hi rend="grantha">ma</hi></unclear>r-āṉa ca
+                        <lb n="A3" break="no"/>ka-pan<hi rend="grantha"><unclear>ma</unclear></hi>r-āṉa ca
                         <lb n="A4" break="no"/>kkara-varttika
                         <lb n="A5" break="no"/>ḷ śr<choice><orig>i</orig><reg>ī</reg></choice>-<hi rend="grantha">ja</hi>ya<hi rend="grantha">bāhu</hi>
                         <lb n="A6" break="no"/>-tēvaṟkku yāṇ
@@ -134,7 +134,7 @@
                 <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:grantha maturity:vernacular"><head>Face I</head>
                     <listApp>
                         <app loc="3">
-                            <lem>pan<unclear><hi rend="grantha">ma</hi></unclear>r</lem>
+                            <lem>pan<hi rend="grantha"><unclear>ma</unclear></hi>r</lem>
                             <rdg source="bib:KanapathiPillai1962_01">panmar</rdg>
                         </app>
                         <app loc="5">
@@ -243,7 +243,7 @@
                 
                 <p>Edited in and translated <bibl><ptr target="bib:KanapathiPillai1962_01"/></bibl> with visual documentation.</p>
                 <p>Edited in <bibl><ptr target="bib:Patmanatan2006_01"/></bibl> [see <ref target="https://siddham.network/inscription/in03228/">Siddham inscription 3328</ref>].</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Pathmanathan2002_14"/></bibl>, <bibl><ptr target="bib:Pathmanathan2019_01"/></bibl>.</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Patmanatan2002_14"/></bibl>, <bibl><ptr target="bib:Pathmanathan2019_01"/></bibl>.</p>
                 
                 <p>This revised edition by Emmanuel Francis base on the published visual documentation.</p>
                 
@@ -254,7 +254,7 @@
                     </bibl>
                     
                     <bibl n="P1">
-                        <ptr target="bib:Pamanatan2002_14"/>
+                        <ptr target="bib:Patmanatan2002_14"/>
                     </bibl>
                     
                     <bibl n="P2">

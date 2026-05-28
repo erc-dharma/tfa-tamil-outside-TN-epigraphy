@@ -53,7 +53,7 @@
                 <!--Add puḷḷi-->
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                     <p>
-                        <lb n="1"/>svasti śrīḥ <supplied reason="undefined"><g type="ddanda">.</g></supplied>
+                        <lb n="1"/>svasti śrīḥ <supplied reason="undefined"><g ref="sym:ddanda" type="punctuation">.</g></supplied>
                     </p>
                     
                     <lg n="1" met="śārdūlavikrīḍita">
@@ -64,11 +64,11 @@
                         <l n="c">veḷaikkāṟa-samā<unclear>hṛtā</unclear>n tad api ta
                             <lb n="4" break="no"/>t-paryyanta-devālayān·</l>
                         <l n="d">veḷaikkāṟa-balāni pā
-                            <lb n="5" break="no"/>ntu nitarām ākalpa-sandher bhuvi <unclear><g type="danda">.</g></unclear></l>
+                            <lb n="5" break="no"/>ntu nitarām ākalpa-sandher bhuvi <unclear><g ref="sym:danda" type="punctuation">.</g></unclear></l>
                     </lg>
                     
                     <p>
-                        namo buddhāya <supplied reason="undefined"><g type="danda">.</g></supplied>
+                        namo buddhāya <supplied reason="undefined"><g ref="sym:danda" type="punctuation">.</g></supplied>
                     </p>
                 </div>
                 
@@ -133,7 +133,7 @@
                         Aṟa<supplied reason="subaudible">m</supplied> maṟavaṟka
                     </p>
                     <p>
-                        <hi rend="grantha">svasti śrī</hi> <g type="circleDouble"/>
+                        <hi rend="grantha">svasti śrī</hi> <g ref="sym:circleDouble" type="punctuation"/>
                     </p>
                 </div>
             </div>
@@ -206,7 +206,7 @@
                         </app> -->
                     <app loc="26">
                         <lem source="bib:KrishnaSastri1923_01"><hi rend="grantha">vyā</hi>riṇi</lem>
-                        <rdg source="bib:Wickremasinghe1912–1927_01"><unclear><hi rend="grantha">vyā</hi>riṇi</unclear></rdg>
+                        <rdg source="bib:Wickremasinghe1912–1927_01"><hi rend="grantha"><unclear>vyā</unclear></hi><unclear>riṇi</unclear></rdg>
                     </app>
                     <app loc="27">
                         <lem source="bib:KrishnaSastri1923_01 bib:Wickremasinghe1912–1927_01">kūṭa</lem>
@@ -238,7 +238,7 @@
             <div type="bibliography">
                 <p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/618, pp. 66, 101-102).</p>
                 
-                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (<ref target="DHARMA_INSSIIv04p0i1396">SII 4.1396</ref>). Edited and translated in <bibl><ptr target="bib:Wickremasinghe1912–1927_01"/></bibl> with visual documentation (Ep. Zeyl. 2.40 [see <ref target="https://siddham.network/inscription/in03103/">Siddham inscription 3103</ref>]). Edited and translated in <bibl><ptr target="bib:Paranavitana1925-1926_01"/></bibl> with visual documentation (EI 18.38). Edited in <bibl><ptr target="bib:Patmanatan2006_01"/></bibl>. Edited and translated in <bibl><ptr target="bib:Pamanatan2002_12"/></bibl>, <bibl><ptr target="bib:Pathmanathan2019_01"/></bibl>.</p>
+                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (<ref target="DHARMA_INSSIIv04p0i1396">SII 4.1396</ref>). Edited and translated in <bibl><ptr target="bib:Wickremasinghe1912–1927_01"/></bibl> with visual documentation (Ep. Zeyl. 2.40 [see <ref target="https://siddham.network/inscription/in03103/">Siddham inscription 3103</ref>]). Edited and translated in <bibl><ptr target="bib:Paranavitana1925-1926_01"/></bibl> with visual documentation (EI 18.38). Edited in <bibl><ptr target="bib:Patmanatan2006_01"/></bibl>. Edited and translated in <bibl><ptr target="bib:Patmanatan2002_12"/></bibl>, <bibl><ptr target="bib:Pathmanathan2019_01"/></bibl>.</p>
                 
                 <p>This revised edition by Emmanuel Francis based on published and online visual documentation.</p>
                 
