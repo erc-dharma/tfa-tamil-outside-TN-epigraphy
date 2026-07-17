@@ -10,14 +10,14 @@
 			<titleStmt>
 				<title>Kōlār, Kōlārammā, time of Parakesarivarman Rājendra Cōḻa, year 1<unclear>6</unclear></title>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>					
+					<resp key="creator">intellectual authorship of edition</resp>					
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>					
+					<resp key="contributor">EpiDoc Encoding</resp>					
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
