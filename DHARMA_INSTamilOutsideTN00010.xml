@@ -5,131 +5,124 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Kōlār, Kōlārammā, no king, no year</title>
-				<respStmt>
-					<resp key="creator">intellectual authorship of edition</resp>					
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp key="contributor">EpiDoc Encoding</resp>					
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Aubervilliers</pubPlace>
-				<idno type="filename">DHARMA_INSTamilOutsideTN00010.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2026">2019-2026</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<summary>Foundation of a pīṭam (Sanskrit pīṭha), that is an altar or a pedestal.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-05-26">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-
-<text xml:space="preserve">
-      
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            	
-	
-	<!--Check Rice's reading against EFEO pictures-->
-	<!--<choice><orig>n</orig><reg>ṉ</reg></choice>-->
-	
-	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi>		
-	</ab>	
-	
-	<p>
-		Ip-p<choice><orig>i</orig><reg>ī</reg></choice>ṭañ ceyvittān <choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭa<unclear>kku</unclear>
-		<lb n="2" break="no"/>ṭaiyāṉ mātavaṉ pōr-ēṟu
-	</p>
-	
-</div>
-	
-<div type="apparatus">
-	
-	<listApp>
-		
-		<app loc="1">
-			<lem>°p<choice><orig>i</orig><reg>ī</reg></choice>ṭañ.</lem>
-			<rdg source="bib:Rice1905_01">piṭañ</rdg>
-		</app>
-		
-		<app loc="1">
-			<lem><choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭa<unclear>kku</unclear><lb n="2" break="no"/>ṭaiyāṉ</lem>
-			<rdg source="bib:Rice1905_01">Aṇṭa<gap reason="lost" quantity="2" unit="character"/><lb n="2" break="no"/>ṭaiyāṉ</rdg>
-			<note>See <foreign><choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭakkuṭaiyāṉ</foreign> in <ref target="DHARMA_INSTamilOutsideTN00013.xml">TIOTN 13</ref> (EC 10 Kl 109b).</note>
-		</app>
-		
-	</listApp>
-</div>
-         
-<div type="translation" resp="part:emfr">
-
-	<p n="1">
-		Prosperity! Fortune!
-	</p>
-	
-	<p n="1-2">
-		He who had this <foreign>pīṭam</foreign> made <supplied reason="subaudible">is</supplied> Mātavaṉ, Lord of <choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭa<unclear>kku</unclear>ṭi, the fighting bull.
-	</p>
-	
-</div>
-
-<div type="commentary">
-           <p>The same individual—Mātavaṉ, Lord of <choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭakkuṭi, the fighting bull—is the donor of a pillar in <ref target="DHARMA_INSTamilOutsideTN00013.xml">TIOTN 13</ref> (EC 10 Kl 109b).</p>
-</div>
-	
-<div type="bibliography">
-	
-	<p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 109b).</p>
-	
-	<p>This edition by Emmanuel Francis (2024), based on EFEO pictures (2004, 2017).</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="EC">
-			<ptr target="bib:Rice1905_01"/>
-			<citedRange unit="item">Kl 109b</citedRange>
-		</bibl>		
-		
-	</listBibl>
-	
-	<!--<listBibl type="secondary">
-		
-	</listBibl>-->
-</div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kōlār, Kōlārammā temple, no king, no year</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSTamilOutsideTN00010.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Foundation of a pīṭam (Sanskrit pīṭha), that is an altar or a pedestal.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-26">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            	
+                
+                <!--Check Rice's reading against EFEO pictures-->
+                <!--<choice><orig>n</orig><reg>ṉ</reg></choice>-->
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>		
+                </ab>	
+                
+                <p>
+                    Ip-p<choice><orig>i</orig><reg>ī</reg></choice>ṭañ ceyvittān <choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭa<unclear>kku</unclear>
+                    <lb n="2" break="no"/>ṭaiyāṉ mātavaṉ pōr-ēṟu
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="1">
+                        <lem>°p<choice><orig>i</orig><reg>ī</reg></choice>ṭañ.</lem>
+                        <rdg source="bib:Rice1905_01">piṭañ</rdg>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem><choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭa<unclear>kku</unclear><lb n="2" break="no"/>ṭaiyāṉ</lem>
+                        <rdg source="bib:Rice1905_01">Aṇṭa<gap reason="lost" quantity="2" unit="character"/><lb n="2" break="no"/>ṭaiyāṉ</rdg>
+                        <note>See <foreign><choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭakkuṭaiyāṉ</foreign> in <ref target="DHARMA_INSTamilOutsideTN00013.xml">TIOTN 13</ref> (EC 10 Kl 109b).</note>
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                    Prosperity! Fortune!
+                </p>
+                
+                <p n="1-2">
+                    He who had this <foreign>pīṭam</foreign> made <supplied reason="subaudible">is</supplied> Mātavaṉ, Lord of <choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭa<unclear>kku</unclear>ṭi, the fighting bull.
+                </p>
+                
+            </div>
+            
+            <div type="commentary">
+                <p>The same individual—Mātavaṉ, Lord of <choice><unclear>A</unclear><unclear>Ā</unclear></choice>ṇṭakkuṭi, the fighting bull—is the donor of a pillar in <ref target="DHARMA_INSTamilOutsideTN00013.xml">TIOTN 13</ref> (EC 10 Kl 109b).</p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Edited and translated in <bibl><ptr target="bib:Rice1905_01"/></bibl> (EC 10 Kl 109b).</p>
+                
+                <p>This edition by Emmanuel Francis (2024), based on EFEO pictures (2004, 2017).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="EC">
+                        <ptr target="bib:Rice1905_01"/>
+                        <citedRange unit="item">Kl 109b</citedRange>
+                    </bibl>		
+                    
+                </listBibl>
+                
+                <!--<listBibl type="secondary">
+                    
+                    </listBibl>-->
+            </div>
+        </body>
+    </text>
 </TEI>
