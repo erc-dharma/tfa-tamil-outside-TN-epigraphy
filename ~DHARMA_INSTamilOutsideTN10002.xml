@@ -18,10 +18,11 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <authority>DHARMA</authority>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
                 <idno type="filename">DHARMA_INSTamilOutsideTN10002</idno>
-            </publicationStmt>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+</publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
@@ -35,7 +36,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -155,7 +156,7 @@
                         </app>
                         <app loc="13">
                             <lem>I<unclear reason="eccentric_ductus">ṭ</unclear>ṭa</lem>
-                            <rdg source="bib:KanapathiPillai1962_01">I<unclear >ṭ</unclear>ṭa</rdg>                            
+                            <rdg source="bib:KanapathiPillai1962_01">I<unclear>ṭ</unclear>ṭa</rdg>                            
                         </app>
                         <app loc="19">
                             <lem><hi rend="grantha">bā</hi>
