@@ -30,11 +30,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                        <!-- don't modify this -->
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>Inscription on a stone-slab (49,5 x 28,5 cm) recording the construction of the Māriyammaṉ temple, that is, the temple currently known as <foreign xml:lang="fra">chapelle des Casernes</foreign> or <foreign xml:lang="fra">temple des Casernes</foreign>.</summary>
                     </msContents>
