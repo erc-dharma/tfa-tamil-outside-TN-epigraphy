@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anurādhapura, bronze label</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>                
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilOutsideTN10201.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
+                    <msContents>
+                        <summary>Name of commissioner. Label on a Buddhist bronze from Jētavanārāma complex in Anurādhapura. Kept in Jētavanārāma Museum. </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-03">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <p>
+                    <lb n="1"/><hi rend="grantha">śrī</hi> nā<choice><orig>ṉ</orig><reg>n</reg></choice>ātēciyaṉ <g ref="sym:asterisk" type="symbol">*</g></p>
+                
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    
+                    <app loc="1">
+                        <lem><g ref="sym:asterisk" type="symbol">*</g></lem>
+                        <note>This punctuation mark looks like a star or an asterisk resting on the line.</note>
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">A glorious one <supplied reason="subaudible">belonging to the merchant-guild</supplied> of the Nānādeśis.</p>
+                
+            </div>
+            
+            <div type="commentary">
+                <p></p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Edited in <bibl><ptr target="bib:Pathmanathan2002_01"/></bibl> (p. 54), with a picture (p. 56).</p>
+                <p>Edited and translated here by Emmanuel Francis, based on <bibl><ptr target="bib:Pathmanathan2002_01"/></bibl> and the facsimile therein.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="R1">
+                        <ptr target="bib:Pathmanathan2002_01"/>
+                    </bibl>
+                    
+                </listBibl>	
+                
+                <!--<listBibl type="secondary"/>-->
+                
+            </div>
+        </body>
+    </text>
+</TEI>
