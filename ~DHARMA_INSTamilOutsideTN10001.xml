@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Poḷonnaruva, inscription of the Vēḷaikkāṟar</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -21,19 +21,16 @@
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
-                <idno type="filename">DHARMA_INSTamilOutsideTN10001</idno>
-            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-<date from="2019" to="2026">2019-2026</date></publicationStmt>
+                <idno type="filename">DHARMA_INSTamilOutsideTN10001.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date></publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                        <repository>as per external metadata</repository>
+                    </msIdentifier>                    
                     <msContents>
-                        <summary>
-                            
-                        </summary>
+                        <summary/>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -43,6 +40,9 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2025-12-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
             <change who="part:mime" when="2025-11-26" status="draft">Conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
@@ -194,7 +194,7 @@
                         <rdg source="bib:KrishnaSastri1923_01">virttar
                             <lb n="17" break="no"/>kku</rdg>
                     </app>
-                     <!--<app loc="19">
+                    <!--<app loc="19">
                         <lem></lem>
                         <rdg source="bib:KrishnaSastri1923_01">Uttoruḷmuḷaiyil</rdg>
                         <rdg source="bib:Wickremasinghe1912–1927_01">...</rdg>
